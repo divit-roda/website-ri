@@ -1,6 +1,8 @@
 <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBLiz7-LsU_Ghc-w2PlUJduIUR5P9tBI2c&callback=initMap&libraries=&v=weekly" defer></script> -->
 <?php
 
+// Author : Roda Indonesia
+
 // call header
 include 'page/header.php';
 
