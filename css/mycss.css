@@ -759,6 +759,7 @@ ul {
 .contact-form .form-control {
   height: 52px;
   border: 1px solid transparent;
+  
   box-shadow: var(--shadow-black-100);
   border-radius: 30px;
   padding: 0 24px;

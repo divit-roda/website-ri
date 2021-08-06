@@ -16,7 +16,30 @@
                     <p>Inovatif, Kreatif dan Produktif. Menjadi satu-satunya Aplikasi Karya Anak Nusantara yang Bergerak Mandiri Untuk Nusantara</p>
                     <!-- Jumbotron Button -->
                     <div class="jumbotron-btn">
-                        <a href="https://play.google.com/store/apps/details?id=com.rodaindonesia.riuser" target="_blank" class="btn btn-1 download-btn">Download Aplikasi</a>
+                        <a type="button" data-toggle="modal" data-target="infoapp" data-toggle="tooltip" data-placement="top" class="btn btn-1 download-btn">Download Aplikasi</a>
+                        <div class="modal fade" id="infoapp">
+                          <div class="modal-dialog">
+                            <div class="modal-content">
+                              <div class="modal-header">
+                                <h4 class="modal-title">INFORMASI</h4>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                  <span aria-hidden="true">&times;</span>
+                                </button>
+                              </div>
+                              <div class="modal-body">
+                                  <div class="card-body box-profile">
+                                      SEMENTARA APLIKASI BELUM TERSEDIA
+                                    </div>
+                              </div>
+                              <div class="modal-footer justify-content-between">
+                                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                              </div>
+                            </div>
+
+                          </div>
+
+                        </div>
+
                     </div>
                 </div>
             </div>
@@ -313,7 +336,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-8">
                 <div class="section-title">
-                    <h2>Cara <span>Memulai</span></h2>
+                    <h2>Cara <span>Mendaftar</span></h2>
                 </div>
             </div>
         </div>
@@ -357,8 +380,8 @@
                 </div>
             </div>
         </div>
-        <div class="row">
-            <div class="col-lg-5 col-md-6">
+        <div class="row justify-content-center">
+            <!-- <div class="col-lg-5 col-md-6"> // Row untuk Alamat Perushaan di hapus
                 <div class="contact-info">
                     <div class="contact-info-item">
                         <i class="ri-compass-discover-fill"></i>
@@ -392,7 +415,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <div class="col-lg-7 col-md-6">
                 <div class="contact-form">
                     <form action="">
