@@ -73,7 +73,7 @@
                             <div class="row d-flex">
                                 <div class="col-4">Technical Service</div>
                                 <div class="col-1">:</div>
-                                <div class="col-7">(0877) 1307 1972<br>(0813) 2214 6567</div>
+                                <div class="col-7">(0838) 3662 6451<br>(0813) 2214 6567</div>
                             </div>
                         </div>
                     </div>
