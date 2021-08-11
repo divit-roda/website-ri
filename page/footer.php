@@ -51,7 +51,7 @@
                 <div class="footer-info">
                     <div class="footer-info-item">
                         <i class="ri-map-pin-2-fill"></i>
-                        <p>Jl. Terusan Buah Batu No.171, Kujangsari, Kec. Bandung Kidul, Kota Bandung, Jawa Barat 40287</p>
+                        <p>Jl. Mogandi IV No.2, Kel. Malalayang Satu, Kec. Malalayang, Kota Manado, Sulawesi Utara</p>
                     </div>
                     <div class="footer-info-item">
                         <i class="ri-mail-send-fill"></i>
@@ -73,7 +73,7 @@
                             <div class="row d-flex">
                                 <div class="col-4">Technical Service</div>
                                 <div class="col-1">:</div>
-                                <div class="col-7">(0877) 1307 1972<br>(0813) 2214 6567</div>
+                                <div class="col-7">(0838) 3662 6451<br>(0813) 2214 6567</div>
                             </div>
                         </div>
                     </div>
