@@ -298,9 +298,10 @@
         <div class="row justify-content-center">
             <div class="col-md-6">
                 <div class="app-download-item">
-                    <h3>ayo bergerak bersama untuk indonesia</h3>
+                    <h3>Ayo bergerak bersama untuk indonesia</h3>
+                    <!-- Button download app-->
                     <div class="app-download-btn">
-                        <a href="https://play.google.com/store/apps/details?id=com.rodaindonesia.riuser" target="_blank" class="btn btn-1"><i class="ri-google-play-fill"></i>Play Store</a>
+                        <button type="button" data-bs-toggle="modal" data-bs-target="#ModalAppBelumTersedia" class="btn btn-1 download-btn"><i class="ri-google-play-fill"></i>Play Store</button> 
                     </div>
                 </div>
             </div>
@@ -360,41 +361,6 @@
             </div>
         </div>
         <div class="row justify-content-center">
-            <!-- <div class="col-lg-5 col-md-6"> // Row untuk Alamat Perushaan di hapus
-                <div class="contact-info">
-                    <div class="contact-info-item">
-                        <i class="ri-compass-discover-fill"></i>
-                        <h4>Alamat Perusahaan</h4>
-                        <p>Jl. Terusan Buah Batu No.171, Kujangsari, Kec. Bandung Kidul, Kota Bandung, Jawa Barat 40287</p>
-                    </div>
-                    <div class="contact-info-item">
-                        <i class="ri-mail-send-fill"></i>
-                        <h4>Email</h4>
-                        <p>cs@rodaindonesia.site</p>
-                    </div>
-                    <div class="contact-info-item">
-                        <i class="ri-phone-fill"></i>
-                        <h4>Nomor Telepon</h4>
-                        <div class="contact-detail">
-                            <div class="row">
-                                <div class="col-5">Telepon</div>
-                                <div class="col-1">:</div>
-                                <div class="col-6">(022) 2068 2586</div>
-                            </div>
-                            <div class="row">
-                                <div class="col-5">Hotline</div>
-                                <div class="col-1">:</div>
-                                <div class="col-6">(0813) 2220 5561</div>
-                            </div>
-                            <div class="row d-flex">
-                                <div class="col-5">Technical Service</div>
-                                <div class="col-1">:</div>
-                                <div class="col-6">(0877) 1307 1972<br>(0813) 2214 6567</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div> -->
             <div class="col-lg-7 col-md-6">
                 <div class="contact-form">
                     <form action="">
