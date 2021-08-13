@@ -35,11 +35,8 @@
                                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
                               </div>
                             </div>
-
                           </div>
-
                         </div>
-
                     </div>
                 </div>
             </div>
@@ -322,9 +319,10 @@
         <div class="row justify-content-center">
             <div class="col-md-6">
                 <div class="app-download-item">
-                    <h3>ayo bergerak bersama untuk indonesia</h3>
+                    <h3>Ayo bergerak bersama untuk indonesia</h3>
+                    <!-- Button download app-->
                     <div class="app-download-btn">
-                        <a href="https://play.google.com/store/apps/details?id=com.rodaindonesia.riuser" target="_blank" class="btn btn-1"><i class="ri-google-play-fill"></i>Play Store</a>
+                        <button type="button" data-bs-toggle="modal" data-bs-target="#ModalAppBelumTersedia" class="btn btn-1 download-btn"><i class="ri-google-play-fill"></i>Play Store</button> 
                     </div>
                 </div>
             </div>
@@ -432,3 +430,24 @@
     </div>
 </section>
 <!-- kontak section end -->
+
+<!-- Modal Aplikasi belum tersedia -->
+<div class="modal fade" id="ModalAppBelumTersedia" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title"><b>Tunggu yaa...</b></h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <p>Aplikasi masih dalam proses pengembangan</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End of Modal -->

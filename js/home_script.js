@@ -93,4 +93,9 @@
     $("body,html").animate({ scrollTop: 0 }, 600);
     return false;
   });
+
+  // Modal aplikasi belum tersedia
+  $('#ModalAppBelumTersedia').modal('show', function(){
+    $('#ModalAppBelumTersedia').trigger('focus')
+  });
 })(jQuery);

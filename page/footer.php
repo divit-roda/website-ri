@@ -51,7 +51,7 @@
                 <div class="footer-info">
                     <div class="footer-info-item">
                         <i class="ri-map-pin-2-fill"></i>
-                        <p>Jl. Terusan Buah Batu No.171, Kujangsari, Kec. Bandung Kidul, Kota Bandung, Jawa Barat 40287</p>
+                        <p>Jl. Mogandi IV No.2, Kel. Malalayang Satu, Kec. Malalayang, Kota Manado, Sulawesi Utara</p>
                     </div>
                     <div class="footer-info-item">
                         <i class="ri-mail-send-fill"></i>
