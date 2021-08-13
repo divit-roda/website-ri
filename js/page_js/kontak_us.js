@@ -1,5 +1,6 @@
     //Maps Init
-    var map1 = L.map('maps').setView([1.4547428, 124.8155885], 18);
+    var map1 = L.map('maps').setView([1.454751506773432, 124.81777689390417], 18);
+    // 1.4547428,124.81723
 
     // Maps Layer
     L.tileLayer(
@@ -19,6 +20,6 @@
     });
     var iconMap = new LeafIcon({ iconUrl: "assets/icon/marker.png" });
 
-    L.marker([1.4547428, 124.8155885], { icon: iconMap }).addTo(
+    L.marker([1.454751506773432, 124.81777689390417], { icon: iconMap }).addTo(
       map1
     );
