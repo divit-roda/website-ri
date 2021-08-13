@@ -10,7 +10,7 @@
             <div class="col-12 col-lg-7 text-lg-start">
                 <div class="jumbotron-text">
                     <!-- Description -->
-                    <h3>RIBike</h3>
+                    <!-- <h3>RIBike</h3> -->
                     <h1>Transportasi Online Roda Dua</h1>
                 </div>
             </div>
@@ -34,7 +34,7 @@
 <section class="rijek-explain section-padding">
     <div class="container mt-100px text-center">
         <div class="section-title">
-            <!-- <h4 class="mt-5 mt-md-0">RIBike</h4> -->
+            <h4 class="mt-5 mt-md-0">RIBike</h4>
             <h2 class="mt-2 mt-md-0" class="fw-bold text-center">CEPAT, TEPAT, SELAMAT SAMPAI TUJUAN</h2>
         </div>
         <div class="rijek-explain-text">

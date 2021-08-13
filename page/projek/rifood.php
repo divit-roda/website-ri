@@ -10,7 +10,8 @@
             <div class="col-12 col-lg-7 text-lg-start">
                 <div class="jumbotron-text">
                     <!-- Description -->
-                    <h1>Pengantar Makanan</h1>
+                    <!-- <h3>Projek Roda Indonesia</h3> -->
+                    <h1>pengantaran makanan</h1>
                 </div>
             </div>
             <div class="col-12 col-lg-5 text-center">

@@ -14,12 +14,30 @@
                     <h1>Roda Indonesia</h1>
                     <!-- Heading -->
                     <p>Inovatif, Kreatif dan Produktif. Menjadi satu-satunya Aplikasi Karya Anak Nusantara yang Bergerak Mandiri Untuk Nusantara</p>
-                    
                     <!-- Jumbotron Button -->
                     <div class="jumbotron-btn">
-                        <button type="button" data-bs-toggle="modal" data-bs-target="#ModalAppBelumTersedia" class="btn btn-1 download-btn">Download Aplikasi</button>
+                        <a type="button" data-toggle="modal" data-target="#exampleModal" data-toggle="modal" data-placement="top" class="btn btn-1 download-btn">Download Aplikasi</a>
+                        <div class="modal in" id="#exampleModal">
+                          <div class="modal-dialog">
+                            <div class="modal-content">
+                              <div class="modal-header">
+                                <h4 class="modal-title">INFORMASI</h4>
+                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                  <span aria-hidden="true">&times;</span>
+                                </button>
+                              </div>
+                              <div class="modal-body">
+                                  <div class="card-body box-profile">
+                                      SEMENTARA APLIKASI BELUM TERSEDIA
+                                    </div>
+                              </div>
+                              <div class="modal-footer justify-content-between">
+                                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
                     </div>
-
                 </div>
             </div>
             <div class="col-12 col-lg-5 text-center">
@@ -273,6 +291,9 @@
                 </div>
                 <div class="support-item">
                     <img src="assets/logo/rtiga_512px.png" class="w-75 grayscale" alt="" srcset="">
+                </div>
+                <div class="support-item">
+                    <img src="assets/logo/gbsrilogos.png" class="w-75 grayscale" alt="" srcset="">
                 </div>
             </div>
         </div>
