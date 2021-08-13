@@ -16,6 +16,7 @@
     <link rel="stylesheet" type="text/css" href="plugins/aos/aos.css">
     <link rel="stylesheet" type="text/css" href="plugins/owlCarousel/owl.carousel.min.css">
     <link rel="stylesheet" type="text/css" href="css/mycss.css">
+    
 
     <?php
     $page = @$_GET['page'];

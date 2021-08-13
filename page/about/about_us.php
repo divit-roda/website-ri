@@ -146,7 +146,8 @@
                     <div class="col-md-7 col-lg-4">
                         <div class="bagan-item level-1 line-right d-flex align-items-center">
                             <div class="d-flex align-items-center justify-content-center flex-column">
-                                <p class="tim-section-jabatan"><strong>CEO / FOUNDER RI</strong></p>
+                                <p class="tim-section-jabatan"><strong>CEO / FOUNDER RI</strong></p></b>
+                                <p class="tim-section-jabatan">Anneke S.L., S.Psi., M.M., AJP</p>
                             </div>
                         </div>
                     </div>
@@ -157,7 +158,8 @@
                             <div class="bagan-item level-1-5 line-right secertary d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                                 <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Corp Secretary</strong></p>
+                                    <p class="tim-section-jabatan"><strong>Corp Secretary</strong></p></b>
+                                    <p class="tim-section-jabatan">Febricca V. Dirk</p>
                                 </div>
                             </div>
                         </div>
@@ -165,7 +167,8 @@
                             <div class="bagan-item level-1-5 line-right legal d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                                 <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Corp Lawyer</strong></p>
+                                    <p class="tim-section-jabatan"><strong>Corp Lawyer</strong></p></b>
+                                    <p class="tim-section-jabatan">Yuniarti Chandra, S.H., M.H.</p>
                                 </div>
                             </div>
                         </div>
@@ -177,7 +180,8 @@
                             <div class="bagan-item level-1-5 line-right legal d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                                 <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Consultant</strong></p>
+                                    <p class="tim-section-jabatan"><strong>Consultant</strong></p></b>
+                                    <p class="tim-section-jabatan">Alfianne A.D.P., S.A.</p>
                                 </div>
                             </div>
                         </div>
@@ -190,7 +194,8 @@
                     <div class="bagan-item d-flex align-items-center">
                         <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                         <div class="d-flex align-items-center justify-content-center flex-column">
-                            <p class="tim-section-jabatan"><strong>COO</strong></p>
+                            <p class="tim-section-jabatan"><strong>COO</strong></p></b>
+                            <p class="tim-section-jabatan">Arsyi Raspaty Wibawa</p>
                         </div>
                     </div>
                     <ol class="level-3-wrapper">
@@ -198,7 +203,8 @@
                             <div class="bagan-item level-3 line-right d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                                 <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Admin & Head Driver</strong></p>
+                                    <p class="tim-section-jabatan"><strong>Admin & Head Driver</strong></p></b>
+                                    <p class="tim-section-jabatan">Hilman Sulaeman</p>
                                 </div>
                             </div>
                         </li>
@@ -214,17 +220,19 @@
                             <div class="bagan-item level-3 line-right d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                                 <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Human Capital & Development</strong></p>
+                                    <p class="tim-section-jabatan"><strong>Human Capital & Development</strong></p></b>
+                                    <p class="tim-section-jabatan">Everline Valoury M.</p>
                                 </div>
                             </div>
                         </li>
                     </ol>
                 </li>
-                <li class="level-2-finance line-right position-relative">
+                <li class="level-2-finance line-right position-relative my-md-5 my-lg-0">
                     <div class="bagan-item d-flex align-items-center">
                         <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                         <div class="d-flex align-items-center justify-content-center flex-column">
-                            <p class="tim-section-jabatan"><strong>CFO</strong></p>
+                            <p class="tim-section-jabatan"><strong>CFO</strong></p></b>
+                            <p class="tim-section-jabatan">Ning Wahyuni,N S.E., M.M.</p>
                         </div>
                     </div>
                     <ol class="level-3-wrapper">
@@ -240,25 +248,35 @@
                             <div class="bagan-item level-3 line-right d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                                 <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Accounting</strong></p>
+                                    <p class="tim-section-jabatan"><strong>Accounting</strong></p></b>
+                                    <p class="tim-section-jabatan">Yuli Nurhayati</p>
                                 </div>
                             </div>
                         </li>
-                        <li>
+                        <!-- <li>
+                            <div class="bagan-item level-3 line-right d-flex align-items-center">
+                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
+                                <div class="d-flex align-items-center justify-content-center flex-column">
+                                    <p class="tim-section-jabatan"><strong>Test</strong></p>
+                                </div>
+                            </div>
+                        </li> -->
+                        <!-- <li>
                             <div class="bagan-item level-3 line-right d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                                 <div class="d-flex align-items-center justify-content-center flex-column">
                                     <p class="tim-section-jabatan"><strong>Tax</strong></p>
                                 </div>
                             </div>
-                        </li>
+                        </li> -->
                     </ol>
                 </li>
                 <li class="level-2-it line-right position-relative my-md-5 my-lg-0">
                     <div class="bagan-item d-flex align-items-center">
                         <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                         <div class="h-100 d-flex align-items-center justify-content-center flex-column">
-                            <p class="tim-section-jabatan"><strong>CTO</strong></p>
+                            <p class="tim-section-jabatan"><strong>CTO</strong></p></b>
+                            <p class="tim-section-jabatan">Faisal Yahya</p>
                         </div>
                     </div>
                     <ol class="level-3-wrapper">
@@ -266,7 +284,8 @@
                             <div class="bagan-item level-3 line-right d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                                 <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Programmer</strong></p>
+                                    <p class="tim-section-jabatan"><strong>Programmer</strong></p></b>
+                                    <p class="tim-section-jabatan">Gita Suciana R.</p>
                                 </div>
                             </div>
                         </li>
@@ -274,7 +293,8 @@
                             <div class="bagan-item level-3 line-right d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                                 <div class="h-100 d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Creative Multimedia</strong></p>
+                                    <p class="tim-section-jabatan"><strong>Creative Multimedia</strong></p></b>
+                                    <p class="tim-section-jabatan">Satrya Eka P.</p>
                                 </div>
                             </div>
                         </li>
@@ -282,7 +302,8 @@
                             <div class="bagan-item level-3 line-right d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                                 <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>System Analyst</strong></p>
+                                    <p class="tim-section-jabatan"><strong>System Analyst</strong></p></b>
+                                    <p class="tim-section-jabatan">Rian Rahmawan</p>
                                 </div>
                             </div>
                         </li>
@@ -292,7 +313,8 @@
                     <div class="bagan-item d-flex align-items-center">
                         <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                         <div class="h-100 d-flex align-items-center justify-content-center flex-column">
-                            <p class="tim-section-jabatan"><strong>CMO</strong></p>
+                            <p class="tim-section-jabatan"><strong>CMO</strong></p></b>
+                            <p class="tim-section-jabatan">James Herbet Karisoh</p>
                         </div>
                     </div>
                     <!-- <ol class="level-3-wrapper">

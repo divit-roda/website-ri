@@ -10,7 +10,7 @@
             <div class="col-12 col-lg-7 text-lg-start">
                 <div class="jumbotron-text">
                     <!-- Description -->
-                    <h3>Projek Roda Indonesia</h3>
+                    <!-- <h3>Projek Roda Indonesia</h3> -->
                     <h1>Marketplace</h1>
                 </div>
             </div>
@@ -34,7 +34,7 @@
 <section class="mart-explain section-padding">
     <div class="container">
         <div class="section-title">
-            <!-- <h4>RIMart</h4> -->
+            <h4>RIMart</h4>
             <h2>Transaksi belanja online</h2>
         </div>
         <div class="mart-explain-text">

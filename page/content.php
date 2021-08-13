@@ -16,8 +16,8 @@
                     <p>Inovatif, Kreatif dan Produktif. Menjadi satu-satunya Aplikasi Karya Anak Nusantara yang Bergerak Mandiri Untuk Nusantara</p>
                     <!-- Jumbotron Button -->
                     <div class="jumbotron-btn">
-                        <a type="button" data-toggle="modal" data-target="infoapp" data-toggle="tooltip" data-placement="top" class="btn btn-1 download-btn">Download Aplikasi</a>
-                        <div class="modal fade" id="infoapp">
+                        <a type="button" data-toggle="modal" data-target="#exampleModal" data-toggle="modal" data-placement="top" class="btn btn-1 download-btn">Download Aplikasi</a>
+                        <div class="modal in" id="#exampleModal">
                           <div class="modal-dialog">
                             <div class="modal-content">
                               <div class="modal-header">
@@ -295,6 +295,9 @@
                 <div class="support-item">
                     <img src="assets/logo/rtiga_512px.png" class="w-75 grayscale" alt="" srcset="">
                 </div>
+                <div class="support-item">
+                    <img src="assets/logo/gbsrilogos.png" class="w-75 grayscale" alt="" srcset="">
+                </div>
             </div>
         </div>
     </div>
@@ -381,41 +384,6 @@
             </div>
         </div>
         <div class="row justify-content-center">
-            <!-- <div class="col-lg-5 col-md-6"> // Row untuk Alamat Perushaan di hapus
-                <div class="contact-info">
-                    <div class="contact-info-item">
-                        <i class="ri-compass-discover-fill"></i>
-                        <h4>Alamat Perusahaan</h4>
-                        <p>Jl. Terusan Buah Batu No.171, Kujangsari, Kec. Bandung Kidul, Kota Bandung, Jawa Barat 40287</p>
-                    </div>
-                    <div class="contact-info-item">
-                        <i class="ri-mail-send-fill"></i>
-                        <h4>Email</h4>
-                        <p>cs@rodaindonesia.site</p>
-                    </div>
-                    <div class="contact-info-item">
-                        <i class="ri-phone-fill"></i>
-                        <h4>Nomor Telepon</h4>
-                        <div class="contact-detail">
-                            <div class="row">
-                                <div class="col-5">Telepon</div>
-                                <div class="col-1">:</div>
-                                <div class="col-6">(022) 2068 2586</div>
-                            </div>
-                            <div class="row">
-                                <div class="col-5">Hotline</div>
-                                <div class="col-1">:</div>
-                                <div class="col-6">(0813) 2220 5561</div>
-                            </div>
-                            <div class="row d-flex">
-                                <div class="col-5">Technical Service</div>
-                                <div class="col-1">:</div>
-                                <div class="col-6">(0877) 1307 1972<br>(0813) 2214 6567</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div> -->
             <div class="col-lg-7 col-md-6">
                 <div class="contact-form">
                     <form action="">
