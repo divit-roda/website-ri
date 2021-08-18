@@ -10,7 +10,7 @@
             <div class="col-12 col-lg-7 text-center text-lg-start">
                 <div class="jumbotron-text">
                     <!-- Description -->
-                    <h3>Roda Indonesia</h3>
+                    <!-- <h3>Roda Indonesia</h3> -->
                     <h1>Tentang Kami</h1>
                 </div>
             </div>
@@ -67,13 +67,13 @@
 <section class="visi-misi-section section-padding">
     <div class="container">
         <div class="section-title">
-            <h2><span>Visi</span> dan <span>Misi</span> Roda Indonesia</h2>
+            <h2><span>Visi</span> dan <span>Misi</span></h2>
         </div>
         <div class="accordion visi-misi-arc" id="accordionExample">
             <div class="accordion-item">
                 <h2 class="accordion-header" id="headingOne">
                     <button class="accordion-button btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                        Visi Roda Indonesia
+                        Visi
                     </button>
                 </h2>
                 <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
@@ -88,7 +88,7 @@
             <div class="accordion-item my-4">
                 <h2 class="accordion-header" id="headingTwo">
                     <button class="accordion-button btn-2 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                        Misi Roda Indonesia
+                        Misi
                     </button>
                 </h2>
                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
@@ -116,12 +116,12 @@
             <h2 class="mt-1" class="text-center"><span>Certificate</span> Roda Indonesia</h2>
         </div>
         <div class="owl-carousel sertifikat-carousel">
-            <div class="sertifikat-item">
+            <!-- <div class="sertifikat-item">
                 <img src="assets/gambar/legal/s_nib.jpg" alt="" srcset="">
-            </div>
-            <div class="sertifikat-item">
+            </div> -->
+            <!-- <div class="sertifikat-item">
                 <img src="assets/gambar/legal/s_pse.jpeg" alt="" srcset="">
-            </div>
+            </div> -->
             <div class="sertifikat-item">
                 <img src="assets/gambar/legal/s_merk.jpeg" alt="" srcset="">
             </div>
@@ -138,7 +138,7 @@
 <section class="bagan-section section-padding">
     <div class="container">
         <div class="section-title">
-            <h2 class="text-center"><span>Bagan Struktur</span> Roda Indonesia</h2>
+            <h2 class="text-center"><span>Bagan Struktur</span> </h2>
         </div>
         <div class="big-vertical-line position-relative">
             <div class="level-1-wrapper position-relative">
@@ -212,7 +212,8 @@
                             <div class="bagan-item level-3 line-right d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                                 <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Head Marketing</strong></p>
+                                    <p class="tim-section-jabatan"><strong>Human Capital & Development</strong></p></b>
+                                    <p class="tim-section-jabatan">Everline Valoury M.</p>
                                 </div>
                             </div>
                         </li>
@@ -220,8 +221,8 @@
                             <div class="bagan-item level-3 line-right d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                                 <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Human Capital & Development</strong></p></b>
-                                    <p class="tim-section-jabatan">Everline Valoury M.</p>
+                                    <p class="tim-section-jabatan"><strong>Head Marketing</strong></p></b>
+                                    
                                 </div>
                             </div>
                         </li>
@@ -240,7 +241,8 @@
                             <div class="bagan-item level-3 line-right d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                                 <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Purchasing</strong></p>
+                                    <p class="tim-section-jabatan"><strong>Accounting</strong></p></b>
+                                    <p class="tim-section-jabatan">Yuli Nurhayati</p>
                                 </div>
                             </div>
                         </li>
@@ -248,8 +250,8 @@
                             <div class="bagan-item level-3 line-right d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                                 <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Accounting</strong></p></b>
-                                    <p class="tim-section-jabatan">Yuli Nurhayati</p>
+                                    <p class="tim-section-jabatan"><strong>Purchasing</strong></p></b>
+                                    
                                 </div>
                             </div>
                         </li>
@@ -314,7 +316,7 @@
                         <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                         <div class="h-100 d-flex align-items-center justify-content-center flex-column">
                             <p class="tim-section-jabatan"><strong>CMO</strong></p></b>
-                            <p class="tim-section-jabatan">James Herbet Karisoh</p>
+                            <p class="tim-section-jabatan">Gita Gartina Poeradiredja</p>
                         </div>
                     </div>
                     <!-- <ol class="level-3-wrapper">
@@ -520,10 +522,10 @@
     <div class="container text-center">
         <div class="section-title">
             <p class="mt-md-0 text-white"><strong>Ayo Jadi Bagian dari Kami</strong></p>
-            <h2 class="mt-md-0 text-center text-white"><strong>DAFTAR KOORD WIL. RI NUSANTARA</strong></h2>
+            <h2 class="mt-md-0 text-center text-white"><strong>DAFTAR KOORD WILAYAH NUSANTARA</strong></h2>
         </div>
         <div class="daftar-korwil-text mt-3 text-center">
-            <p class="text-justify text-md-center text-break text-white">Untuk mengajukan diri sebagai Koordinator Wilayah RI, untuk mendapatkan penjelasan dan pengarahan, bisa klik ke tombol di bawah.</p>
+            <p class="text-justify text-md-center text-break text-white">Untuk mengajukan diri sebagai Koordinator Wilayah serta mendapatkan penjelasan dan pengarahan, bisa klik ke tombol di bawah.</p>
         </div>
         <div class="daftar-korwil-btn">
             <a href="?page=kontak">
