@@ -24,7 +24,7 @@
   z-index: 0;
 }
 .page-jumbotron .jumbotron-text h1 {
-  font-size: 45px;
+  /*font-size: 45px;*/
   color: #fff;
   margin: 0 0 20px;
   font-family: "FredokaOneFont";
@@ -61,32 +61,6 @@
   font-size: 200px;
   color: rgba(255, 255, 255, 0.5);
 }
-.page-jumbotron .jumbotron-img {
-  position: relative;
-}
-.page-jumbotron .jumbotron-img .circle {
-  position: absolute;
-  z-index: 1;
-  height: 300px;
-  width: 300px;
-  top: 50%;
-  left: 50%;
-  border: 1px solid #ffffff33;
-  border-radius: 50%;
-  transform: translate(-50%, -50%);
-}
-.page-jumbotron .jumbotron-img .circle:before {
-  content: "";
-  position: absolute;
-  height: 50px;
-  width: 50px;
-  background-color: rgba(255, 255, 255, 0.5);
-  border-radius: 50%;
-  left: 20px;
-  top: 20px;
-  transform-origin: 130px 130px;
-  animation: spin_01 7s linear infinite;
-}
 
 /* risend Explain */
 .risend-explain .section-title{
@@ -101,34 +75,4 @@
   font-size: 15px;
   line-height: 26px;
   color: #555;
-}
-
-/* risend Features */
-.risend-features .risend-feature-item {
-  position: relative;
-  padding-left: 55px;
-  margin-bottom: 15px;
-}
-.risend-features .risend-feature-item i {
-  position: absolute;
-  height: 40px;
-  width: 40px;
-  top: 0;
-  left: 0;
-  border-radius: 50%;
-  font-size: 15px;
-  color: var(--main-color);
-  border: 1px solid var(--main-color);
-  text-align: center;
-  line-height: 38px;
-}
-.risend-features .risend-feature-item p {
-  font-size: 15px;
-  font-weight: 300;
-  margin: 0;
-  padding-top: 7px;
-  line-height: 26px;
-  color: var(--black-400);
-  font-family: 'RobotoFont', sans-serif;
-  text-transform: capitalize;
 }

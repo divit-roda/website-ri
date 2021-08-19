@@ -5,7 +5,7 @@
         <i class="ri-checkbox-blank-circle-line effect effect-3"></i>
     </div>
     <div class="container ">
-        <div class="row align-items-center">
+        <div class="row align-items-center text-center">
             <div class="col-12 col-lg-7 text-lg-start">
                 <div class="jumbotron-text">
                     <!-- Description -->
@@ -19,9 +19,9 @@
                 </div>
             </div>
             <div class="col-12 col-lg-5 text-center">
-                <div class="jumbotron-img">
+                <div class="jumbotron-img logofitur">
                     <div class="circle"></div>
-                    <i class="ri-question-answer-line"></i>
+                    <img src="assets/icon/richat.png" alt="logo richat">
                 </div>
             </div>
         </div>
@@ -38,12 +38,10 @@
 <section class="richat-explain section-padding">
     <div class="container mt-100px">
         <div class="section-title">
-            <h4 class="mt-5 mt-md-0">RIChat</h4>
-            <h2 class="mt-2 mt-md-0" class="fw-bold text-center">keep in touch with everyone whitout worries</h2>
+            <h3 class="mt-5 mt-md-0"><span>RIChat</span></h3>
         </div>
         <div class="richat-explain-text">
-            <p class="text-justify text-md-center text-break">Aplikasi RICHAT hadir sebagai sarana untuk saling berkirim pesan kepada sesama pengguna aplikasi Roda Indonesia agar dapat terjalin komunikasi yang baik, mudah dan praktis. dilengkapi tombol darurat yang dapat digunakan saat anda dalam situasi terancam bahaya.
-            </p>
+            <p>Aplikasi <b>RIChat</b> hadir sebagai sarana untuk saling berkirim pesan kepada sesama pengguna aplikasi <b>Roda Indonesia</b> agar dapat terjalin komunikasi yang baik, mudah dan praktis. <b>RIChat</b> dilengkapi dengan tombol darurat yang dapat digunakan saat Anda berada situasi darurat. <b>RIChat</b> membangun ruang bergaul digital bagi kelancaran interaksi Anda sebagai pengguna <b>Aplikasi Nusantara</b> dengan atmosfir interaksi masyarakat Indonesia.</p>
         </div>
         <div class="richat-img">
             <div class="row">
