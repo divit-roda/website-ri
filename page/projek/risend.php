@@ -6,7 +6,7 @@
         <i class="ri-checkbox-blank-circle-line effect effect-3"></i>
     </div>
     <div class="container ">
-        <div class="row align-items-center">
+        <div class="row align-items-center text-center">
             <div class="col-12 col-lg-7 text-lg-start">
                 <div class="jumbotron-text">
                     <!-- Description -->
@@ -14,9 +14,9 @@
                 </div>
             </div>
             <div class="col-12 col-lg-5 text-center">
-                <div class="jumbotron-img">
+                <div class="jumbotron-img logofitur">
                     <div class="circle"></div>
-                    <i class="ri-inbox-unarchive-line"></i>
+                    <img src="assets/icon/risend.png" alt="logo risend">
                 </div>
             </div>
         </div>
@@ -33,23 +33,25 @@
 <section class="risend-explain section-padding">
     <div class="container mt-100px">
         <div class="section-title">
-            <h4 class="mt-5 mt-md-0">RISend</h4>
-            <h2 class="mt-2 mt-md-0" class="fw-bold text-center">kirim barang...?? Just RISEND no ribet...!!!</h2>
+            <h3 class="mt-5 mt-md-0"><span>RISend</span></h3>
         </div>
-        <div class="risend-explain-text">
-            <p class="text-justify text-md-center text-break">RISEND hadir ditengah masyarakat yang membutuhkan jasa pengantaran barang dalam sekala kecil bahkan sekala besar, tanpa harus memikirkan resiko kerusakan pada barang yang dikirimkan. tenaga terlatih RISEND akan siap mengantarkan barang kiriman dengan cepat ke tujuan.
-            </p>
+        <div class="risend-explain-text mb-5">
+            <p><b>RISend</b> hadir ditengah masyarakat yang membutuhkan jasa pengantaran barang dalam skala kecil maupun skala besar, tanpa harus memikirkan resiko kerusakan pada barang yang dikirimkan. Tenaga terlatih <b>RISend</b> siap mengantarkan barang kiriman dengan cepat ke tujuan. <b>Jasa Kurir</b> jemput dan antar dapat digunakan untuk konsumen, usaha rumahan, UMKM maupun paket-paket dalam kota atau antar kota dengan harga yang bersaing. Pelayanan kami sebagai mitra untuk kepuasan konsumen pelanggan Anda</p>
         </div>
-        <div class="risend-features px-2 px-md-4 pt-4">
-            <div class="risend-feature-item">
+
+        <div class="section-title mb-0">
+            <h3 class="mb-0">Fitur-fitur <span>RISend</span></h3>
+        </div>
+        <div class="project-features px-2 px-md-4 pt-4">
+            <div class="list-feature">
                 <i class="ri-hand-coin-fill"></i>
                 <p>Biaya dapat disesuaikan kebutuhan</p>
             </div>
-            <div class="risend-feature-item">
+            <div class="list-feature">
                 <i class="ri-user-heart-fill"></i>
                 <p>Tenaga pengantar terlatih dan terbaik</p>
             </div>
-            <div class="risend-feature-item">
+            <div class="list-feature">
                 <i class="ri-hand-heart-fill"></i>
                 <p>Proses mudah dan cepat</p>
             </div>

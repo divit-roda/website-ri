@@ -15,7 +15,7 @@
                 </div>
             </div>
             <div class="col-12 col-lg-5 text-center">
-                <div class="jumbotron-img">
+                <div class="jumbotron-img logofitur">
                     <div class="circle"></div>
                     <i class="ri-team-fill"></i>
                 </div>

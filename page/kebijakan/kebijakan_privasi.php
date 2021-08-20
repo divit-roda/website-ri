@@ -39,7 +39,7 @@
         <div class="privacy-text text-justify text-md-start">
 
             <p>
-                PT. Malesung Minaesa Dwipantara membuat aplikasi Roda Indonesia sebagai aplikasi Gratis. LAYANAN ini disediakan oleh PT. Malesung Minaesa Dwipantara tanpa biaya dan dimaksudkan untuk digunakan sebagaimana adanya.
+                PT. Ngaasan Taas Niatean membuat aplikasi Roda Indonesia sebagai aplikasi Gratis. Layanan ini disediakan oleh PT. Ngaasan Taas Niatean tanpa biaya dan dimaksudkan untuk digunakan sebagaimana adanya.
             </p>
             <p>
                 Halaman ini digunakan untuk memberi tahu pengunjung mengenai kebijakan kami dengan pengumpulan, penggunaan, dan pengungkapan Informasi Pribadi jika ada yang memutuskan untuk menggunakan Layanan kami.

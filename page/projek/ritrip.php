@@ -5,7 +5,7 @@
         <i class="ri-checkbox-blank-circle-line effect effect-3"></i>
     </div>
     <div class="container ">
-        <div class="row align-items-center">
+        <div class="row align-items-center text-center">
             <div class="col-12 col-lg-7 text-lg-start">
                 <div class="jumbotron-text">
                     <!-- Description -->
@@ -13,9 +13,9 @@
                 </div>
             </div>
             <div class="col-12 col-lg-5 text-center">
-                <div class="jumbotron-img">
+                <div class="jumbotron-img logofitur">
                     <div class="circle"></div>
-                    <i class="ri-road-map-fill"></i>
+                    <img src="assets/icon/ritrip.png" alt="logo ritrip">
                 </div>
             </div>
         </div>
@@ -32,43 +32,19 @@
 <section class="ritrip-explain section-padding">
     <div class="container mt-100px">
         <div class="section-title">
-            <h4 class="mt-5 mt-md-0">RITrip</h4>
-            <h2 class="mt-2 mt-md-0" class="fw-bold text-center">pelayanan terbaik untuk perjalanan anda</h2>
+            <h3 class="mt-5 mt-md-0"><span>RITrip</span></h3>
         </div>
-        <div class="ritrip-explain-text">
-            <p>RITRIP adalah satu terobosan inovatif untuk anda yang ingin melakukan perjalan privasi bersama pasangan, keluarga, atau pun rekan team kerja anda. Untuk satu moment perjalanan atau yang terjadwal setiap hari baik personal ataupun massal.
+        <div class="ritrip-explain-text mb-5">
+            <p><b>RITrip</b> melayani Anda yang ingin melakukan perjalan privasi bersama pasangan, keluarga, atau pun rekan kerja Anda. Untuk satu moment perjalanan atau yang terjadwal setiap hari baik personal ataupun massal. Jalan-jalan dan liburan Anda akan lebih seru dengan informasi yang lengkap serta paket-paket wisata lokal bersama driver pribadi Anda. Anda akan didamping <b>Tour Guide</b> bersertifikat yang dapat memandu dan mengatur perjalanan Anda menjadi lebih terencana dan istimewa.
             </p>
-            <!-- <p>
-                Saat ini Roda Indonesia menjalin kerjasama dengan NAD Trans untuk keperluan Promotion.
-            </p>
-            <a href="https://www.nindhiyaadidharma.co.id/">
-                <p>https://www.nindhiyaadidharma.co.id/</p>
-            </a> -->
         </div>
-        <!-- <div class="ritrip-img section-padding">
-            <div class="logo text-center">
-                <img src="assets/gambar/nad-travel/nda_logo.jpg" alt="" srcset="">
-            </div>
-            <div class="row">
-                <div class="owl-carousel ritrip-carousel">
-                    <div class="ritrip-item">
-                        <img src="assets/gambar/nad-travel/gallery-1.jpg" alt="" srcset="">
-                    </div>
-                    <div class="ritrip-item">
-                        <img src="assets/gambar/nad-travel/gallery-2.jpg" alt="" srcset="">
-                    </div>
-                    <div class="ritrip-item">
-                        <img src="assets/gambar/nad-travel/gallery-3.jpg" alt="" srcset="">
-                    </div>
-                    <div class="ritrip-item">
-                        <img src="assets/gambar/nad-travel/gallery-4.png" alt="" srcset="">
-                    </div>
-                </div>
-            </div>
-        </div> -->
-        <div class="row ritrip-features justify-content-center">
+
+        <div class="section-title mb-0">
+            <h3 class="mb-0">Fitur-fitur <span>RITrip</span></h3>
+        </div>
+        <div class="row project-features justify-content-center">
             <div class="col-10 col-md-4 pt-4">
-                <div class="ritrip-feature-item">
+                <div class="thumbnail-feature">
                     <div class="icon">
                         <i class="ri-coupon-3-fill"></i>
                     </div>
@@ -76,7 +52,7 @@
                 </div>
             </div>
             <div class="col-10 col-md-4 pt-4">
-                <div class="ritrip-feature-item">
+                <div class="thumbnail-feature">
                     <div class="icon">
                         <i class="ri-hotel-fill"></i>
                     </div>
@@ -84,7 +60,7 @@
                 </div>
             </div>
             <div class="col-10 col-md-4 pt-4">
-                <div class="ritrip-feature-item">
+                <div class="thumbnail-feature">
                     <div class="icon">
                         <i class="ri-bus-wifi-fill"></i>
                     </div>
