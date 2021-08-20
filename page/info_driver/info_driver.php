@@ -10,7 +10,7 @@
             <div class="col-12 col-lg-7 text-lg-start">
                 <div class="jumbotron-text">
                     <!-- Description -->
-                    <h3>Roda Indonesia</h3>
+                    <!-- <h3>Roda Indonesia</h3> -->
                     <h1>Informasi Driver</h1>
                     <div class="jumbotron-btn">
 
@@ -81,7 +81,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-10">
                 <div class="section-title">
-                    <h2><span>Driver</span> Roda Indonesia</h2>
+                    <h2><span>Driver</span></h2>
                 </div>
             </div>
         </div>
@@ -95,7 +95,7 @@
             </div>
             <div class="col-md-7 d-flex justify-content-center flex-column">
                 <div class="driver-attribut-text">
-                    <h2 class="mt-2 mt-md-0 fw-bold"><strong>Jaket Driver Motor</strong></h2>
+                    <h2 class="mt-2 mt-md-0 fw-bold"><strong>Jaket</strong></h2>
                     <div class="body-slogan mt-3">
                         <p class="text-justify text-break">Dibuat dengan bahan berkualitas dilengkapi bahan reflektor yg menyala di malam hari saat tersorot cahaya lampu kendaraan lain.</p>
                     </div>
@@ -119,7 +119,7 @@
             </div>
             <div class="col-md-7 d-flex justify-content-center flex-column">
                 <div class="driver-attribut-text">
-                    <h2 class="mt-2 mt-md-0 fw-bold"><strong>Helm Driver Motor</strong></h2>
+                    <h2 class="mt-2 mt-md-0 fw-bold"><strong>Helm</strong></h2>
                     <div class="body-slogan mt-3">
                         <p class="text-justify text-break">Dibuat dengan standar SNI, nyaman dipakai dan pas dikepala.</p>
                     </div>
@@ -142,7 +142,7 @@
             </div>
             <div class="col-md-7 d-flex justify-content-center flex-column">
                 <div class="driver-attribut-text">
-                    <h2 class="mt-2 mt-md-0 fw-bold"><strong>Rompi Driver Motor</strong></h2>
+                    <h2 class="mt-2 mt-md-0 fw-bold"><strong>Rompi</strong></h2>
                     <div class="body-slogan mt-3">
                         <p class="text-justify text-break">Design yang modis membuat semakin percaya diri saat bertugas.</p>
                     </div>
