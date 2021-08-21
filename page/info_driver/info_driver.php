@@ -20,10 +20,10 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-lg-5 text-center hide-logo">
-                <div class="jumbotron-img">
+            <div class="col-12 col-lg-5 text-center">
+                <div class="jumbotron-img logofitur">
                     <div class="circle"></div>
-                    <i class="ri-taxi-wifi-fill"></i>
+                    <img src="assets/icon/risend.png" alt="logo risend">
                 </div>
             </div>
         </div>

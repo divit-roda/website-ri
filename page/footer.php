@@ -6,7 +6,7 @@
         <div class="row mt-5">
 
             <!--First column-->
-            <div class="col-12 col-md-5 pe-0 pe-md-5 pb-4">
+            <div class="col-12 col-md-5 px-auto pe-md-5 pb-4">
                 <div class="page-footer-img">
                     <img src="assets/logo/logo.png" width="100px" alt="">
                 </div>

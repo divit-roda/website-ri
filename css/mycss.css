@@ -49,13 +49,13 @@ body {
   background-color: white;
   line-height: 1.5;
 }
-p{
-  text-align: justify;
-}
 * {
   margin: 0;
   padding: 0;
   outline: none !important;
+}
+p{
+  text-align: justify;
 }
 img {
   max-width: 100%;
@@ -986,7 +986,7 @@ footer a:hover {
   background-color: #1b1d1f;
   margin-top: 100px;
 }
-footer .footer-info-item {
+.footer-info-item {
   position: relative;
   padding-left: 40px;
   margin-bottom: 20px;
@@ -1175,7 +1175,7 @@ Responsive
   .contact-info-item p {
     font-size: 15px;
   }
-  p{
+  .desc{
     padding-left: 10px;
     padding-right: 10px;
   }
