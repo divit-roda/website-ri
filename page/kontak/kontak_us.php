@@ -16,7 +16,7 @@
                     <h1>Hubungi Kami</h1>
                 </div>
             </div>
-            <div class="col-12 col-lg-5 text-center default-logo">
+            <div class="col-12 col-lg-5 text-center default-logo-box">
                 <div class="jumbotron-img logofitur">
                     <div class="circle"></div>
                     <i class="ri-mail-line"></i>

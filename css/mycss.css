@@ -1097,6 +1097,14 @@ Responsive
       rgb(111, 26, 28)
     );
   }
+  .logo-box{
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+  .default-logo-box{
+    margin-top: 60px;
+    margin-bottom: 100px;
+  }
 
   .dropdown-menu {
     background: rgb(111, 26, 28);
@@ -1137,9 +1145,15 @@ Responsive
   .jumbotron-img i {
     font-size: 80px;
   }
-
+  .jumbotron-text{
+    margin-top: 60px;
+  }
   .jumbotron-text h1 {
     font-size: 35px;
+    line-height: 140%;
+  }
+  .judul-project{
+    margin-top: 80px;
   }
 
   .one-touch .section-title {
@@ -1192,7 +1206,13 @@ Responsive
   }
   .jumbotron-text {
     margin-top: 30px;
-    margin-bottom: 30px;
+  }
+  .judul-project{
+    margin-top: 80px;
+  }
+  .logo-box{
+    margin-top: 30px;
+    margin-bottom: 60px;
   }
 }
 @media (max-width: 575px) {
@@ -1216,5 +1236,13 @@ Responsive
     left: 7px;
     top: 7px;
     transform-origin: 67px 67px;
+  }
+  .logo-box{
+    margin-top: 30px;
+    margin-bottom: 40px;
+  }
+  .default-logo-box{
+    margin-top: 40px;
+    margin-bottom: 40px;
   }
 }

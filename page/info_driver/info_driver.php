@@ -8,7 +8,7 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-12 col-lg-7 text-lg-start text-center">
-                <div class="jumbotron-text">
+                <div class="jumbotron-text judul-project">
                     <!-- Description -->
                     <!-- <h3>Roda Indonesia</h3> -->
                     <h1>Informasi Driver</h1>
@@ -20,7 +20,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-lg-5 text-center">
+            <div class="col-12 col-lg-5 text-center logo-box">
                 <div class="jumbotron-img logofitur">
                     <div class="circle"></div>
                     <img src="assets/icon/risend.png" alt="logo risend">

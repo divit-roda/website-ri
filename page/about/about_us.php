@@ -14,7 +14,7 @@
                     <h1>Tentang Kami</h1>
                 </div>
             </div>
-            <div class="col-12 col-lg-5 text-center">
+            <div class="col-12 col-lg-5 text-center default-logo-box">
                 <div class="jumbotron-img logofitur">
                     <div class="circle"></div>
                     <i class="ri-team-fill"></i>

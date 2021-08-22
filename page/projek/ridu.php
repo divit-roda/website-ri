@@ -7,12 +7,12 @@
     <div class="container ">
         <div class="row align-items-center text-center">
             <div class="col-12 col-lg-7 text-lg-start">
-                <div class="jumbotron-text">
+                <div class="jumbotron-text judul-project">
                     <!-- Description -->
                     <h1>Layanan Edukasi</h1>
                 </div>
             </div>
-            <div class="col-12 col-lg-5 text-center">
+            <div class="col-12 col-lg-5 text-center logo-box">
                 <div class="jumbotron-img logofitur">
                     <div class="circle"></div>
                     <img src="assets/icon/ridu.png" alt="logo ridu">

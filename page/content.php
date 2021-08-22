@@ -13,7 +13,7 @@
                     <h3>Selamat Datang di</h3>
                     <h1>Roda Indonesia</h1>
                     <!-- Heading -->
-                    <p>Hemat, Cerdas dan Bersahabat. Menjadi satu-satunya Aplikasi Karya Anak Nusantara yang Bergerak Mandiri Untuk Indonesia</p>
+                    <p class="text-center">Hemat, Cerdas dan Bersahabat. Menjadi satu-satunya Aplikasi Karya Anak Nusantara yang Bergerak Mandiri Untuk Indonesia</p>
                     
                     <!-- Jumbotron Button -->
                     <div class="jumbotron-btn">
