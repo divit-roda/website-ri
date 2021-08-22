@@ -39,8 +39,8 @@
                 <div class="ridu-img text-center">
                     <img src="assets/gambar/ridu/ridu-img.jpg" alt="" srcset="">
                 </div>
-                <div class="ridu-desc pt-lg-0">
-                    <p><b>RIDu</b> menyediakan fasilitas <b>Edukasi</b> untuk membuka mindset <b>Entrepreneur</b> masyarakat. Keuntungan lain bagi konsumen, produsen maupun driver untuk mendapatkan paket <b>Pendidikan</b> dan <b>Pelatihan</b> yang meliputi informasi pengembangan usaha, serta pelatihan produk-produk yang disajikan bersama para ahli di bidangnya masing-masing (kuliner, bisnis, entertainment, dll). Kegiatan ini akan menjadi jenjang karier Anda sebagai trainer bagi driver untuk rekan–rekan driver lainnya.</p>
+                <div class="ridu-desc desc">
+                    <p>RIDu menyediakan fasilitas Edukasi untuk membuka mindset Entrepreneur masyarakat. Keuntungan lain bagi konsumen, produsen maupun driver untuk mendapatkan paket Pendidikan dan Pelatihan yang meliputi informasi pengembangan usaha, serta pelatihan produk-produk yang disajikan bersama para ahli di bidangnya masing-masing (kuliner, bisnis, entertainment, dll). Kegiatan ini akan menjadi jenjang karier Anda sebagai trainer bagi driver untuk rekan–rekan driver lainnya.</p>
                 </div>
             </div>
 
@@ -50,35 +50,35 @@
             <div class="project-features px-2 px-md-4 pt-4">
                 <div class="list-feature">
                     <i class="ri-screenshot-fill"></i>
-                    <p>Kreatif Multimedia</p>
+                    <p>Kreatif Multimedia.</p>
                 </div>
                 <div class="list-feature">
                     <i class="ri-recycle-fill"></i>
-                    <p>Kerajinan Daur Ulang</p>
+                    <p>Kerajinan Daur Ulang.</p>
                 </div>
                 <div class="list-feature">
                     <i class="ri-mac-line"></i>
-                    <p>Komputer Office</p>
+                    <p>Komputer Office.</p>
                 </div>
                 <div class="list-feature">
                     <i class="ri-tools-fill"></i>
-                    <p>Service Kendaraan</p>
+                    <p>Service Kendaraan.</p>
                 </div>
                 <div class="list-feature">
                     <i class="ri-android-fill"></i>
-                    <p>Pembuatan Aplikasi Android</p>
+                    <p>Pembuatan Aplikasi Android.</p>
                 </div>
                 <div class="list-feature">
                     <i class="ri-video-fill"></i>
-                    <p>Editing Video</p>
+                    <p>Editing Video.</p>
                 </div>
                 <div class="list-feature">
                     <i class="ri-artboard-fill"></i>
-                    <p>Seni Lukis</p>
+                    <p>Seni Lukis.</p>
                 </div>
                 <div class="list-feature">
                     <i class="ri-boxing-fill"></i>
-                    <p>Beladiri</p>
+                    <p>Beladiri.</p>
                 </div>
             </div>
         </div>

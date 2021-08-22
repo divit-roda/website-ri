@@ -81,3 +81,9 @@
   margin: 20px 0;
   color: #000;
 }
+
+@media (max-width: 991px){
+  .privacy .privacy-text h5{
+    text-align: center;
+  }
+}

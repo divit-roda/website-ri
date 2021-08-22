@@ -36,8 +36,8 @@
         <div class="section-title">
             <h3 class="mt-5 mt-md-0"><span>RIFood</span></h3>
         </div>
-        <div class="rifood-explain-text mb-5">
-            <p><b>RIFood</b> menyediakan berbagai macam makanan dan jajanan hasil olahan UMKM ataupun merchant ternama. Seluruh UMKM yang menjadi produsen makanan di <b>RIFood</b> dibimbing dan berada di bawah pengawasan <b>Lab Kitchen</b> (barisan chef berpengalaman) sehinga kualitas kebersihan dan kenikmatan rasa terjamin. Makanan-makanan lokal siap dipesan dan diantar oleh driver berlangganan Anda.</p>
+        <div class="rifood-explain-text mb-5 desc">
+            <p>RIFood menyediakan berbagai macam makanan dan jajanan hasil olahan UMKM ataupun merchant ternama. Seluruh UMKM yang menjadi produsen makanan di RIFood dibimbing dan berada di bawah pengawasan Lab Kitchen (barisan chef berpengalaman) sehinga kualitas kebersihan dan kenikmatan rasa terjamin. Makanan-makanan lokal siap dipesan dan diantar oleh driver berlangganan Anda.</p>
         </div>
 
         <div class="section-title mb-0">
@@ -46,23 +46,19 @@
         <div class="project-features px-2 px-md-4 pt-4">
             <div class="list-feature">
                 <i class="ri-hand-heart-fill"></i>
-                <p>Biaya pengiriman terjangkau</p>
+                <p>Biaya pengiriman terjangkau.</p>
             </div>
             <div class="list-feature">
-                <i class="ri-restaurant-2-fill"></i>
+                <i class="ri-smartphone-fill"></i>
                 <p>Wisata kuliner dalam genggaman tanpa keluar rumah.</p>
             </div>
             <div class="list-feature">
-                <i class="ri-hand-coin-fill"></i>
-                <p>Proses pembayaran mudah</p>
-            </div>
-            <div class="list-feature">
                 <i class="ri-restaurant-fill"></i>
-                <p>Tersedia segala jenis <b>Kuliner Khas Daerah</b> di seluruh wilayah Indonesia.</p>
+                <p>Tersedia segala jenis Kuliner Khas Daerah dari seluruh wilayah Indonesia.</p>
             </div>
             <div class="list-feature">
                 <i class="ri-checkbox-multiple-fill"></i>
-                <p>UMKM produsen makanan di <b>RIFood</b> dibimbing dan berada di bawah pengawasan <b>Lab Kitchen</b></p>
+                <p>Dibimbing dan berada di bawah pengawasan Lab Kitchen.</p>
             </div>
         </div>
     </div>

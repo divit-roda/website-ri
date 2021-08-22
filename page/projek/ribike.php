@@ -35,8 +35,8 @@
         <div class="section-title">
             <h3 class="mt-5 mt-md-0"><span>RIBike</span></h3>
         </div>
-        <div class="rijek-explain-text mb-5">
-            <p><b>RIBike</b> adalah fitur transportasi online roda dua yang siap mengantarkan penumpang di area sekitar, dengan cepat, tepat, serta tetap mengutamakan keselamatan. <b>RIBike</b> menjadi salah satu alternatif transportasi berbasis online bagi mereka yg dituntut serba cepat dalam aktifitasnya. Terdapat fitur <b>Driver Berlangganan</b> untuk memberikan kenyamanan, dan keamanan bagi penumpang. Potongan yang lebih layak serta diproteksi oleh asuransi untuk driver. Serta tersedia <b>Paket Mingguan</b> dan <b>Bulanan</b> bagi penumpang dengan harga yang menarik dan terjangkau untuk memudahkan mengatur pengeluaran transportasi Anda.
+        <div class="rijek-explain-text mb-5 desc">
+            <p>RIBike adalah fitur transportasi online roda dua yang siap mengantarkan penumpang di area sekitar, dengan cepat, tepat, serta tetap mengutamakan keselamatan. RIBike menjadi salah satu alternatif transportasi berbasis online bagi mereka yg dituntut serba cepat dalam aktifitasnya. Terdapat fitur Driver Berlangganan untuk memberikan kenyamanan, dan keamanan bagi penumpang. Potongan yang lebih layak untuk driver serta diproteksi oleh asuransi. Serta tersedia Paket Mingguan dan Bulanan bagi penumpang dengan harga yang menarik dan terjangkau untuk memudahkan mengatur pengeluaran transportasi Anda.
             </p>
         </div>
 
@@ -46,27 +46,27 @@
         <div class="project-features px-2 px-md-4 pt-4">
             <div class="list-feature">
                 <i class="info-icon ri-wallet-3-fill"></i>
-                <p>Biaya disesuaikan demi memberi keuntungan untuk <b>Driver</b> dan <b>Penumpang</b>.</p>
+                <p>Biaya disesuaikan demi memberi keuntungan untuk driver dan penumpang.</p>
             </div>
             <div class="list-feature">
                 <i class="info-icon ri-e-bike-fill"></i>
-                <p>User bisa memilih <b>Tipe Kendaraan</b>, atau memilih <b>Driver</b> yang dikenal.</p>
+                <p>Penumpang bisa memilih tipe kendaraan, atau memilih driver yang dikenal.</p>
             </div>
             <div class="list-feature">
                 <i class="info-icon ri-user-follow-fill"></i>
-                <p><b>Driver langganan</b>. User dapat menentukan sendiri driver yang diinginkan.</p>
+                <p>Driver langganan. Penumpang dapat menentukan sendiri driver yang diinginkan.</p>
             </div>
             <div class="list-feature">
                 <i class="info-icon ri-contacts-fill"></i>
-                <p><b>Nama Driver</b> dan <b>Plat Nomer Kendaraan</b> tercantum untuk mengidentifikasi driver jika terjadi tindak kejahatan.</p>
+                <p>Nama driver dan plat Nomer Kendaraan tercantum untuk mengidentifikasi driver jika terjadi tindak kejahatan.</p>
             </div>
             <div class="list-feature">
                 <i class="info-icon ri-pin-distance-fill"></i>
-                <p>Terdapat <b>Filter Jarak</b> untuk memudahkan user mendapatkan driver yang diinginkan <b>Di Mana Pun</b>.</p>
+                <p>Terdapat filter jarak untuk memudahkan penumpang mendapatkan driver yang diinginkan di mana pun.</p>
             </div>
             <div class="list-feature">
                 <i class="info-icon ri-user-voice-fill"></i>
-                <p>Semua permasalahan pelayanan bisa diselesaikan <b>Langsung Di Lapangan</b>, sehingga proses administratif <b>Tidak Bertele-tele</b>.</p>
+                <p>Semua permasalahan pelayanan bisa diselesaikan langsung di lapangan, sehingga proses administratif tidak bertele-tele.</p>
             </div>
         </div>
     </div>

@@ -36,7 +36,7 @@
         <div class="section-title">
             <h3 class="text-center" class="fw-bold text-justify text-md-start">Kebijakan Privasi</h3>
         </div>
-        <div class="privacy-text text-justify text-md-start">
+        <div class="privacy-text text-md-start desc">
 
             <p>
                 PT. Ngaasan Taas Niatean membuat aplikasi Roda Indonesia sebagai aplikasi Gratis. Layanan ini disediakan oleh PT. Ngaasan Taas Niatean tanpa biaya dan dimaksudkan untuk digunakan sebagaimana adanya.

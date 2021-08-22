@@ -40,8 +40,8 @@
         <div class="section-title">
             <h3 class="mt-5 mt-md-0"><span>RIChat</span></h3>
         </div>
-        <div class="richat-explain-text">
-            <p>Aplikasi <b>RIChat</b> hadir sebagai sarana untuk saling berkirim pesan kepada sesama pengguna aplikasi <b>Roda Indonesia</b> agar dapat terjalin komunikasi yang baik, mudah dan praktis. <b>RIChat</b> dilengkapi dengan tombol darurat yang dapat digunakan saat Anda berada situasi darurat. <b>RIChat</b> membangun ruang bergaul digital bagi kelancaran interaksi Anda sebagai pengguna <b>Aplikasi Nusantara</b> dengan atmosfir interaksi masyarakat Indonesia.</p>
+        <div class="richat-explain-text desc">
+            <p>Aplikasi RIChat hadir sebagai sarana untuk saling berkirim pesan kepada sesama pengguna aplikasi Roda Indonesia agar dapat terjalin komunikasi yang baik, mudah dan praktis. RIChat dilengkapi dengan tombol darurat yang dapat digunakan saat Anda berada situasi darurat. RIChat membangun ruang bergaul digital bagi kelancaran interaksi Anda sebagai pengguna Aplikasi Nusantara dengan atmosfir interaksi masyarakat Indonesia.</p>
         </div>
         <div class="richat-img">
             <div class="row">

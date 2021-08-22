@@ -33,7 +33,7 @@
 
 <section class="privacy section-padding">
     <div class="container">
-        <div class="service-features">
+        <div class="service-features desc">
             <div class="service-feature-item">
                 <div class="section-title">
                     <h3>Transportasi Online Roda Dua (RIBIKE)</h3>

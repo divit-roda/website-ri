@@ -34,9 +34,8 @@
         <div class="section-title">
             <h3 class="mt-5 mt-md-0"><span>RITrip</span></h3>
         </div>
-        <div class="ritrip-explain-text mb-5">
-            <p><b>RITrip</b> melayani Anda yang ingin melakukan perjalan privasi bersama pasangan, keluarga, atau pun rekan kerja Anda. Untuk satu moment perjalanan atau yang terjadwal setiap hari baik personal ataupun massal. Jalan-jalan dan liburan Anda akan lebih seru dengan informasi yang lengkap serta paket-paket wisata lokal bersama driver pribadi Anda. Anda akan didamping <b>Tour Guide</b> bersertifikat yang dapat memandu dan mengatur perjalanan Anda menjadi lebih terencana dan istimewa.
-            </p>
+        <div class="ritrip-explain-text mb-5 desc">
+            <p>RITrip melayani Anda yang ingin melakukan perjalan privasi bersama pasangan, keluarga, atau pun rekan kerja Anda. Untuk satu moment perjalanan atau yang terjadwal setiap hari baik personal ataupun massal. Jalan-jalan dan liburan Anda akan lebih seru dengan informasi yang lengkap serta paket-paket wisata lokal bersama driver pribadi Anda. Anda akan didamping Tour Guide bersertifikat yang dapat memandu dan mengatur perjalanan Anda menjadi lebih terencana dan istimewa.</p>
         </div>
 
         <div class="section-title mb-0">

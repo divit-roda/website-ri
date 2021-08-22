@@ -36,8 +36,8 @@
         <div class="section-title">
             <h3 class="mt-5 mt-md-0"><span>RIMart</span></h3>
         </div>
-        <div class="mart-explain-text mb-5">
-            <p><b>RIMart</b> adalah fitur <b>Marketplace</b> yang memfasilitasi proses transaksi Jual Beli Online. <b>RIMart</b> memfasilitasi penjualan produk dengan <b>Branding</b> sehingga produk dapat dijangkau konsumen dengan mudah dan terpercaya. <b>RIMart</b> telah bekerjasama dengan pemerintah-pemerintah daerah dalam mendapatkan data penjualan yang bermanfaat untuk wirausaha Anda. <b>RIMart</b> juga menyediakan informasi harga produk yang bersaing untuk konsumen <b>Roda Indonesia</b> di setiap wilayah terdekat.</p>
+        <div class="mart-explain-text mb-5 desc">
+            <p>RIMart adalah fitur Marketplace yang memfasilitasi proses transaksi Jual Beli Online. RIMart memfasilitasi penjualan produk dengan Branding sehingga produk dapat dijangkau konsumen dengan mudah dan terpercaya. RIMart telah bekerjasama dengan pemerintah-pemerintah daerah dalam mendapatkan data penjualan yang bermanfaat untuk wirausaha Anda. RIMart juga menyediakan informasi harga produk yang bersaing untuk konsumen Roda Indonesia di setiap wilayah terdekat.</p>
         </div>
 
         <div class="section-title mb-0">
@@ -46,23 +46,23 @@
         <div class="project-features px-2 px-md-4 pt-4">
             <div class="list-feature">
                 <i class="ri-shopping-cart-2-fill"></i>
-                <p>Menjembatani <b>Wirausaha</b> dengan <b>Konsumen</b> di seluruh wilayah Indonesia.</p>
+                <p>Menjembatani Wirausaha dengan konsumen di seluruh wilayah Indonesia.</p>
             </div>
             <div class="list-feature">
                 <i class="ri-shopping-bag-fill"></i>
-                <p>Memfasilitasi penjualan produk dengan <b>Branding</b>.</p>
+                <p>Memfasilitasi penjualan produk dengan Branding.</p>
             </div>
             <div class="list-feature">
                 <i class="ri-store-3-fill"></i>
-                <p>Menyediakan <b>Marketplace</b> untuk produk-produk yang dijual.</p>
+                <p>Menyediakan Marketplace untuk produk-produk yang dijual.</p>
             </div>
             <div class="list-feature">
                 <i class="ri-service-fill"></i>
-                <p>Memudahkan pembayaran <b>Cash On Delivery</b> melalui fitur <b>RISend</b>.</p>
+                <p>Memudahkan pembayaran Cash On Delivery melalui fitur RISend.</p>
             </div>
             <div class="list-feature">
                 <i class="ri-money-dollar-circle-fill"></i>
-                <p>Proses transaksi yang <b>Mudah</b>, <b>Aman</b>, dan <b>Terpercaya</b>.</p>
+                <p>Proses transaksi yang Mudah, Aman, dan Terpercaya.</p>
             </div>
         </div>
     </div>
