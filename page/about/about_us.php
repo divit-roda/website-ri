@@ -37,7 +37,7 @@
             <h2 class="mt-1" class="text-center"><span>RODA</span> INDONESIA</h2>
         </div>
         <div class="company-profile-text text-lg-center desc">
-            <p>RODA INDONESIA (RI) adalah Aplikasi murni karya anak Nusantara yang menyediakan layanan dan kemudahan untuk mendapatkan bermacam kebutuhan dalam kegiatan sehari-hari. mulai dari kebutuhan tranportasi berbagai macam kendaraan transportasi, makanan, jajanan, edukasi, berita, dan bermacam produk lainnya, yang akan dengan mudah didapat hanya dengan SATU SENTUHAN UNTUK SEMUA.</p>
+            <p>RODA INDONESIA (RI) adalah Aplikasi murni karya anak Nusantara yang menyediakan layanan dan kemudahan untuk mendapatkan bermacam kebutuhan dalam kegiatan sehari-hari. mulai dari kebutuhan tranportasi berbagai macam kendaraan transportasi, makanan, jajanan, edukasi, berita, dan bermacam produk lainnya, yang akan dengan mudah didapat hanya dengan SATU SENTUHAN.</p>
         </div>
     </div>
 </section>
@@ -231,7 +231,7 @@
                         </div>
                     </div>
                     <ol class="level-3-wrapper">
-                        <li>
+                    <li>
                             <div class="bagan-item level-3 line-right d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                                 <div class="d-flex align-items-center justify-content-center flex-column">
@@ -244,8 +244,7 @@
                             <div class="bagan-item level-3 line-right d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                                 <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Purchasing</strong></p></b>
-                                    
+                                    <p class="tim-section-jabatan"><strong>Purchasing.</strong></p></b>
                                 </div>
                             </div>
                         </li>
@@ -272,8 +271,8 @@
                         <li>
                             <div class="bagan-item level-3 line-right d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                                <div class="h-100 d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Creative Multimedia</strong></p></b>
+                                <div class="d-flex align-items-center justify-content-center flex-column">
+                                    <p class="tim-section-jabatan"><strong>Creative Multimedia</strong></p>     
                                     <p class="tim-section-jabatan">Satrya Eka P.</p>
                                 </div>
                             </div>
@@ -282,7 +281,7 @@
                             <div class="bagan-item level-3 line-right d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                                 <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>System Analyst</strong></p></b>
+                                    <p class="tim-section-jabatan"><strong>System Analyst</strong></p>
                                     <p class="tim-section-jabatan">Rian Rahmawan</p>
                                 </div>
                             </div>
