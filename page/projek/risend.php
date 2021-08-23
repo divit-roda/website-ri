@@ -8,12 +8,12 @@
     <div class="container ">
         <div class="row align-items-center text-center">
             <div class="col-12 col-lg-7 text-lg-start">
-                <div class="jumbotron-text">
+                <div class="jumbotron-text judul-project">
                     <!-- Description -->
                     <h1>Pengiriman Barang</h1>
                 </div>
             </div>
-            <div class="col-12 col-lg-5 text-center">
+            <div class="col-12 col-lg-5 text-center logo-box">
                 <div class="jumbotron-img logofitur">
                     <div class="circle"></div>
                     <img src="assets/icon/risend.png" alt="logo risend">
@@ -35,8 +35,8 @@
         <div class="section-title">
             <h3 class="mt-5 mt-md-0"><span>RISend</span></h3>
         </div>
-        <div class="risend-explain-text mb-5">
-            <p><b>RISend</b> hadir ditengah masyarakat yang membutuhkan jasa pengantaran barang dalam skala kecil maupun skala besar, tanpa harus memikirkan resiko kerusakan pada barang yang dikirimkan. Tenaga terlatih <b>RISend</b> siap mengantarkan barang kiriman dengan cepat ke tujuan. <b>Jasa Kurir</b> jemput dan antar dapat digunakan untuk konsumen, usaha rumahan, UMKM maupun paket-paket dalam kota atau antar kota dengan harga yang bersaing. Pelayanan kami sebagai mitra untuk kepuasan konsumen pelanggan Anda</p>
+        <div class="risend-explain-text mb-5 desc">
+            <p>RISend hadir ditengah masyarakat yang membutuhkan jasa pengantaran barang dalam skala kecil maupun skala besar, tanpa harus memikirkan resiko kerusakan pada barang yang dikirimkan. Tenaga terlatih RISend siap mengantarkan barang kiriman dengan cepat ke tujuan. Jasa Kurir jemput dan antar dapat digunakan untuk konsumen, usaha rumahan, UMKM maupun paket-paket dalam kota atau antar kota dengan harga yang bersaing. Pelayanan kami sebagai mitra untuk kepuasan konsumen pelanggan Anda</p>
         </div>
 
         <div class="section-title mb-0">
@@ -45,15 +45,15 @@
         <div class="project-features px-2 px-md-4 pt-4">
             <div class="list-feature">
                 <i class="ri-hand-coin-fill"></i>
-                <p>Biaya dapat disesuaikan kebutuhan</p>
+                <p>Biaya dapat disesuaikan kebutuhan.</p>
             </div>
             <div class="list-feature">
                 <i class="ri-user-heart-fill"></i>
-                <p>Tenaga pengantar terlatih dan terbaik</p>
+                <p>Tenaga pengantar terlatih dan terbaik.</p>
             </div>
             <div class="list-feature">
                 <i class="ri-hand-heart-fill"></i>
-                <p>Proses mudah dan cepat</p>
+                <p>Proses mudah dan cepat.</p>
             </div>
         </div>
     </div>

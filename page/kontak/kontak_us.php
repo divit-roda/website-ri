@@ -9,14 +9,14 @@
     </div>
     <div class="container ">
         <div class="row align-items-center">
-            <div class="col-12 col-lg-7 text-center text-lg-start">
+            <div class="col-12 col-lg-7 text-center text-lg-start judul-halaman">
                 <div class="jumbotron-text">
                     <!-- Description -->
                     <h3>Roda Indonesia</h3>
                     <h1>Hubungi Kami</h1>
                 </div>
             </div>
-            <div class="col-12 col-lg-5 text-center default-logo">
+            <div class="col-12 col-lg-5 text-center default-logo-box">
                 <div class="jumbotron-img logofitur">
                     <div class="circle"></div>
                     <i class="ri-mail-line"></i>
@@ -135,7 +135,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="row">
+                        <div class="row btn-kirim-pesan">
                             <div class="col-lg-12">
                                 <button type="submit" class="btn btn-2">Kirim Pesan</button>
                             </div>

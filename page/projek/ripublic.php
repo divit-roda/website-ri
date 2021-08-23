@@ -8,13 +8,13 @@
     <div class="container ">
         <div class="row align-items-center text-center">
             <div class="col-12 col-lg-7 text-lg-start">
-                <div class="jumbotron-text">
+                <div class="jumbotron-text judul-project">
                     <!-- Description -->
                     <!-- <h3>Projek Roda Indonesia</h3> -->
                     <h1>Transportasi Umum</h1>
                 </div>
             </div>
-            <div class="col-12 col-lg-5 text-center">
+            <div class="col-12 col-lg-5 text-center logo-box">
                 <div class="jumbotron-img logofitur">
                     <div class="circle"></div>
                     <img src="assets/icon/ripublic.png" alt="logo ripublic">
@@ -36,8 +36,8 @@
         <div class="section-title">
             <h3><span>RIPublic</span></h3>
         </div>
-        <div class="public-explain-text mb-5">
-            <p><b>RIPublic</b> hadir untuk memberikan sebuah solusi terbaik dan sesuai dengan kebutuhan masyarakat di daerah masing-masing. <b>RIPublic</b> menyediakan fasilitas angkutan lokal yang terjangkau bagi masyarakat. <b>RIPublic</b> dilengkapi dengan fitur <b>Tombol Darurat</b> yang akan mengirimkan pesan singkat kepada kerabat maupun keluarga. Notifikasi waktu kedatangan, dan lokasi pemesanan, kami hadirkan sebagai kemudahan bagi penumpang dan pengendara angkutan untuk pelayanan yang aman dan nyaman.</p>
+        <div class="public-explain-text mb-5 desc">
+            <p>RIPublic hadir untuk memberikan sebuah solusi terbaik dan sesuai dengan kebutuhan masyarakat di daerah masing-masing. RIPublic menyediakan fasilitas angkutan lokal yang terjangkau bagi masyarakat. RIPublic dilengkapi dengan fitur Tombol Darurat yang akan mengirimkan pesan singkat kepada kerabat maupun keluarga. Notifikasi waktu kedatangan, dan lokasi pemesanan, kami hadirkan sebagai kemudahan bagi penumpang dan pengendara angkutan untuk pelayanan yang aman dan nyaman.</p>
         </div>
 
         <div class="section-title mb-0">
@@ -46,23 +46,23 @@
         <div class="project-features px-2 px-md-4 pt-4">
             <div class="list-feature">
                 <i class="info-icon ri-wallet-3-fill"></i>
-                <p><b>Biaya Yang Terjangkau</b> bagi User.</p>
+                <p>Biaya yang terjangkau bagi penumpang.</p>
             </div>
             <div class="list-feature">
                 <i class="ri-roadster-fill"></i>
-                <p>User bisa memilih <b>Tipe Transportasi Umum</b> seperti <b>Bus</b>, <b>Angkutan Kota</b>, <b>Delman</b>, dan <b>Becak</b>.</p>
+                <p>Penumpang bisa memilih tipe Transportasi Umum seperti Bus, Angkutan Kota, Delman, dan Becak.</p>
             </div>
             <div class="list-feature">
                 <i class="ri-time-fill"></i>
-                <p><b>Notifikasi</b> waktu kedatangan, dan lokasi pemesanan.</p>
+                <p>Notifikasi waktu kedatangan, dan lokasi pemesanan.</p>
             </div>
             <div class="list-feature">
                 <i class="ri-article-fill"></i>
-                <p><b>Berita</b> seputar kejadian di sekitar User yang aktual.</p>
+                <p>Berita seputar kejadian di sekitar Penumpang yang aktual.</p>
             </div>
             <div class="list-feature">
                 <i class="ri-message-2-fill"></i>
-                <p>Dilengkapi <b>Tombol Darurat</b> yang akan mengirimkan pesan darurat kepada kerabat maupun keluarga.</p>
+                <p>Dilengkapi Tombol Darurat yang akan mengirimkan pesan darurat kepada kerabat maupun keluarga.</p>
             </div>
         </div>
     </div>

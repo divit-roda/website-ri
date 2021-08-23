@@ -13,7 +13,7 @@
                     <h3>Selamat Datang di</h3>
                     <h1>Roda Indonesia</h1>
                     <!-- Heading -->
-                    <p>Hemat, Cerdas dan Bersahabat. Menjadi satu-satunya Aplikasi Karya Anak Nusantara yang Bergerak Mandiri Untuk Indonesia</p>
+                    <p class="pembuka-desc">Hemat, Cerdas dan Bersahabat. Menjadi satu-satunya Aplikasi Karya Anak Nusantara yang Bergerak Mandiri Untuk Indonesia</p>
                     
                     <!-- Jumbotron Button -->
                     <div class="jumbotron-btn">
@@ -84,9 +84,9 @@
             </div>
             <div class="col-12 col-lg-6 col-xl-6">
                 <div class="section-title">
-                    <h2>Dapatkan <span>semua kemudahan</span> dalam <span>Satu Aplikasi</span></h2>
+                    <h2>Dapatkan <span>semua kemudahan</span> dalam <br class="d-md-none"><span>Satu Aplikasi</span></h2>
                 </div>
-                <div class="one-touch-text">
+                <div class="one-touch-text desc">
                     <p><b>Roda Indonesia (RI)</b> adalah Aplikasi murni karya anak Nusantara yang menyediakan layanan dan kemudahan untuk mendapatkan bermacam kebutuhan dalam kegiatan sehari-hari, mulai dari kebutuhan tranportasi, makanan, jajanan, edukasi, berita, dan bermacam produk lainnya, yang akan dengan mudah didapat hanya dengan <b>Satu Sentuhan</b>.</p>
                 </div>
             </div>
@@ -307,7 +307,7 @@
                     <h2><span>Hubungi</span> Kami</h2>
                 </div>
                 <div class="contact-text">
-                    <h3>Untuk Setiap Pertanyaan dan Dukungan</h3>
+                    <h3>Untuk Setiap <br class="d-md-none">Pertanyaan dan Dukungan</h3>
                 </div>
             </div>
         </div>

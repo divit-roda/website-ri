@@ -7,15 +7,15 @@
     </div>
     <div class="container ">
         <div class="row align-items-center">
-            <div class="col-12 col-lg-7 text-lg-start">
+            <div class="col-12 col-lg-7 text-lg-start text-center">
                 <div class="jumbotron-text">
                     <!-- Description -->
                     <h3>Roda Indonesia</h3>
                     <h1>Kebijakan Privasi</h1>
                 </div>
             </div>
-            <div class="col-12 col-lg-5 text-center">
-                <div class="jumbotron-img">
+            <div class="col-12 col-lg-5 text-center default-logo-box">
+                <div class="jumbotron-img logofitur">
                     <div class="circle"></div>
                     <i class="ri-shield-user-line"></i>
                 </div>
@@ -36,7 +36,7 @@
         <div class="section-title">
             <h3 class="text-center" class="fw-bold text-justify text-md-start">Kebijakan Privasi</h3>
         </div>
-        <div class="privacy-text text-justify text-md-start">
+        <div class="privacy-text text-md-start desc">
 
             <p>
                 PT. Ngaasan Taas Niatean membuat aplikasi Roda Indonesia sebagai aplikasi Gratis. Layanan ini disediakan oleh PT. Ngaasan Taas Niatean tanpa biaya dan dimaksudkan untuk digunakan sebagaimana adanya.

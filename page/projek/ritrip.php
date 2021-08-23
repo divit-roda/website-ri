@@ -7,12 +7,12 @@
     <div class="container ">
         <div class="row align-items-center text-center">
             <div class="col-12 col-lg-7 text-lg-start">
-                <div class="jumbotron-text">
+                <div class="jumbotron-text judul-project">
                     <!-- Description -->
                     <h1>Wisata dan Perjalanan</h1>
                 </div>
             </div>
-            <div class="col-12 col-lg-5 text-center">
+            <div class="col-12 col-lg-5 text-center logo-box">
                 <div class="jumbotron-img logofitur">
                     <div class="circle"></div>
                     <img src="assets/icon/ritrip.png" alt="logo ritrip">
@@ -34,9 +34,8 @@
         <div class="section-title">
             <h3 class="mt-5 mt-md-0"><span>RITrip</span></h3>
         </div>
-        <div class="ritrip-explain-text mb-5">
-            <p><b>RITrip</b> melayani Anda yang ingin melakukan perjalan privasi bersama pasangan, keluarga, atau pun rekan kerja Anda. Untuk satu moment perjalanan atau yang terjadwal setiap hari baik personal ataupun massal. Jalan-jalan dan liburan Anda akan lebih seru dengan informasi yang lengkap serta paket-paket wisata lokal bersama driver pribadi Anda. Anda akan didamping <b>Tour Guide</b> bersertifikat yang dapat memandu dan mengatur perjalanan Anda menjadi lebih terencana dan istimewa.
-            </p>
+        <div class="ritrip-explain-text mb-5 desc">
+            <p>RITrip melayani Anda yang ingin melakukan perjalan privasi bersama pasangan, keluarga, atau pun rekan kerja Anda. Untuk satu moment perjalanan atau yang terjadwal setiap hari baik personal ataupun massal. Jalan-jalan dan liburan Anda akan lebih seru dengan informasi yang lengkap serta paket-paket wisata lokal bersama driver pribadi Anda. Anda akan didamping Tour Guide bersertifikat yang dapat memandu dan mengatur perjalanan Anda menjadi lebih terencana dan istimewa.</p>
         </div>
 
         <div class="section-title mb-0">
