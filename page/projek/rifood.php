@@ -6,18 +6,18 @@
         <i class="ri-checkbox-blank-circle-line effect effect-3"></i>
     </div>
     <div class="container ">
-        <div class="row align-items-center">
+        <div class="row align-items-center text-center">
             <div class="col-12 col-lg-7 text-lg-start">
-                <div class="jumbotron-text">
+                <div class="jumbotron-text judul-project">
                     <!-- Description -->
                     <!-- <h3>Projek Roda Indonesia</h3> -->
-                    <h1>pengantaran makanan</h1>
+                    <h1>Pengantaran Makanan</h1>
                 </div>
             </div>
-            <div class="col-12 col-lg-5 text-center">
-                <div class="jumbotron-img">
+            <div class="col-12 col-lg-5 text-center logo-box">
+                <div class="jumbotron-img logofitur">
                     <div class="circle"></div>
-                    <i class="ri-restaurant-fill"></i>
+                    <img src="assets/icon/rifood.png" alt="logo rifood">
                 </div>
             </div>
         </div>
@@ -34,35 +34,32 @@
 <section class="rifood-explain section-padding">
     <div class="container mt-100px">
         <div class="section-title">
-            <h4 class="mt-5 mt-md-0">RIFood</h4>
-            <h2 class="mt-2 mt-md-0" class="fw-bold text-center">Wisata Kuliner dalam genggaman</h2>
+            <h3 class="mt-5 mt-md-0"><span>RIFood</span></h3>
         </div>
-        <div class="rifood-explain-text">
-            <p class="text-justify text-md-center text-break">Dalam fitur RIFOOD anda akan dimanjakan bermacam makanan dan jajanan hasil olahan UMKM ataupun merchant ternama yang telah melalui proses seleksi ketat sehinga terjamin kualitas kebersihan dan kenikmatan rasanya hanya dalam genggaman, tidak perlu repot keluar rumah, beresiko macet diperjalanan atau terhambat faktor cuaca yang tidak mendukung.
-            </p>
+        <div class="rifood-explain-text mb-5 desc">
+            <p>RIFood menyediakan berbagai macam makanan dan jajanan hasil olahan UMKM ataupun merchant ternama. Seluruh UMKM yang menjadi produsen makanan di RIFood dibimbing dan berada di bawah pengawasan Lab Kitchen (barisan chef berpengalaman) sehinga kualitas kebersihan dan kenikmatan rasa terjamin. Makanan-makanan lokal siap dipesan dan diantar oleh driver berlangganan Anda.</p>
         </div>
-        <div class="rifood-features px-2 px-md-4 pt-4">
-            <div class="rifood-feature-item">
+
+        <div class="section-title mb-0">
+            <h3 class="mb-0">Fitur-fitur <span>RIFood</span></h3>
+        </div>
+        <div class="project-features px-2 px-md-4 pt-4">
+            <div class="list-feature">
                 <i class="ri-hand-heart-fill"></i>
-                <p>Biaya pengiriman terjangkau</p>
+                <p>Biaya pengiriman terjangkau.</p>
             </div>
-            <div class="rifood-feature-item">
-                <i class="ri-user-smile-fill"></i>
-                <p>fitur mudah diakses bagi siapapun user yang ingin menikmati produk makanan ataupun jajanan berkualitas dan higienis</p>
+            <div class="list-feature">
+                <i class="ri-smartphone-fill"></i>
+                <p>Wisata kuliner dalam genggaman tanpa keluar rumah.</p>
             </div>
-            <div class="rifood-feature-item">
+            <div class="list-feature">
                 <i class="ri-restaurant-fill"></i>
-                <p>Pilihan makan dan jajanan sangat beraneka ragam</p>
+                <p>Tersedia segala jenis Kuliner Khas Daerah dari seluruh wilayah Indonesia.</p>
             </div>
-            <div class="rifood-feature-item">
-                <i class="ri-hand-coin-fill"></i>
-                <p>Proses pembayaran mudah</p>
-            </div>
-            <div class="rifood-feature-item">
-                <i class="ri-shopping-bag-3-fill"></i>
-                <p>Proses pengiriman cepat</p>
+            <div class="list-feature">
+                <i class="ri-checkbox-multiple-fill"></i>
+                <p>Dibimbing dan berada di bawah pengawasan Lab Kitchen.</p>
             </div>
         </div>
-    </div>
     </div>
 </section>

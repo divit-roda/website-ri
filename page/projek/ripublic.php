@@ -6,18 +6,18 @@
         <i class="ri-checkbox-blank-circle-line effect effect-3"></i>
     </div>
     <div class="container ">
-        <div class="row align-items-center">
+        <div class="row align-items-center text-center">
             <div class="col-12 col-lg-7 text-lg-start">
-                <div class="jumbotron-text">
+                <div class="jumbotron-text judul-project">
                     <!-- Description -->
                     <!-- <h3>Projek Roda Indonesia</h3> -->
                     <h1>Transportasi Umum</h1>
                 </div>
             </div>
-            <div class="col-12 col-lg-5 text-center">
-                <div class="jumbotron-img">
+            <div class="col-12 col-lg-5 text-center logo-box">
+                <div class="jumbotron-img logofitur">
                     <div class="circle"></div>
-                    <i class="ri-bus-wifi-fill"></i>
+                    <img src="assets/icon/ripublic.png" alt="logo ripublic">
                 </div>
             </div>
         </div>
@@ -34,62 +34,36 @@
 <section class="public-explain section-padding">
     <div class="container">
         <div class="section-title">
-            <h4>RIPublic</h4>
-            <h2>Aman di Saku, Aman di Hati</h2>
+            <h3><span>RIPublic</span></h3>
         </div>
-        <div class="public-explain-text">
-            <p>Kebutuhan akan Informasi Transportasi umum, saat ini sangatlah diperlukan untuk semua kalangan masyarakat. Dibeberapa daerah kebutuhan akan transportasi umum memang berbeda-beda, hal ini dikarenakan kondisi dan faktor lingkungan setempat. Namun fitur RIPUBLIC ini hadir untuk memberikan sebuah solusi terbaik dan sesuai dengan kebutuhan masyarakat di daerahnya masing-masing.</p>
-            <p>Didalam RIPUBLIC ini terdapat juga kolom berita atau kejadian di sekitar pengguna aplikasi yang aktual, dan dilengkapi dengan fitur Tombol Darurat yang akan mengirimkan pesan singkat kepada pengguna lain (kerabat atau keluarga) yg dikehendaki, atau akan menghubungkan pengguna ke nomor-nomor penting seperti :</p>
+        <div class="public-explain-text mb-5 desc">
+            <p>RIPublic hadir untuk memberikan sebuah solusi terbaik dan sesuai dengan kebutuhan masyarakat di daerah masing-masing. RIPublic menyediakan fasilitas angkutan lokal yang terjangkau bagi masyarakat. RIPublic dilengkapi dengan fitur Tombol Darurat yang akan mengirimkan pesan singkat kepada kerabat maupun keluarga. Notifikasi waktu kedatangan, dan lokasi pemesanan, kami hadirkan sebagai kemudahan bagi penumpang dan pengendara angkutan untuk pelayanan yang aman dan nyaman.</p>
         </div>
-        <!-- <div class="row ripublic-features justify-content-center">
-            <div class="col-10 col-md-4 pt-4">
-                <div class="ripublic-feature-item">
-                    <div class="icon">
-                        <i class=" ri-shield-user-fill"></i>
-                    </div>
-                    <h3> Keamanan </h3>
-                </div>
+
+        <div class="section-title mb-0">
+            <h3 class="mb-0">Fitur-fitur <span>RIPublic</span></h3>
+        </div>
+        <div class="project-features px-2 px-md-4 pt-4">
+            <div class="list-feature">
+                <i class="info-icon ri-wallet-3-fill"></i>
+                <p>Biaya yang terjangkau bagi penumpang.</p>
             </div>
-            <div class="col-10 col-md-4 pt-4">
-                <div class="ripublic-feature-item">
-                    <div class="icon">
-                        <i class=" ri-fire-fill"></i>
-                    </div>
-                    <h3> Pemadam Kebakaran </h3>
-                </div>
+            <div class="list-feature">
+                <i class="ri-roadster-fill"></i>
+                <p>Penumpang bisa memilih tipe Transportasi Umum seperti Bus, Angkutan Kota, Delman, dan Becak.</p>
             </div>
-            <div class="col-10 col-md-4 pt-4">
-                <div class="ripublic-feature-item">
-                    <div class="icon">
-                        <i class=" ri-hospital-fill"></i>
-                    </div>
-                    <h3> RSUD </h3>
-                </div>
+            <div class="list-feature">
+                <i class="ri-time-fill"></i>
+                <p>Notifikasi waktu kedatangan, dan lokasi pemesanan.</p>
             </div>
-            <div class="col-10 col-md-4 pt-4">
-                <div class="ripublic-feature-item">
-                    <div class="icon">
-                        <i class=" ri-taxi-wifi-fill"></i>
-                    </div>
-                    <h3> Ambulance </h3>
-                </div>
+            <div class="list-feature">
+                <i class="ri-article-fill"></i>
+                <p>Berita seputar kejadian di sekitar Penumpang yang aktual.</p>
             </div>
-            <div class="col-10 col-md-4 pt-4">
-                <div class="ripublic-feature-item">
-                    <div class="icon">
-                        <i class=" ri-capsule-fill"></i>
-                    </div>
-                    <h3> Jasa Medis </h3>
-                </div>
+            <div class="list-feature">
+                <i class="ri-message-2-fill"></i>
+                <p>Dilengkapi Tombol Darurat yang akan mengirimkan pesan darurat kepada kerabat maupun keluarga.</p>
             </div>
-            <div class="col-10 col-md-4 pt-4">
-                <div class="ripublic-feature-item">
-                    <div class="icon">
-                        <i class=" ri-thunderstorms-fill"></i>
-                    </div>
-                    <h3> Jasa PLN </h3>
-                </div>
-            </div>
-        </div> -->
+        </div>
     </div>
 </section>

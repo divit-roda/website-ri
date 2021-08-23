@@ -24,7 +24,7 @@
   z-index: 0;
 }
 .page-jumbotron .jumbotron-text h1 {
-  font-size: 45px;
+  /*font-size: 45px;*/
   color: #fff;
   margin: 0 0 20px;
   font-family: "FredokaOneFont";
@@ -60,32 +60,6 @@
 .page-jumbotron .jumbotron-img i {
   font-size: 200px;
   color: rgba(255, 255, 255, 0.5);
-}
-.page-jumbotron .jumbotron-img {
-  position: relative;
-}
-.page-jumbotron .jumbotron-img .circle {
-  position: absolute;
-  z-index: 1;
-  height: 300px;
-  width: 300px;
-  top: 50%;
-  left: 50%;
-  border: 1px solid #ffffff33;
-  border-radius: 50%;
-  transform: translate(-50%, -50%);
-}
-.page-jumbotron .jumbotron-img .circle:before {
-  content: "";
-  position: absolute;
-  height: 50px;
-  width: 50px;
-  background-color: rgba(255, 255, 255, 0.5);
-  border-radius: 50%;
-  left: 20px;
-  top: 20px;
-  transform-origin: 130px 130px;
-  animation: spin_01 7s linear infinite;
 }
 
 /* ridu Explain */
@@ -241,7 +215,14 @@
   font-weight: 500;
   text-transform: capitalize;
 }
-
+.ridu-img{
+  max-width: 32%;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.ridu-desc{
+  max-width: 50%;
+}
 @media(max-width: 991px){
   .ridu-benefit-item.line-right::before {
     content: none;
@@ -254,5 +235,12 @@
 
   .ridu-attribut-item .ridu-attribut-text{
     margin: 30px 40px;
+  }
+  .ridu-img{
+    max-width: 100%;
+    margin-bottom: 30px;
+  }
+  .ridu-desc{
+    max-width: 100%;
   }
 }

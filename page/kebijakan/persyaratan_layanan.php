@@ -7,15 +7,15 @@
     </div>
     <div class="container ">
         <div class="row align-items-center">
-            <div class="col-12 col-lg-7 text-lg-start">
+            <div class="col-12 col-lg-7 text-lg-start text-center">
                 <div class="jumbotron-text">
                     <!-- Description -->
                     <h3>Roda Indonesia</h3>
                     <h1>Persyaratan Layanan</h1>
                 </div>
             </div>
-            <div class="col-12 col-lg-5 text-center">
-                <div class="jumbotron-img">
+            <div class="col-12 col-lg-5 text-center default-logo-box">
+                <div class="jumbotron-img logofitur">
                     <div class="circle"></div>
                     <i class="ri-service-line"></i>
                 </div>
@@ -33,7 +33,7 @@
 
 <section class="privacy section-padding">
     <div class="container">
-        <div class="service-features">
+        <div class="service-features desc">
             <div class="service-feature-item">
                 <div class="section-title">
                     <h3>Transportasi Online Roda Dua (RIBIKE)</h3>

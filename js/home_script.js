@@ -95,7 +95,7 @@
   });
 
   // Modal aplikasi belum tersedia
-  $('#ModalAppBelumTersedia').modal('show', function(){
+  $('#ModalAppBelumTersedia').on('shown.bs.modal', function(){
     $('#ModalAppBelumTersedia').trigger('focus')
   });
 })(jQuery);

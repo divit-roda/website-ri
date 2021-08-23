@@ -13,35 +13,17 @@
                     <h3>Selamat Datang di</h3>
                     <h1>Roda Indonesia</h1>
                     <!-- Heading -->
-                    <p>Inovatif, Kreatif dan Produktif. Menjadi satu-satunya Aplikasi Karya Anak Nusantara yang Bergerak Mandiri Untuk Nusantara</p>
+                    <p class="pembuka-desc">Hemat, Cerdas dan Bersahabat. Menjadi satu-satunya Aplikasi Karya Anak Nusantara yang Bergerak Mandiri Untuk Indonesia</p>
+                    
                     <!-- Jumbotron Button -->
                     <div class="jumbotron-btn">
-                        <a type="button" data-toggle="modal" data-target="#exampleModal" data-toggle="modal" data-placement="top" class="btn btn-1 download-btn">Download Aplikasi</a>
-                        <div class="modal in" id="#exampleModal">
-                          <div class="modal-dialog">
-                            <div class="modal-content">
-                              <div class="modal-header">
-                                <h4 class="modal-title">INFORMASI</h4>
-                                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                  <span aria-hidden="true">&times;</span>
-                                </button>
-                              </div>
-                              <div class="modal-body">
-                                  <div class="card-body box-profile">
-                                      SEMENTARA APLIKASI BELUM TERSEDIA
-                                    </div>
-                              </div>
-                              <div class="modal-footer justify-content-between">
-                                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
+                        <button type="button" data-bs-toggle="modal" data-bs-target="#ModalAppBelumTersedia" class="btn btn-1 download-btn">Download Aplikasi</button>
                     </div>
+
                 </div>
             </div>
             <div class="col-12 col-lg-5 text-center">
-                <div class="jumbotron-img">
+                <div class="jumbotron-img hide-logo">
                     <div class="circle"></div>
                     <img src="assets/logo/logo.png" alt="Roda Indonesia">
                 </div>
@@ -102,10 +84,10 @@
             </div>
             <div class="col-12 col-lg-6 col-xl-6">
                 <div class="section-title">
-                    <h2>Dapatkan <span>semua kemudahan</span> hanya dalam <span>Satu Aplikasi</span></h2>
+                    <h2>Dapatkan <span>semua kemudahan</span> dalam <br class="d-md-none"><span>Satu Aplikasi</span></h2>
                 </div>
-                <div class="one-touch-text">
-                    <p>RODA INDONESIA (RI) adalah Aplikasi murni karya anak Nusantara yang menyediakan layanan dan kemudahan untuk mendapatkan bermacam kebutuhan dalam kegiatan sehari-hari, mulai dari kebutuhan tranportasi, makanan, jajanan, edukasi, berita, dan bermacam produk lainnya, yang akan dengan mudah didapat hanya dengan SATU SENTUHAN UNTUK SEMUA.</p>
+                <div class="one-touch-text desc">
+                    <p><b>Roda Indonesia (RI)</b> adalah Aplikasi murni karya anak Nusantara yang menyediakan layanan dan kemudahan untuk mendapatkan bermacam kebutuhan dalam kegiatan sehari-hari, mulai dari kebutuhan tranportasi, makanan, jajanan, edukasi, berita, dan bermacam produk lainnya, yang akan dengan mudah didapat hanya dengan <b>Satu Sentuhan</b>.</p>
                 </div>
             </div>
         </div>
@@ -113,52 +95,6 @@
 </section>
 <!-- Akhir SLogan -->
 
-<!-- Visi Misi -->
-<section class="visi-misi-section section-padding">
-    <div class="container">
-        <div class="section-title">
-            <h2><span>Visi</span> dan <span>Misi</span> Roda Indonesia</h2>
-        </div>
-        <div class="accordion visi-misi-arc" id="accordionExample">
-            <div class="accordion-item">
-                <h2 class="accordion-header" id="headingOne">
-                    <button class="accordion-button btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                        Visi Roda Indonesia
-                    </button>
-                </h2>
-                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                    <div class="accordion-body">
-                        <ol>
-                            <li>RODA INDONESIA bertekad untuk menjadi Perusahaan digital berbasis Aplikasi Online dengan bisnis yang berorientasi profesional, dan fokus untuk tetap Memanusiakan Manusia.</li>
-                            <li>Menjadikan Aplikasi Online yang berdampak Positif bagi Masyarakat pada umumnya dan Pemerintah pada khususnya. </li>
-                        </ol>
-                    </div>
-                </div>
-            </div>
-            <div class="accordion-item my-4">
-                <h2 class="accordion-header" id="headingTwo">
-                    <button class="accordion-button btn-2 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                        Misi Roda Indonesia
-                    </button>
-                </h2>
-                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
-                    <div class="accordion-body">
-                        <ol>
-                            <li>Menjaga keamanan database pengguna aplikasi sesuai standar Sistem Keamanan Informasi dan pertumbuhan Ekonomi Digital.</li>
-                            <li>Mengembangkan Industri Perangkat Lunak berbasis Aplikasi Online dengan Orientasi Budaya Profesional.</li>
-                            <li>Meningkatkan Branding RODA INDONESIA dengan mempertahankan kualitas Produk, Layanan dan Daya Jual dengan 9 KONSEP RODA INDONESIA.</li>
-                            <li>Melibatkan seluruh lapisan masyarakat dalam pengembangan RODA INDONESIA dan di setiap kegiatan pemberian dan penerimaan manfaat Aplikasi ini, sehingga diharapkan Masyarakat Indonesia lebih Sejahtera.</li>
-                            <li>Memberikan Solusi kepada Pemerintah melalui Konsep RIPUBLIC.</li>
-                            <li>Menjadikan setiap sumber daya manusia sebagai SA’UDARA.</li>
-                            <li>Mengajak masyarakat menjadi Individu yang Mandiri dan Kompeten.</li>
-                        </ol>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Akhir Visi Misi -->
 
 <!-- Fitur Aplikasi -->
 <section class="projek section-padding" id="projek-section">
@@ -268,20 +204,14 @@
         <div class="row text-center">
             <div class="col align-self-center">
                 <div class="section-title">
-                    <h2>Dukungan <span>Kerja Sama</span></h2>
+                    <h2>Dukungan</h2>
                 </div>
             </div>
         </div>
         <div class="row">
             <div class="owl-carousel supports-carousel">
                 <div class="support-item">
-                    <img src="assets/logo/forumpkl_512px.png" class="w-75 grayscale" alt="" srcset="">
-                </div>
-                <div class="support-item">
                     <img src="assets/logo/kominfo_512px.png" class="w-75 grayscale" alt="" srcset="">
-                </div>
-                <div class="support-item">
-                    <img src="assets/logo/opgi_512px.png" class="w-75 grayscale" alt="" srcset="">
                 </div>
                 <div class="support-item">
                     <img src="assets/logo/kemenhub_512px.png" class="w-75 grayscale" alt="" srcset="">
@@ -312,7 +242,7 @@
         <div class="row text-center">
             <div class="col align-self-center">
                 <div class="section-title">
-                    <h2>Unduh <span style="color: orange;">Aplikasi Roda Indonesia</span></h2>
+                    <h2>Unduh <span style="color: orange;">Aplikasi <br class="d-md-none">Roda Indonesia</span></h2>
                 </div>
             </div>
         </div>
@@ -377,7 +307,7 @@
                     <h2><span>Hubungi</span> Kami</h2>
                 </div>
                 <div class="contact-text">
-                    <h3>Untuk Setiap Pertanyaan dan Dukungan</h3>
+                    <h3>Untuk Setiap <br class="d-md-none">Pertanyaan dan Dukungan</h3>
                 </div>
             </div>
         </div>
@@ -418,7 +348,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="row">
+                        <div class="row btn-kirim-pesan">
                             <div class="col-lg-12">
                                 <button type="submit" class="btn btn-2">Kirim Pesan</button>
                             </div>

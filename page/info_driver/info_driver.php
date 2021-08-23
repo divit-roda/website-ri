@@ -7,8 +7,8 @@
     </div>
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-12 col-lg-7 text-lg-start">
-                <div class="jumbotron-text">
+            <div class="col-12 col-lg-7 text-lg-start text-center">
+                <div class="jumbotron-text judul-project">
                     <!-- Description -->
                     <!-- <h3>Roda Indonesia</h3> -->
                     <h1>Informasi Driver</h1>
@@ -20,10 +20,10 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-lg-5 text-center">
-                <div class="jumbotron-img">
+            <div class="col-12 col-lg-5 text-center logo-box">
+                <div class="jumbotron-img logofitur">
                     <div class="circle"></div>
-                    <i class="ri-taxi-wifi-fill"></i>
+                    <img src="assets/icon/risend.png" alt="logo risend">
                 </div>
             </div>
         </div>
@@ -43,7 +43,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-10">
                 <div class="section-title">
-                    <h2>DAPATKAN <span>MANFAAT</span> YANG <span>MAKSIMAL</span></h2>
+                    <h2>Dapatkan <span>Manfaat</span> Yang <span>Maksimal</span></h2>
                     <h3 class="mt-4">Dengan Menjadi Bagian dari Roda Indonesia !!!</h3>
                 </div>
             </div>
