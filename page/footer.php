@@ -2,82 +2,30 @@
 <footer class="page-footer font-small bg-dark text-white">
 
     <!--Footer Links-->
-    <div class="container pt-5 px-4 px-md-0">
-        <div class="row mt-5">
-
-            <!--First column-->
-            <div class="col-12 col-md-5 px-auto pe-md-5 pb-4">
-                <div class="page-footer-img">
-                    <img src="assets/logo/logo.png" width="100px" alt="">
-                </div>
-                <div class="page-footer-text">
-                    <p class="text-white mt-2">100% Karya Anak Nusantara</p>
-                    <p class="text-white">Inovatif, Kreatif dan Produktif. Menjadi satu-satunya Aplikasi Karya Anak Nusantara yang Bergerak Mandiri Untuk Nusantara</p>
-                    <p class="text-white mb-0">#satusentuhanuntuksemua </p>
-                    <p class="text-white my-0">#maafsayadidepan</p>
-                    <p class="text-white my-0">#rodaindonesia</p>
-                    <div class="social-icon my-3">
-                        <ul class="list-inline py-3">
-                            <li class="list-inline-item">
-                                <a href="https://web.facebook.com/rodaindonesiaa" target="_blank" class="s-icon fb-ic"><i class="ri-facebook-fill"></i></a>
-                            </li>
-                            <li class="list-inline-item">
-                                <a href="https://www.youtube.com/channel/UC3sCgTIeNRN8mHVMeTes86g" target="_blank" class="s-icon yt-ic">
-                                    <i class="ri-youtube-line"></i>
-                                </a>
-                            </li>
-                            <li class="list-inline-item">
-                                <a href="https://www.instagram.com/rodaindonesiaofficial/" target="_blank" class="s-icon ins-ic"><i class="ri-instagram-line"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="col-12 col-md-2 pb-5 pb-md-4">
-                <h6 class="text-uppercase fw-bold">
-                    <strong>Menu</strong>
-                </h6>
-                <hr class="bg-danger accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-                <p><a href="?page=kontak">Kontak Kami</a></p>
-                <p><a href="#projek-section">Projek</a></p>
-                <p><a href="?page=info_driver">Info Driver</a></p>
-                <p><a href="?page=about_us">Tentang Kami</a></p>
-            </div>
-            <div class="col-12 col-md-5">
-                <h6 class="text-uppercase fw-bold">
-                    <strong>Info Kontak</strong>
-                </h6>
-                <hr class="bg-danger accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-                <div class="footer-info">
-                    <div class="footer-info-item">
-                        <i class="ri-map-pin-2-fill"></i>
-                        <p>Jl. Mogandi IV No.2, Kel. Malalayang Satu, Kec. Malalayang, Kota Manado, Sulawesi Utara</p>
-                    </div>
-                    <div class="footer-info-item">
-                        <i class="ri-mail-send-fill"></i>
-                        <p>cs@rodaindonesia.site</p>
-                    </div>
-                    <div class="footer-info-item">
-                        <i class="ri-phone-fill"></i>
-                        <div class="contact-detail">
-                            <div class="row">
-                                <div class="col-4">Telepon</div>
-                                <div class="col-1">:</div>
-                                <div class="col-7">(022) 2068 2586</div>
-                            </div>
-                            <div class="row">
-                                <div class="col-4">Hotline</div>
-                                <div class="col-1">:</div>
-                                <div class="col-7">(0813) 2220 5561</div>
-                            </div>
-                            <div class="row d-flex">
-                                <div class="col-4">Technical Service</div>
-                                <div class="col-1">:</div>
-                                <div class="col-7">(0838) 3662 6451<br>(0813) 2214 6567</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+    <div class="container motto">
+        <div class="page-footer-img">
+            <img src="assets/logo/logo.png" width="100px" alt="">
+        </div>
+        <div class="page-footer-text">
+            100% Karya Anak Nusantara
+            <div class="my-3">Hemat, Cerdas, dan Bersahabat. Menjadi satu-satunya Aplikasi Karya Anak Nusantara yang Bergerak Mandiri Untuk Nusantara.</div>
+            #satusentuhanuntuksemua
+            <br>#cerdashematbersahabat
+            <br>#rodaindonesia
+            <div class="social-icon my-3">
+                <ul class="list-inline py-3">
+                    <li class="list-inline-item">
+                        <a href="https://web.facebook.com/rodaindonesiaa" target="_blank" class="s-icon fb-ic"><i class="ri-facebook-fill"></i></a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="https://www.youtube.com/channel/UC3sCgTIeNRN8mHVMeTes86g" target="_blank" class="s-icon yt-ic">
+                            <i class="ri-youtube-line"></i>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="https://www.instagram.com/rodaindonesiaofficial/" target="_blank" class="s-icon ins-ic"><i class="ri-instagram-line"></i></a>
+                    </li>
+                </ul>
             </div>
         </div>
     </div>

@@ -302,14 +302,14 @@
     </div>
 </section>
 
-<section class="daftar-korwil section-padding">
-    <div class="container text-center">
-        <div class="section-title">
-            <p class="mt-md-0 text-white"><strong>Ayo Jadi Bagian dari Kami</strong></p>
-            <h2 class="mt-md-0 text-center text-white"><strong>DAFTAR KOORD WILAYAH NUSANTARA</strong></h2>
+<section class="daftar-korwil section-padding text-center">
+    <div class="container text-white">
+        <div class="section-title mb-3">
+            <p><strong>Ayo Jadi Bagian dari Kami</strong></p>
+            <h2 class="text-white">DAFTAR KOORDINATOR WILAYAH NUSANTARA</h2>
         </div>
-        <div class="daftar-korwil-text mt-3 text-center desc">
-            <p class="text-center text-break text-white">Untuk mengajukan diri sebagai Koordinator Wilayah serta mendapatkan penjelasan dan pengarahan, bisa klik ke tombol di bawah.</p>
+        <div class="desc mb-5 mt-3">
+            <p class="text-break">Untuk mengajukan diri sebagai Koordinator Wilayah serta mendapatkan penjelasan dan pengarahan, bisa klik ke tombol di bawah.</p>
         </div>
         <div class="daftar-korwil-btn">
             <a href="?page=kontak">

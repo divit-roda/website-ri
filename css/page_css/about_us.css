@@ -312,35 +312,11 @@
   font-family: "PoppinsFont", sans-serif;
 }
 
-/* Daftar Korwil Section */
-.daftar-korwil {
-  background-image: linear-gradient(
-    to right,
-    hsl(359, 79%, 55%),
-    rgb(111, 26, 28)
-  );
-}
-.daftar-korwil .section-title {
-  margin-bottom: 30px;
-}
-.daftar-korwil .section-title h2 {
-  font-weight: 300px;
-  font-weight: 300;
-}
-.daftar-korwil .section-title p {
-  font-family: "PoppinsFont";
-  line-height: 26px;
-}
-.daftar-korwil-text {
-  margin-bottom: 60px;
-}
-.daftar-korwil-text p {
-  font-family: "RobotoFont", sans-serif;
-  line-height: 26px;
-}
-
 /* X-Small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
+  .daftar-korwil .section-title{
+    margin: 0;
+  }
   .company-profile-text p {
     text-align: justify;
   }
