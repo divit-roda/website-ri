@@ -52,20 +52,16 @@
         <div class="row">
             <div class="owl-carousel features-carousel">
                 <div class="feature-item">
-                    <div class="icon"><i class="ri-paint-brush-fill"></i></div>
-                    <h3>Tampilan Menarik</h3>
+                    <div class="icon"><i class="ri-pin-distance-fill"></i></div>
+                    <h3>Filter Jarak</h3>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-shield-user-line"></i></div>
                     <h3>Keamanan Pengguna & Driver</h3>
                 </div>
                 <div class="feature-item">
-                    <div class="icon"><i class="ri-thumb-up-fill"></i></div>
-                    <h3>Kemudahan dalam Aplikasi</h3>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-user-follow-fill"></i></div>
-                    <h3>Driver Selalu Siap</h3>
+                    <div class="icon"><i class="ri-hand-coin-fill"></i></div>
+                    <h3>Biaya Lebih Bersahabat</h3>
                 </div>
             </div>
         </div>
