@@ -37,7 +37,7 @@
             <h2 class="mt-1" class="text-center"><span>RODA</span> INDONESIA</h2>
         </div>
         <div class="company-profile-text text-lg-center desc">
-            <p>RODA INDONESIA (RI) adalah Aplikasi murni karya anak Nusantara yang menyediakan layanan dan kemudahan untuk mendapatkan bermacam kebutuhan dalam kegiatan sehari-hari. mulai dari kebutuhan tranportasi berbagai macam kendaraan transportasi, makanan, jajanan, edukasi, berita, dan bermacam produk lainnya, yang akan dengan mudah didapat hanya dengan SATU SENTUHAN.</p>
+            <p><b>Roda Indonesia</b> (RI) adalah Aplikasi murni karya anak Nusantara yang menyediakan layanan dan kemudahan untuk mendapatkan bermacam kebutuhan dalam kegiatan sehari-hari. mulai dari kebutuhan tranportasi berbagai macam kendaraan transportasi, makanan, jajanan, edukasi, berita, dan bermacam produk lainnya, yang akan dengan mudah didapat hanya dengan <b>Satu Sentuhan</b>.</p>
         </div>
     </div>
 </section>
@@ -79,7 +79,7 @@
                 <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
                         <ol>
-                            <li><p>RODA INDONESIA bertekad untuk menjadi Perusahaan digital berbasis Aplikasi Online dengan kualifikasi dan kompetensi bertaraf Nasional, serta bisnis yang berorientasi profesional, dan fokus untuk tetap Memanusiakan Manusia.</p></li>
+                            <li><p>Roda Indonesia bertekad untuk menjadi Perusahaan digital berbasis Aplikasi Online dengan kualifikasi dan kompetensi bertaraf Nasional, serta bisnis yang berorientasi profesional, dan fokus untuk tetap Memanusiakan Manusia.</p></li>
                             <li><p>Menjadikan Aplikasi Online yang berdampak Positif bagi Masyarakat pada umumnya dan Pemerintah pada khususnya.</p></li>
                         </ol>
                     </div>
@@ -96,10 +96,10 @@
                         <ol>
                             <li><p>Menjaga keamanan database pengguna aplikasi sesuai standar Sistem Keamanan Informasi dan pertumbuhan Ekonomi Digital.</p></li>
                             <li><p>Mengembangkan Industri Perangkat Lunak berbasis Aplikasi Online dengan Orientasi Budaya Profesional.</p></li>
-                            <li><p>Meningkatkan Branding RODA INDONESIA dengan mempertahankan kualitas Produk, Layanan dan Daya Jual dengan 9 KONSEP RODA INDONESIA.</p></li>
-                            <li><p>Melibatkan seluruh lapisan masyarakat dalam pengembangan RODA INDONESIA dan di setiap kegiatan pemberian dan penerimaan manfaat Aplikasi ini, sehingga diharapkan Masyarakat Indonesia lebih Sejahtera.</p></li>
-                            <li><p>Memberikan Solusi kepada Pemerintah melalui Konsep RIPUBLIC.</p></li>
-                            <li><p>Menjadikan setiap sumber daya manusia sebagai SA’UDARA.</p></li>
+                            <li><p>Meningkatkan Branding Roda Indonesia dengan mempertahankan kualitas Produk, Layanan dan Daya Jual dengan 9 Konsep Roda Indonesia.</p></li>
+                            <li><p>Melibatkan seluruh lapisan masyarakat dalam pengembangan Roda Indonesia dan di setiap kegiatan pemberian dan penerimaan manfaat Aplikasi ini, sehingga diharapkan Masyarakat Indonesia lebih Sejahtera.</p></li>
+                            <li><p>Memberikan Solusi kepada Pemerintah melalui Konsep RIPublic.</p></li>
+                            <li><p>Menjadikan setiap sumber daya manusia sebagai Saudara.</p></li>
                             <li><p>Mengajak masyarakat menjadi Individu yang Mandiri dan Kompeten.</p></li>
                         </ol>
                     </div>
@@ -222,12 +222,12 @@
                         </li>
                     </ol>
                 </li>
-                <li class="level-2-finance line-right position-relative my-md-5 my-lg-0">
+                <li class="level-2-finance line-right position-relative">
                     <div class="bagan-item d-flex align-items-center">
                         <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                         <div class="d-flex align-items-center justify-content-center flex-column">
                             <p class="tim-section-jabatan"><strong>CFO</strong></p></b>
-                            <p class="tim-section-jabatan">Ning Wahyuni,N S.E., M.M.</p>
+                            <p class="tim-section-jabatan">Ning Wahyuni, N S.E., M.M.</p>
                         </div>
                     </div>
                     <ol class="level-3-wrapper">
@@ -264,7 +264,7 @@
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                                 <div class="d-flex align-items-center justify-content-center flex-column">
                                     <p class="tim-section-jabatan"><strong>Programmer</strong></p></b>
-                                    <p class="tim-section-jabatan">Gita Suciana R.</p>
+                                    <p class="tim-section-jabatan">Gita Suciana Ramadhanty</p>
                                 </div>
                             </div>
                         </li>
@@ -302,14 +302,14 @@
     </div>
 </section>
 
-<section class="daftar-korwil section-padding">
-    <div class="container text-center">
-        <div class="section-title">
-            <p class="mt-md-0 text-white"><strong>Ayo Jadi Bagian dari Kami</strong></p>
-            <h2 class="mt-md-0 text-center text-white"><strong>DAFTAR KOORD WILAYAH NUSANTARA</strong></h2>
+<section class="daftar-korwil section-padding text-center">
+    <div class="container text-white px-2">
+        <div class="section-title mb-3">
+            <p><strong>Ayo Jadi Bagian dari Kami</strong></p>
+            <h2 class="text-white">DAFTAR KOORDINATOR WILAYAH NUSANTARA</h2>
         </div>
-        <div class="daftar-korwil-text mt-3 text-center desc">
-            <p class="text-center text-break text-white">Untuk mengajukan diri sebagai Koordinator Wilayah serta mendapatkan penjelasan dan pengarahan, bisa klik ke tombol di bawah.</p>
+        <div class="desc mb-5 mt-3">
+            <p class="text-break">Untuk mengajukan diri sebagai Koordinator Wilayah serta mendapatkan penjelasan dan pengarahan, bisa klik ke tombol di bawah</p>
         </div>
         <div class="daftar-korwil-btn">
             <a href="?page=kontak">

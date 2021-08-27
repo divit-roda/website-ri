@@ -12,7 +12,6 @@
             <div class="col-12 col-lg-7 text-center text-lg-start judul-halaman">
                 <div class="jumbotron-text">
                     <!-- Description -->
-                    <h3>Roda Indonesia</h3>
                     <h1>Hubungi Kami</h1>
                 </div>
             </div>
