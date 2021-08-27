@@ -222,12 +222,12 @@
                         </li>
                     </ol>
                 </li>
-                <li class="level-2-finance line-right position-relative my-md-5 my-lg-0">
+                <li class="level-2-finance line-right position-relative">
                     <div class="bagan-item d-flex align-items-center">
                         <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                         <div class="d-flex align-items-center justify-content-center flex-column">
                             <p class="tim-section-jabatan"><strong>CFO</strong></p></b>
-                            <p class="tim-section-jabatan">Ning Wahyuni,N S.E., M.M.</p>
+                            <p class="tim-section-jabatan">Ning Wahyuni, N S.E., M.M.</p>
                         </div>
                     </div>
                     <ol class="level-3-wrapper">
@@ -264,7 +264,7 @@
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                                 <div class="d-flex align-items-center justify-content-center flex-column">
                                     <p class="tim-section-jabatan"><strong>Programmer</strong></p></b>
-                                    <p class="tim-section-jabatan">Gita Suciana R.</p>
+                                    <p class="tim-section-jabatan">Gita Suciana Ramadhanty</p>
                                 </div>
                             </div>
                         </li>

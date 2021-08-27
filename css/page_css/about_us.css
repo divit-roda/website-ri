@@ -102,14 +102,14 @@
   margin: auto;
 }
 
-/* Bagan Struktur */
+/* ==================================================== BAGAN STRUKTUR ================================================================== */
 .bagan-item {
   box-shadow: var(--shadow-black-100);
   /* border: 1px solid var(--main-color); */
   border-radius: 200px;
   position: relative;
   background-color: #fff;
-  z-index: 1;
+  /*z-index: 1;*/
   transition: all 750ms;
   padding: 0px 20px;
   min-height: 80px;
@@ -133,6 +133,7 @@
   padding: 0;
   font-size: 12.5px;
   font-family: "RobotoFont", sans-serif;
+  text-align: center;
 }
 .bagan-item .tim-section-jabatan {
   font-size: 14.5px;
@@ -195,7 +196,7 @@
   content: "";
   position: absolute;
   left: calc(12.5%);
-  top: -30px;
+  top: -31px;
   height: 2px;
   width: calc(75%);
   background-color: var(--main-color);
@@ -224,23 +225,32 @@
   background-color: var(--main-color);
   z-index: -1;
 }
+.bagan-section .level-2-operational::after {
+  content: "";
+  position: absolute;
+  left: calc(12.5% + 3px);
+  top: 5%;
+  height: calc(85%);
+  width: 2px;
+  background-color: var(--main-color);
+  z-index: -1;
+}
 .bagan-section .level-2-finance::after {
   content: "";
   position: absolute;
   left: calc(12.5% + 4px);
   top: 5%;
-  height: calc(60%);
+  height: calc(52%);
   width: 2px;
   background-color: var(--main-color);
   z-index: -1;
 }
-.bagan-section .level-2-operational::after,
 .bagan-section .level-2-it::after {
   content: "";
   position: absolute;
-  left: calc(12.5% + 4px);
+  left: calc(12.5% + 3px);
   top: 5%;
-  height: calc(84%);
+  height: calc(80%);
   width: 2px;
   background-color: var(--main-color);
   z-index: -1;
@@ -288,9 +298,9 @@
   left: calc(-12.5% - 5px);
   top: 50%;
   height: 2px;
-  width: 13%;
+  width: 17%;
   background-color: var(--main-color);
-  z-index: -1;
+  z-index: -2;
 }
 
 /*  */
@@ -312,7 +322,7 @@
   font-family: "PoppinsFont", sans-serif;
 }
 
-/* X-Small devices (portrait phones, less than 576px) */
+/* ============================================= X-Small devices (portrait phones, less than 576px) ============================================= */
 @media (max-width: 575.98px) {
   .daftar-korwil .section-title{
     margin: 0;
@@ -327,9 +337,9 @@
   .big-vertical-line::before {
     content: "";
     position: absolute;
-    top: 5%;
-    left: calc(12.5% - 3px) !important;
-    height: 92.5% !important;
+    top: 0;
+    left: calc(11.7%) !important;
+    height: 98% !important;
     width: 2px;
     background-color: var(--main-color);
     z-index: -1;
@@ -383,20 +393,21 @@
     content: "";
     position: absolute;
     left: calc(-12.5% + 1px) !important;
-    top: 50%;
+    top: 51.5%;
     height: 2px;
-    width: 12%;
+    width: 15%;
     background-color: var(--main-color);
     z-index: -1;
   }
   .bagan-section .level-2-operational::after {
-    left: calc(12.5% + 3px) !important;
+    left: calc(13.5%) !important;
   }
   .bagan-section .level-2-it::after {
-    left: calc(12.5% + 3px) !important;
+    left: calc(13.5%) !important;
+    height: calc(85%);
   }
   .bagan-section .level-2-finance::after {
-    left: calc(12.5% + 3px) !important;
+    left: calc(13.5%) !important;
     height: calc(80%);
   }
   .bagan-section .level-2-business::after {
@@ -439,7 +450,7 @@
     z-index: -1;
   }
 }
-
+/* ============================================= X-Small devices (portrait phones, less than 767px) ============================================= */
 @media (min-width: 576px) and (max-width: 767.98px) {
   .company-profile-text p {
     text-align: justify;
@@ -468,9 +479,9 @@
   .big-vertical-line::before {
     content: "";
     position: absolute;
-    top: 5%;
-    left: calc(12.5% - 3px) !important;
-    height: 92.5% !important;
+    top: 0;
+    left: calc(11.7%) !important;
+    height: 97.5% !important;
     width: 2px;
     background-color: var(--main-color);
     z-index: -1;
@@ -524,20 +535,21 @@
     content: "";
     position: absolute;
     left: calc(-12.5% + 1px) !important;
-    top: 50%;
+    top: 51%;
     height: 2px;
-    width: 12%;
+    width: 15%;
     background-color: var(--main-color);
     z-index: -1;
   }
   .bagan-section .level-2-operational::after {
-    left: calc(12.5% + 3px) !important;
+    left: calc(13.6%) !important;
   }
   .bagan-section .level-2-it::after {
-    left: calc(12.5% + 3px) !important;
+    left: calc(13.6%) !important;
+    height: calc(85%);
   }
   .bagan-section .level-2-finance::after {
-    left: calc(12.5% + 3px) !important;
+    left: calc(13.6%) !important;
     height: calc(80%);
   }
   .bagan-section .level-2-business::after {
@@ -581,7 +593,7 @@
   }
 }
 
-/* Medium devices (tablets, less than 992px) */
+/* ============================================= Medium devices (tablets, less than 992px) ============================================= */
 @media (min-width: 768px) and (max-width: 991.98px) {
   .company-profile-text p {
     text-align: justify;
@@ -595,7 +607,7 @@
     position: absolute;
     top: 5%;
     left: 50%;
-    height: calc(62.5% + 5px);
+    height: calc(62.5%);
     width: 2px;
     background-color: var(--main-color);
     z-index: -1;
@@ -635,15 +647,17 @@
     left: calc(12.5% - 1px);
   }
   .bagan-section .level-2-it::after {
-    left: calc(12.5% - 1px);
+    left: calc(12% + 1px);
+    height: calc(84%);
   }
   .bagan-section .level-2-finance::after {
-    left: calc(22.5% + 7.5px);
+    left: calc(24.5%);
+    height: calc(58%);
   }
   .bagan-section .level-2-business::after {
-    left: calc(22.5% + 7.5px);
+    left: calc(24.5%);
   }
-  .bagan-section .level-2-finance .bagan-item::before,
+  /*.bagan-section .level-2-finance .bagan-item::before,
   .bagan-section .level-2-business .bagan-item::before {
     content: "";
     position: absolute;
@@ -653,7 +667,7 @@
     width: 14%;
     background-color: var(--main-color);
     z-index: -1;
-  }
+  }*/
   .bagan-section .level-2-operational .bagan-item::before,
   .bagan-section .level-2-it .bagan-item::before {
     content: "";
@@ -675,22 +689,21 @@
   }
   .level-3.line-right::before {
     left: calc(-12.5% - 3px) !important;
-    width: 12% !important;
   }
 }
-
+/* ============================================= Large devices (tablets, less than 1199px) ============================================= */
 @media (min-width: 992px) and (max-width: 1199.98px) {
   .bagan-section .level-2-business::after {
     height: 35%;
   }
   .bagan-section .level-2-finance::after {
-    height: calc(60% - 5px);
+    height: calc(50%);
   }
   .bagan-section .level-2-operational::after {
-    height: calc(84%);
+    height: calc(87%);
   }
   .bagan-section .level-2-it::after {
-    height: calc(84% - 5px);
+    height: calc(75%);
   }
   .bagan-section .level-2-business::after {
     height: 0%;
