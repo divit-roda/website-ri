@@ -79,7 +79,7 @@
                 <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
                         <ol>
-                            <li><p>RODA INDONESIA bertekad untuk menjadi Perusahaan digital berbasis Aplikasi Online dengan kualifikasi dan kompetensi bertaraf Nasional, serta bisnis yang berorientasi profesional, dan fokus untuk tetap Memanusiakan Manusia.</p></li>
+                            <li><p>Roda Indonesia bertekad untuk menjadi Perusahaan digital berbasis Aplikasi Online dengan kualifikasi dan kompetensi bertaraf Nasional, serta bisnis yang berorientasi profesional, dan fokus untuk tetap Memanusiakan Manusia.</p></li>
                             <li><p>Menjadikan Aplikasi Online yang berdampak Positif bagi Masyarakat pada umumnya dan Pemerintah pada khususnya.</p></li>
                         </ol>
                     </div>
@@ -96,10 +96,10 @@
                         <ol>
                             <li><p>Menjaga keamanan database pengguna aplikasi sesuai standar Sistem Keamanan Informasi dan pertumbuhan Ekonomi Digital.</p></li>
                             <li><p>Mengembangkan Industri Perangkat Lunak berbasis Aplikasi Online dengan Orientasi Budaya Profesional.</p></li>
-                            <li><p>Meningkatkan Branding RODA INDONESIA dengan mempertahankan kualitas Produk, Layanan dan Daya Jual dengan 9 KONSEP RODA INDONESIA.</p></li>
-                            <li><p>Melibatkan seluruh lapisan masyarakat dalam pengembangan RODA INDONESIA dan di setiap kegiatan pemberian dan penerimaan manfaat Aplikasi ini, sehingga diharapkan Masyarakat Indonesia lebih Sejahtera.</p></li>
-                            <li><p>Memberikan Solusi kepada Pemerintah melalui Konsep RIPUBLIC.</p></li>
-                            <li><p>Menjadikan setiap sumber daya manusia sebagai SA’UDARA.</p></li>
+                            <li><p>Meningkatkan Branding Roda Indonesia dengan mempertahankan kualitas Produk, Layanan dan Daya Jual dengan 9 Konsep Roda Indonesia.</p></li>
+                            <li><p>Melibatkan seluruh lapisan masyarakat dalam pengembangan Roda Indonesia dan di setiap kegiatan pemberian dan penerimaan manfaat Aplikasi ini, sehingga diharapkan Masyarakat Indonesia lebih Sejahtera.</p></li>
+                            <li><p>Memberikan Solusi kepada Pemerintah melalui Konsep RIPublic.</p></li>
+                            <li><p>Menjadikan setiap sumber daya manusia sebagai Saudara.</p></li>
                             <li><p>Mengajak masyarakat menjadi Individu yang Mandiri dan Kompeten.</p></li>
                         </ol>
                     </div>
