@@ -57,7 +57,7 @@
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-shield-user-line"></i></div>
-                    <h3>Keamanan Pengguna & Driver</h3>
+                    <h3>Keamanan Passanger dan Driver</h3>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-hand-coin-fill"></i></div>
