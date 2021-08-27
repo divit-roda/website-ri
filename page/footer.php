@@ -2,7 +2,7 @@
 <footer class="page-footer font-small bg-dark text-white">
 
     <!--Footer Links-->
-    <div class="container motto">
+    <div class="container motto px-3">
         <div class="page-footer-img">
             <img src="assets/logo/logo.png" width="100px" alt="">
         </div>
