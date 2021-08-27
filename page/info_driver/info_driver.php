@@ -77,11 +77,10 @@
 
 <section class="driver-attribut section-padding">
     <div class="container text-center">
-        <h3>Atribut</h3>
         <div class="row justify-content-center">
             <div class="col-lg-10">
                 <div class="section-title">
-                    <h2><span>Driver</span></h2>
+                    <h2>Atribut <span>Driver</span></h2>
                 </div>
             </div>
         </div>
