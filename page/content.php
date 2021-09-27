@@ -165,7 +165,7 @@
                     <a href="?page=ridu">
                         <div class="projek-item">
                             <div class="icon"><i class="ri-lightbulb-fill"></i></div>
-                            <h3>RIDU</h3>
+                            <h3>RIEDU</h3>
                             <p>Layanan Edukasi</p>
                         </div>
                     </a>

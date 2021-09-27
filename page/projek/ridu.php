@@ -33,19 +33,19 @@
     <div class="container mt-100px">
         <div class="ridu-explain-text">
             <div class="section-title">
-                <h3 class="mt-5 mt-md-0"><span>RIDU</span></h3>
+                <h3 class="mt-5 mt-md-0"><span>RIEDU</span></h3>
             </div>
             <div class="row justify-content-center mb-5">
                 <div class="ridu-img text-center">
                     <img src="assets/gambar/ridu/ridu-img.jpg" alt="" srcset="">
                 </div>
                 <div class="ridu-desc desc">
-                    <p>RIDU menyediakan fasilitas Edukasi untuk membuka mindset Entrepreneur masyarakat. Keuntungan lain bagi konsumen, produsen maupun driver untuk mendapatkan paket Pendidikan dan Pelatihan yang meliputi informasi pengembangan usaha, serta pelatihan produk-produk yang disajikan bersama para ahli di bidangnya masing-masing (kuliner, bisnis, entertainment, dll). Kegiatan ini akan menjadi jenjang karier Anda sebagai trainer bagi driver untuk rekan–rekan driver lainnya.</p>
+                    <p>RIEDU menyediakan fasilitas Edukasi untuk membuka mindset Entrepreneur masyarakat. Keuntungan lain bagi konsumen, produsen maupun driver untuk mendapatkan paket Pendidikan dan Pelatihan yang meliputi informasi pengembangan usaha, serta pelatihan produk-produk yang disajikan bersama para ahli di bidangnya masing-masing (kuliner, bisnis, entertainment, dll). Kegiatan ini akan menjadi jenjang karier Anda sebagai trainer bagi driver untuk rekan–rekan driver lainnya.</p>
                 </div>
             </div>
 
             <div class="section-title mb-0">
-                <h3 class="mb-0">Fitur-fitur <span>RIDU</span></h3>
+                <h3 class="mb-0">Fitur-fitur <span>RIEDU</span></h3>
             </div>
             <div class="project-features px-2 px-md-4 pt-4">
                 <div class="list-feature">

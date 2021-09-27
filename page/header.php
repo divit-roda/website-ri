@@ -142,7 +142,7 @@
                             <li>
                                 <hr class="dropdown-divider bg-white">
                             </li>
-                            <li><a class="dropdown-item" href="?page=ridu">RIDU</a></li>
+                            <li><a class="dropdown-item" href="?page=ridu">RIEDU</a></li>
                             <li><a class="dropdown-item" href="?page=richat">RICHAT</a></li>
                         </ul>
                     </li>
