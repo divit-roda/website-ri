@@ -34,7 +34,7 @@
 <section class="public-explain section-padding">
     <div class="container">
         <div class="section-title">
-            <h3><span>RIPublic</span></h3>
+            <h3><span>RIPUBLIC</span></h3>
         </div>
         <div class="public-explain-text mb-5 desc">
             <p>RIPUBLIC hadir untuk memberikan sebuah solusi terbaik dan sesuai dengan kebutuhan masyarakat di daerah masing-masing. RIPUBLIC menyediakan fasilitas angkutan lokal yang terjangkau bagi masyarakat. RIPUBLIC dilengkapi dengan fitur Tombol Darurat yang akan mengirimkan pesan singkat kepada kerabat maupun keluarga. Notifikasi waktu kedatangan, dan lokasi pemesanan, kami hadirkan sebagai kemudahan bagi penumpang dan pengendara angkutan untuk pelayanan yang aman dan nyaman.</p>
