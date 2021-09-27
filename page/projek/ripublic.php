@@ -37,11 +37,11 @@
             <h3><span>RIPublic</span></h3>
         </div>
         <div class="public-explain-text mb-5 desc">
-            <p>RIPublic hadir untuk memberikan sebuah solusi terbaik dan sesuai dengan kebutuhan masyarakat di daerah masing-masing. RIPublic menyediakan fasilitas angkutan lokal yang terjangkau bagi masyarakat. RIPublic dilengkapi dengan fitur Tombol Darurat yang akan mengirimkan pesan singkat kepada kerabat maupun keluarga. Notifikasi waktu kedatangan, dan lokasi pemesanan, kami hadirkan sebagai kemudahan bagi penumpang dan pengendara angkutan untuk pelayanan yang aman dan nyaman.</p>
+            <p>RIPUBLIC hadir untuk memberikan sebuah solusi terbaik dan sesuai dengan kebutuhan masyarakat di daerah masing-masing. RIPUBLIC menyediakan fasilitas angkutan lokal yang terjangkau bagi masyarakat. RIPUBLIC dilengkapi dengan fitur Tombol Darurat yang akan mengirimkan pesan singkat kepada kerabat maupun keluarga. Notifikasi waktu kedatangan, dan lokasi pemesanan, kami hadirkan sebagai kemudahan bagi penumpang dan pengendara angkutan untuk pelayanan yang aman dan nyaman.</p>
         </div>
 
         <div class="section-title mb-0">
-            <h3 class="mb-0">Fitur-fitur <span>RIPublic</span></h3>
+            <h3 class="mb-0">Fitur-fitur <span>RIPUBLIC</span></h3>
         </div>
         <div class="project-features px-2 px-md-4 pt-4">
             <div class="list-feature">

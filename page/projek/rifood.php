@@ -34,14 +34,14 @@
 <section class="rifood-explain section-padding">
     <div class="container mt-100px">
         <div class="section-title">
-            <h3 class="mt-5 mt-md-0"><span>RIFood</span></h3>
+            <h3 class="mt-5 mt-md-0"><span>RIFOOD</span></h3>
         </div>
         <div class="rifood-explain-text mb-5 desc">
-            <p>RIFood menyediakan berbagai macam makanan dan jajanan hasil olahan UMKM ataupun merchant ternama. Seluruh UMKM yang menjadi produsen makanan di RIFood dibimbing dan berada di bawah pengawasan Lab Kitchen (barisan chef berpengalaman) sehinga kualitas kebersihan dan kenikmatan rasa terjamin. Makanan-makanan lokal siap dipesan dan diantar oleh driver berlangganan Anda.</p>
+            <p>RIFOOD menyediakan berbagai macam makanan dan jajanan hasil olahan UMKM ataupun merchant ternama. Seluruh UMKM yang menjadi produsen makanan di RIFOOD dibimbing dan berada di bawah pengawasan Lab Kitchen (barisan chef berpengalaman) sehinga kualitas kebersihan dan kenikmatan rasa terjamin. Makanan-makanan lokal siap dipesan dan diantar oleh driver berlangganan Anda.</p>
         </div>
 
         <div class="section-title mb-0">
-            <h3 class="mb-0">Fitur-fitur <span>RIFood</span></h3>
+            <h3 class="mb-0">Fitur-fitur <span>RIFOOD</span></h3>
         </div>
         <div class="project-features px-2 px-md-4 pt-4">
             <div class="list-feature">

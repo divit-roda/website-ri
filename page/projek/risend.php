@@ -33,14 +33,14 @@
 <section class="risend-explain section-padding">
     <div class="container mt-100px">
         <div class="section-title">
-            <h3 class="mt-5 mt-md-0"><span>RISend</span></h3>
+            <h3 class="mt-5 mt-md-0"><span>RISEND</span></h3>
         </div>
         <div class="risend-explain-text mb-5 desc">
-            <p>RISend hadir ditengah masyarakat yang membutuhkan jasa pengantaran barang dalam skala kecil maupun skala besar, tanpa harus memikirkan resiko kerusakan pada barang yang dikirimkan. Tenaga terlatih RISend siap mengantarkan barang kiriman dengan cepat ke tujuan. Jasa Kurir jemput dan antar dapat digunakan untuk konsumen, usaha rumahan, UMKM maupun paket-paket dalam kota atau antar kota dengan harga yang bersaing. Pelayanan kami sebagai mitra untuk kepuasan konsumen pelanggan Anda</p>
+            <p>RISEND hadir ditengah masyarakat yang membutuhkan jasa pengantaran barang dalam skala kecil maupun skala besar, tanpa harus memikirkan resiko kerusakan pada barang yang dikirimkan. Tenaga terlatih RISEND siap mengantarkan barang kiriman dengan cepat ke tujuan. Jasa Kurir jemput dan antar dapat digunakan untuk konsumen, usaha rumahan, UMKM maupun paket-paket dalam kota atau antar kota dengan harga yang bersaing. Pelayanan kami sebagai mitra untuk kepuasan konsumen pelanggan Anda</p>
         </div>
 
         <div class="section-title mb-0">
-            <h3 class="mb-0">Fitur-fitur <span>RISend</span></h3>
+            <h3 class="mb-0">Fitur-fitur <span>RISEND</span></h3>
         </div>
         <div class="project-features px-2 px-md-4 pt-4">
             <div class="list-feature">

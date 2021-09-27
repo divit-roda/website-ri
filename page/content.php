@@ -111,7 +111,7 @@
                     <a href="?page=rimart">
                         <div class="projek-item">
                             <div class="icon"><i class="ri-shopping-bag-fill"></i></div>
-                            <h3>RIMart</h3>
+                            <h3>RIMART</h3>
                             <p>Layanan Marketplace</p>
                         </div>
                     </a>
@@ -120,7 +120,7 @@
                     <a href="?page=ribike">
                         <div class="projek-item">
                             <div class="icon"><i class="ri-e-bike-2-fill"></i></div>
-                            <h3>RIBike</h3>
+                            <h3>RIBIKE</h3>
                             <p>Layanan Transportasi Online Roda 2</p>
                         </div>
                     </a>
@@ -129,7 +129,7 @@
                     <a href="?page=ricar">
                         <div class="projek-item">
                             <div class="icon"><i class="ri-roadster-fill"></i></div>
-                            <h3>RICar</h3>
+                            <h3>RICAR</h3>
                             <p>Layanan Transportasi Online Roda 4</p>
                         </div>
                     </a>
@@ -138,7 +138,7 @@
                     <a href="?page=rifood">
                         <div class="projek-item">
                             <div class="icon"><i class="ri-restaurant-fill"></i></div>
-                            <h3>RIFood</h3>
+                            <h3>RIFOOD</h3>
                             <p>Layanan Pengantaran Makanan</p>
                         </div>
                     </a>
@@ -147,7 +147,7 @@
                     <a href="?page=risend">
                         <div class="projek-item">
                             <div class="icon"><i class="ri-inbox-unarchive-fill"></i></div>
-                            <h3>RISend</h3>
+                            <h3>RISEND</h3>
                             <p>Layanan Pengantaran Barang</p>
                         </div>
                     </a>
@@ -156,7 +156,7 @@
                     <a href="?page=ripublic">
                         <div class="projek-item">
                             <div class="icon"><i class="ri-bus-fill"></i></div>
-                            <h3>RIPublic</h3>
+                            <h3>RIPUBLIC</h3>
                             <p>Layanan Transportasi Umum</p>
                         </div>
                     </a>
@@ -165,7 +165,7 @@
                     <a href="?page=ridu">
                         <div class="projek-item">
                             <div class="icon"><i class="ri-lightbulb-fill"></i></div>
-                            <h3>RIDu</h3>
+                            <h3>RIDU</h3>
                             <p>Layanan Edukasi</p>
                         </div>
                     </a>
@@ -174,7 +174,7 @@
                     <a href="?page=ritrip">
                         <div class="projek-item">
                             <div class="icon"><i class="ri-road-map-fill"></i></div>
-                            <h3>RITrip</h3>
+                            <h3>RITRIP</h3>
                             <p>Layanan Tour & Travel</p>
                         </div>
                     </a>
@@ -183,7 +183,7 @@
                     <a href="?page=richat">
                         <div class="projek-item">
                             <div class="icon"><i class="ri-wechat-line"></i></div>
-                            <h3>RIChat</h3>
+                            <h3>RICHAT</h3>
                             <p>Layanan Komunikasi Text & Suara</p>
                         </div>
                     </a>

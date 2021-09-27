@@ -33,14 +33,14 @@
 <section class="ricar-explain section-padding">
     <div class="container mt-100px">
         <div class="section-title">
-            <h3 class="mt-5 mt-md-0"><span>RICar</span></h4>
+            <h3 class="mt-5 mt-md-0"><span>RICAR</span></h4>
         </div>
         <div class="ricar-explain-text mb-5 desc">
-            <p>RICar menjadi salah satu fitur yang dapat diandalkan dalam keamanan dan kenyamanan tetapi tetap efisien dalam beraktifitas. Driver Berlangganan menjadi produk unggulan kami selain Driver Reguler. Kami juga menyediakan paket One Day Service, Mingguan maupun Bulanan. Anda bisa memilih jenis kendaraan yang anda inginkan, dan Driver Pribadi pilihan anda yang ramah serta aman dalam membantu Anda dan menjadi mitra bagi kelancaran kebutuhan aktifitas Anda.</p>
+            <p>RICAR menjadi salah satu fitur yang dapat diandalkan dalam keamanan dan kenyamanan tetapi tetap efisien dalam beraktifitas. Driver Berlangganan menjadi produk unggulan kami selain Driver Reguler. Kami juga menyediakan paket One Day Service, Mingguan maupun Bulanan. Anda bisa memilih jenis kendaraan yang anda inginkan, dan Driver Pribadi pilihan anda yang ramah serta aman dalam membantu Anda dan menjadi mitra bagi kelancaran kebutuhan aktifitas Anda.</p>
         </div>
 
         <div class="section-title mb-0">
-            <h3 class="mb-0">Fitur-fitur <span>RICar</span></h3>
+            <h3 class="mb-0">Fitur-fitur <span>RICAR</span></h3>
         </div>
         <div class="project-features px-2 px-md-4 pt-4">
             <div class="list-feature">
