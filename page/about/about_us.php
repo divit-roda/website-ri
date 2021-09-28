@@ -240,7 +240,6 @@
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                                 <div class="d-flex align-items-center justify-content-center flex-column">
                                     <p class="tim-section-jabatan"><strong>Head Marketing</strong></p></b>
-
                                 </div>
                             </div>
                         </li>
