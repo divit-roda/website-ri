@@ -125,6 +125,15 @@
             <div class="sertifikat-item">
                 <img src="assets/gambar/legal/s_dishub.jpg" alt="" srcset="">
             </div>
+            <div class="sertifikat-item">
+                <img src="assets/gambar/legal/SertifikatPSE_page-0001.jpg" alt="" srcset="">
+            </div>
+            <div class="sertifikat-item">
+                <img src="assets/gambar/legal/Sertifikat-JID2019019624_page-0001.jpg" alt="" srcset="">
+            </div>
+            <div class="sertifikat-item">
+                <img src="assets/gambar/legal/Sertifikat-JID2019019624_page-0002.jpg" alt="" srcset="">
+            </div>
         </div>
     </div>
 </section>
