@@ -8,7 +8,7 @@
         </div>
         <div class="page-footer-text">
             100% Karya Anak Nusantara
-            <div class="my-3">Hemat, Cerdas, dan Bersahabat. Menjadi satu-satunya Aplikasi Karya Anak Nusantara yang Bergerak Mandiri Untuk Nusantara.</div>
+            <div class="my-3">Hemat, Cermat, dan Bersahabat. Menjadi satu-satunya Aplikasi Karya Anak Nusantara yang Bergerak Mandiri Untuk Indonesia.</div>
             #satusentuhanuntuksemua
             <br>#hematcerdasbersahabat
             <br>#rodaindonesia

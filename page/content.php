@@ -13,8 +13,8 @@
                     <h3>Selamat Datang di</h3>
                     <h1>Roda Indonesia</h1>
                     <!-- Heading -->
-                    <p class="pembuka-desc">Hemat, Cerdas, dan Bersahabat. Menjadi satu-satunya Aplikasi Karya Anak Nusantara yang Bergerak Mandiri Untuk Indonesia</p>
-                    
+                    <p class="pembuka-desc">Hemat, Cermat, dan Bersahabat. Menjadi satu-satunya Aplikasi Karya Anak Nusantara yang Bergerak Mandiri Untuk Indonesia</p>
+
                     <!-- Jumbotron Button -->
                     <div class="jumbotron-btn">
                         <button type="button" data-bs-toggle="modal" data-bs-target="#ModalAppBelumTersedia" class="btn btn-1 download-btn">Download Aplikasi</button>
@@ -248,7 +248,7 @@
                     <h3>Ayo bergerak bersama untuk indonesia</h3>
                     <!-- Button download app-->
                     <div class="app-download-btn">
-                        <button type="button" data-bs-toggle="modal" data-bs-target="#ModalAppBelumTersedia" class="btn btn-1 download-btn"><i class="ri-google-play-fill"></i>Play Store</button> 
+                        <button type="button" data-bs-toggle="modal" data-bs-target="#ModalAppBelumTersedia" class="btn btn-1 download-btn"><i class="ri-google-play-fill"></i>Play Store</button>
                     </div>
                 </div>
             </div>
