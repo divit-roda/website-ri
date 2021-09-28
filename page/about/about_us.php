@@ -125,6 +125,15 @@
             <div class="sertifikat-item">
                 <img src="assets/gambar/legal/s_dishub.jpg" alt="" srcset="">
             </div>
+            <div class="sertifikat-item">
+                <img src="assets/gambar/legal/SertifikatPSE_page-0001.jpg" alt="" srcset="">
+            </div>
+            <div class="sertifikat-item">
+                <img src="assets/gambar/legal/Sertifikat-JID2019019624_page-0001.jpg" alt="" srcset="">
+            </div>
+            <div class="sertifikat-item">
+                <img src="assets/gambar/legal/Sertifikat-JID2019019624_page-0002.jpg" alt="" srcset="">
+            </div>
         </div>
     </div>
 </section>
@@ -264,7 +273,7 @@
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                                 <div class="d-flex align-items-center justify-content-center flex-column">
                                     <p class="tim-section-jabatan"><strong>Programmer</strong></p></b>
-                                    <p class="tim-section-jabatan">Gita Suciana Ramadhanty</p>
+                                    <p class="tim-section-jabatan">Rian Rahmawan</p>
                                 </div>
                             </div>
                         </li>
@@ -277,7 +286,7 @@
                                 </div>
                             </div>
                         </li>
-                        <li>
+                        <!-- <li>
                             <div class="bagan-item level-3 line-right d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                                 <div class="d-flex align-items-center justify-content-center flex-column">
@@ -285,7 +294,7 @@
                                     <p class="tim-section-jabatan">Rian Rahmawan</p>
                                 </div>
                             </div>
-                        </li>
+                        </li> -->
                     </ol>
                 </li>
                 <li class="level-2-business line-right position-relative my-md-5 my-lg-0">

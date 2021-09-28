@@ -33,15 +33,15 @@
 <section class="rijek-explain section-padding">
     <div class="container mt-100px">
         <div class="section-title">
-            <h3 class="mt-5 mt-md-0"><span>RIBike</span></h3>
+            <h3 class="mt-5 mt-md-0"><span>RIBIKE</span></h3>
         </div>
         <div class="rijek-explain-text mb-5 desc">
-            <p>RIBike adalah fitur transportasi online roda dua yang siap mengantarkan penumpang di area sekitar, dengan cepat, tepat, serta tetap mengutamakan keselamatan. RIBike menjadi salah satu alternatif transportasi berbasis online bagi mereka yg dituntut serba cepat dalam aktifitasnya. Terdapat fitur Driver Berlangganan untuk memberikan kenyamanan, dan keamanan bagi penumpang. Potongan yang lebih layak untuk driver serta diproteksi oleh asuransi. Serta tersedia Paket Mingguan dan Bulanan bagi penumpang dengan harga yang menarik dan terjangkau untuk memudahkan mengatur pengeluaran transportasi Anda.
+            <p>RIBIKE adalah fitur transportasi online roda dua yang siap mengantarkan penumpang di area sekitar, dengan cepat, tepat, serta tetap mengutamakan keselamatan. RIBIKE menjadi salah satu alternatif transportasi berbasis online bagi mereka yg dituntut serba cepat dalam aktifitasnya. Terdapat fitur Driver Berlangganan untuk memberikan kenyamanan, dan keamanan bagi penumpang. Potongan yang lebih layak untuk driver serta diproteksi oleh asuransi. Serta tersedia Paket Mingguan dan Bulanan bagi penumpang dengan harga yang menarik dan terjangkau untuk memudahkan mengatur pengeluaran transportasi Anda.
             </p>
         </div>
 
         <div class="section-title mb-0">
-            <h3 class="mb-0">Fitur-fitur <span>RIBike</span></h3>
+            <h3 class="mb-0">Fitur-fitur <span>RIBIKE</span></h3>
         </div>
         <div class="project-features px-2 px-md-4 pt-4">
             <div class="list-feature">

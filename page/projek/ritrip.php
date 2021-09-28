@@ -32,14 +32,14 @@
 <section class="ritrip-explain section-padding">
     <div class="container mt-100px">
         <div class="section-title">
-            <h3 class="mt-5 mt-md-0"><span>RITrip</span></h3>
+            <h3 class="mt-5 mt-md-0"><span>RITRIP</span></h3>
         </div>
         <div class="ritrip-explain-text mb-5 desc">
-            <p>RITrip melayani Anda yang ingin melakukan perjalan privasi bersama pasangan, keluarga, atau pun rekan kerja Anda. Untuk satu moment perjalanan atau yang terjadwal setiap hari baik personal ataupun massal. Jalan-jalan dan liburan Anda akan lebih seru dengan informasi yang lengkap serta paket-paket wisata lokal bersama driver pribadi Anda. Anda akan didamping Tour Guide bersertifikat yang dapat memandu dan mengatur perjalanan Anda menjadi lebih terencana dan istimewa.</p>
+            <p>RITRIP melayani Anda yang ingin melakukan perjalan privasi bersama pasangan, keluarga, atau pun rekan kerja Anda. Untuk satu moment perjalanan atau yang terjadwal setiap hari baik personal ataupun massal. Jalan-jalan dan liburan Anda akan lebih seru dengan informasi yang lengkap serta paket-paket wisata lokal bersama driver pribadi Anda. Anda akan didamping Tour Guide bersertifikat yang dapat memandu dan mengatur perjalanan Anda menjadi lebih terencana dan istimewa.</p>
         </div>
 
         <div class="section-title mb-0">
-            <h3 class="mb-0">Fitur-fitur <span>RITrip</span></h3>
+            <h3 class="mb-0">Fitur-fitur <span>RITRIP</span></h3>
         </div>
         <div class="row project-features justify-content-center">
             <div class="col-10 col-md-4 pt-4">

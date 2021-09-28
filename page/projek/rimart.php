@@ -34,14 +34,14 @@
 <section class="mart-explain section-padding">
     <div class="container">
         <div class="section-title">
-            <h3 class="mt-5 mt-md-0"><span>RIMart</span></h3>
+            <h3 class="mt-5 mt-md-0"><span>RIMART</span></h3>
         </div>
         <div class="mart-explain-text mb-5 desc">
-            <p>RIMart adalah fitur Marketplace yang memfasilitasi proses transaksi Jual Beli Online. RIMart memfasilitasi penjualan produk dengan Branding sehingga produk dapat dijangkau konsumen dengan mudah dan terpercaya. RIMart telah bekerjasama dengan pemerintah-pemerintah daerah dalam mendapatkan data penjualan yang bermanfaat untuk wirausaha Anda. RIMart juga menyediakan informasi harga produk yang bersaing untuk konsumen Roda Indonesia di setiap wilayah terdekat.</p>
+            <p>RIMART adalah fitur Marketplace yang memfasilitasi proses transaksi Jual Beli Online. RIMART memfasilitasi penjualan produk dengan Branding sehingga produk dapat dijangkau konsumen dengan mudah dan terpercaya. RIMART telah bekerjasama dengan pemerintah-pemerintah daerah dalam mendapatkan data penjualan yang bermanfaat untuk wirausaha Anda. RIMART juga menyediakan informasi harga produk yang bersaing untuk konsumen Roda Indonesia di setiap wilayah terdekat.</p>
         </div>
 
         <div class="section-title mb-0">
-            <h3 class="mb-0">Fitur-fitur <span>RIMart</span></h3>
+            <h3 class="mb-0">Fitur-fitur <span>RIMART</span></h3>
         </div>
         <div class="project-features px-2 px-md-4 pt-4">
             <div class="list-feature">

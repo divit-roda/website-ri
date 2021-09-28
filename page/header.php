@@ -123,27 +123,27 @@
                             Projek &nbsp;<i class="ri-arrow-down-s-line" style="font-size: 13px;"></i>
                         </a>
                         <ul class="dropdown-menu dropdown-menu-white" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="?page=ribike">RIBike</a></li>
-                            <li><a class="dropdown-item" href="?page=ricar">RICar</a></li>
-                            <li><a class="dropdown-item" href="?page=ripublic">RIPublic</a></li>
+                            <li><a class="dropdown-item" href="?page=ribike">RIBIKE</a></li>
+                            <li><a class="dropdown-item" href="?page=ricar">RICAR</a></li>
+                            <li><a class="dropdown-item" href="?page=ripublic">RIPUBLIC</a></li>
                             <li>
                                 <hr class="dropdown-divider bg-white">
                             </li>
-                            <li><a class="dropdown-item" href="?page=rimart">RIMart</a></li>
-                            <li><a class="dropdown-item" href="?page=rifood">RIFood</a></li>
+                            <li><a class="dropdown-item" href="?page=rimart">RIMART</a></li>
+                            <li><a class="dropdown-item" href="?page=rifood">RIFOOD</a></li>
                             <li>
                                 <hr class="dropdown-divider bg-white">
                             </li>
-                            <li><a class="dropdown-item" href="?page=risend">RISend</a></li>
+                            <li><a class="dropdown-item" href="?page=risend">RISEND</a></li>
                             <li>
                                 <hr class="dropdown-divider bg-white">
                             </li>
-                            <li><a class="dropdown-item" href="?page=ritrip">RITrip</a></li>
+                            <li><a class="dropdown-item" href="?page=ritrip">RITRIP</a></li>
                             <li>
                                 <hr class="dropdown-divider bg-white">
                             </li>
-                            <li><a class="dropdown-item" href="?page=ridu">RIDu</a></li>
-                            <li><a class="dropdown-item" href="?page=richat">RIChat</a></li>
+                            <li><a class="dropdown-item" href="?page=ridu">RIEDU</a></li>
+                            <li><a class="dropdown-item" href="?page=richat">RICHAT</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
