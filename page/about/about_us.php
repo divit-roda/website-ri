@@ -79,8 +79,12 @@
                 <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
                         <ol>
-                            <li><p>Roda Indonesia bertekad untuk menjadi Perusahaan digital berbasis Aplikasi Online dengan kualifikasi dan kompetensi bertaraf Nasional, serta bisnis yang berorientasi profesional, dan fokus untuk tetap Memanusiakan Manusia.</p></li>
-                            <li><p>Menjadikan Aplikasi Online yang berdampak Positif bagi Masyarakat pada umumnya dan Pemerintah pada khususnya.</p></li>
+                            <li>
+                                <p>Roda Indonesia bertekad untuk menjadi Perusahaan digital berbasis Aplikasi Online dengan kualifikasi dan kompetensi bertaraf Nasional, serta bisnis yang berorientasi profesional, dan fokus untuk tetap Memanusiakan Manusia.</p>
+                            </li>
+                            <li>
+                                <p>Menjadikan Aplikasi Online yang berdampak Positif bagi Masyarakat pada umumnya dan Pemerintah pada khususnya.</p>
+                            </li>
                         </ol>
                     </div>
                 </div>
@@ -94,13 +98,27 @@
                 <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
                         <ol>
-                            <li><p>Menjaga keamanan database pengguna aplikasi sesuai standar Sistem Keamanan Informasi dan pertumbuhan Ekonomi Digital.</p></li>
-                            <li><p>Mengembangkan Industri Perangkat Lunak berbasis Aplikasi Online dengan Orientasi Budaya Profesional.</p></li>
-                            <li><p>Meningkatkan Branding Roda Indonesia dengan mempertahankan kualitas Produk, Layanan dan Daya Jual dengan 9 Konsep Roda Indonesia.</p></li>
-                            <li><p>Melibatkan seluruh lapisan masyarakat dalam pengembangan Roda Indonesia dan di setiap kegiatan pemberian dan penerimaan manfaat Aplikasi ini, sehingga diharapkan Masyarakat Indonesia lebih Sejahtera.</p></li>
-                            <li><p>Memberikan Solusi kepada Pemerintah melalui Konsep RIPublic.</p></li>
-                            <li><p>Menjadikan setiap sumber daya manusia sebagai Saudara.</p></li>
-                            <li><p>Mengajak masyarakat menjadi Individu yang Mandiri dan Kompeten.</p></li>
+                            <li>
+                                <p>Menjaga keamanan database pengguna aplikasi sesuai standar Sistem Keamanan Informasi dan pertumbuhan Ekonomi Digital.</p>
+                            </li>
+                            <li>
+                                <p>Mengembangkan Industri Perangkat Lunak berbasis Aplikasi Online dengan Orientasi Budaya Profesional.</p>
+                            </li>
+                            <li>
+                                <p>Meningkatkan Branding Roda Indonesia dengan mempertahankan kualitas Produk, Layanan dan Daya Jual dengan 9 Konsep Roda Indonesia.</p>
+                            </li>
+                            <li>
+                                <p>Melibatkan seluruh lapisan masyarakat dalam pengembangan Roda Indonesia dan di setiap kegiatan pemberian dan penerimaan manfaat Aplikasi ini, sehingga diharapkan Masyarakat Indonesia lebih Sejahtera.</p>
+                            </li>
+                            <li>
+                                <p>Memberikan Solusi kepada Pemerintah melalui Konsep RIPublic.</p>
+                            </li>
+                            <li>
+                                <p>Menjadikan setiap sumber daya manusia sebagai Saudara.</p>
+                            </li>
+                            <li>
+                                <p>Mengajak masyarakat menjadi Individu yang Mandiri dan Kompeten.</p>
+                            </li>
                         </ol>
                     </div>
                 </div>
@@ -129,10 +147,7 @@
                 <img src="assets/gambar/legal/SertifikatPSE_page-0001.jpg" alt="" srcset="">
             </div>
             <div class="sertifikat-item">
-                <img src="assets/gambar/legal/Sertifikat-JID2019019624_page-0001.jpg" alt="" srcset="">
-            </div>
-            <div class="sertifikat-item">
-                <img src="assets/gambar/legal/Sertifikat-JID2019019624_page-0002.jpg" alt="" srcset="">
+                <img src="assets/gambar/legal/s_nib.jpeg" alt="" srcset="">
             </div>
         </div>
     </div>
@@ -225,7 +240,6 @@
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                                 <div class="d-flex align-items-center justify-content-center flex-column">
                                     <p class="tim-section-jabatan"><strong>Head Marketing</strong></p></b>
-                                    
                                 </div>
                             </div>
                         </li>
@@ -240,7 +254,7 @@
                         </div>
                     </div>
                     <ol class="level-3-wrapper">
-                    <li>
+                        <li>
                             <div class="bagan-item level-3 line-right d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                                 <div class="d-flex align-items-center justify-content-center flex-column">
@@ -281,7 +295,7 @@
                             <div class="bagan-item level-3 line-right d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                                 <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Creative Multimedia</strong></p>     
+                                    <p class="tim-section-jabatan"><strong>Creative Multimedia</strong></p>
                                     <p class="tim-section-jabatan">Satrya Eka P.</p>
                                 </div>
                             </div>
