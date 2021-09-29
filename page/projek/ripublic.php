@@ -37,7 +37,7 @@
             <h3><span>RIPUBLIC</span></h3>
         </div>
         <div class="public-explain-text mb-5 desc">
-            <p>RIPUBLIC hadir untuk memberikan sebuah solusi terbaik dan sesuai dengan kebutuhan masyarakat di daerah masing-masing. RIPUBLIC menyediakan fasilitas angkutan lokal yang terjangkau bagi masyarakat. RIPUBLIC dilengkapi dengan fitur Tombol Darurat yang akan mengirimkan pesan singkat kepada kerabat maupun keluarga. Notifikasi waktu kedatangan, kami hadirkan sebagai kemudahan bagi penumpang dan pengendara angkutan untuk pelayanan yang aman dan nyaman.</p>
+            <p>RIPUBLIC hadir untuk memberikan sebuah solusi terbaik dan sesuai dengan kebutuhan masyarakat di daerah masing-masing. RIPUBLIC menyediakan fasilitas angkutan lokal yang terjangkau bagi masyarakat. RIPUBLIC dilengkapi dengan fitur Tombol Darurat yang akan mengirimkan pesan singkat kepada kerabat maupun keluarga. Notifikasi waktu kedatangan, dan Lokasi Armada, kami hadirkan sebagai kemudahan bagi penumpang dan pengendara angkutan untuk pelayanan yang aman dan nyaman.</p>
         </div>
 
         <div class="section-title mb-0">
@@ -54,7 +54,7 @@
             </div>
             <div class="list-feature">
                 <i class="ri-time-fill"></i>
-                <p>Notifikasi waktu kedatangan.</p>
+                <p>Notifikasi waktu kedatangan dan Lokasi Armada</p>
             </div>
             <div class="list-feature">
                 <i class="ri-article-fill"></i>
