@@ -221,6 +221,12 @@
                 <div class="support-item">
                     <img src="assets/logo/gbsrilogos.png" class="w-75 grayscale" alt="" srcset="">
                 </div>
+                <div class="support-item">
+                    <img src="assets/logo/motionpaylogo.png" class="w-75 grayscale" alt="" srcset="">
+                </div>
+                <div class="support-item">
+                    <img src="assets/logo/motion_insure.png" class="w-75 grayscale" alt="" srcset="">
+                </div>
             </div>
         </div>
     </div>
