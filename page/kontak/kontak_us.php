@@ -66,11 +66,11 @@
                                 <div class="col-1">:</div>
                                 <div class="col-6">(022) 2068 2586</div>
                             </div>
-                            <div class="row">
+                            <!-- <div class="row">
                                 <div class="col-5">Hotline</div>
                                 <div class="col-1">:</div>
                                 <div class="col-6">(0813) 2220 5561</div>
-                            </div>
+                            </div> -->
                             <div class="row d-flex">
                                 <div class="col-5">Technical Service</div>
                                 <div class="col-1">:</div>
