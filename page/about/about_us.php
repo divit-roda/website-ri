@@ -213,7 +213,7 @@
                         <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                         <div class="d-flex align-items-center justify-content-center flex-column">
                             <p class="tim-section-jabatan"><strong>COO</strong></p></b>
-                            <p class="tim-section-jabatan">Arsyi Raspaty Wibawa</p>
+                            <p class="tim-section-jabatan"></p>
                         </div>
                     </div>
                     <ol class="level-3-wrapper">
