@@ -15,9 +15,9 @@
                 </div>
             </div>
             <div class="col-12 col-lg-5 text-center">
-                <div class="jumbotron-img">
+                <div class="">
                     <div class="circle"></div>
-                    <i class="ri-user-line"></i>
+                    <i class=""></i>
                 </div>
             </div>
         </div>
