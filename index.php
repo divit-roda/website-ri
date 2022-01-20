@@ -20,6 +20,10 @@ switch ($page) {
     case 'info_driver':
         include "page/info_driver/info_driver.php";
         break;
+    
+    case 'koperasi':
+        include "page/koperasi/koperasi.php";
+         break;
 
     case 'ribike':
         include "page/projek/ribike.php";

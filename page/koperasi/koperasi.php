@@ -1,5 +1,3 @@
-<!-- Contact Us Page -->
-
 <!-- Jumbotron -->
 <section class="page-jumbotron d-flex align-items-center">
     <div class="effect-wrap">
@@ -9,16 +7,17 @@
     </div>
     <div class="container ">
         <div class="row align-items-center">
-            <div class="col-12 col-lg-7 text-center text-lg-start judul-halaman">
+            <div class="col-12 col-lg-7 text-lg-start">
                 <div class="jumbotron-text">
                     <!-- Description -->
-                    <h1>Hubungi Kami</h1>
+                    <h3>Roda Indonesia</h3>
+                    <h1>Koperasi</h1>
                 </div>
             </div>
-            <div class="col-12 col-lg-5 text-center default-logo-box">
-                <div class="jumbotron-img logofitur">
+            <div class="col-12 col-lg-5 text-center">
+                <div class="jumbotron-img">
                     <div class="circle"></div>
-                    <i class="ri-mail-line"></i>
+                    <i class="ri-user-line"></i>
                 </div>
             </div>
         </div>
@@ -31,118 +30,3 @@
     </svg>
 </section>
 <!-- Akhir Jumbotron -->
-
-<section class="maps section-padding">
-    <div class="container">
-        <div class="contact-info">
-            <div class="section-title text-center">
-                <h2><span>Lokasi <br class="d-md-none">Perusahaan</span> Kami</h2>
-            </div>
-            <div class="contact-info-item lokasi-perusahaan text-center">
-                <i class="ri-map-pin-2-fill"></i>
-                <h4>Alamat Perusahaan</h4>
-                <p class="text-center">Jl. Mogandi IV No.2, Kel. Malalayang Satu, Kec. Malalayang, Kota Manado, Sulawesi Utara</p>
-                <div id="maps"></div>
-            </div>
-            <hr style="background-color: gainsboro;">
-            <div class="row justify-content-center">
-                <div class="col-12 col-md-10 align-self-center pt-4">
-                    <div class="contact-info-item">
-                        <i class="ri-pin-distance-fill"></i>
-                        <h4>Cabang Utama</h4>
-                        <p>Jl. Tegal Kawung No.42, Cipageran, Kec. Cimahi Utara, Cimahi, Jawa Barat 40511</p>
-                    </div>
-                    <div class="contact-info-item">
-                        <i class="ri-mail-send-fill"></i>
-                        <h4>Email</h4>
-                        <p>cs@rodaindonesia.site</p>
-                    </div>
-                    <div class="contact-info-item">
-                        <i class="ri-phone-fill"></i>
-                        <h4>Nomor Telepon</h4>
-                        <div class="contact-detail col-12 col-md-8 col-lg-6">
-                            <div class="row">
-                                <div class="col-5">Telepon</div>
-                                <div class="col-1">:</div>
-                                <div class="col-6">(022) 2068 2586</div>
-                            </div>
-                            <!-- <div class="row">
-                                <div class="col-5">Hotline</div>
-                                <div class="col-1">:</div>
-                                <div class="col-6">(0813) 2220 5561</div>
-                            </div> -->
-                            <div class="row d-flex">
-                                <div class="col-5">Technical Service</div>
-                                <div class="col-1">:</div>
-                                <div class="col-6">(0838) 3662 6451<br>(0813) 2214 6567</div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-<!-- kontak section start -->
-<section class="contact section-padding">
-    <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-8">
-                <div class="section-title">
-                    <h2><span>Hubungi</span> Kami</h2>
-                </div>
-                <div class="contact-text">
-                    <h3>Untuk Setiap Pertanyaan dan Dukungan</h3>
-                </div>
-            </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-12 col-md-10">
-                <div class="contact-form">
-                    <form action="">
-                        <div class="row">
-                            <div class="col-lg-6">
-                                <div class="form-group">
-                                    <input type="text" name="" id="contact-name" placeholder="Nama Lengkap" class="form-control">
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="form-group">
-                                    <input type="email" name="" id="contact-name" placeholder="Email" class="form-control">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-lg-12">
-                                <div class="form-group">
-                                    <input type="number" name="" id="" placeholder="Nomor Telepon" class="form-control">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-lg-12">
-                                <div class="form-group">
-                                    <input type="text" name="" id="" placeholder="Subjek Pesan" class="form-control">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col-lg-12">
-                                <div class="form-group">
-                                    <textarea name="" id="" rows="2" placeholder="Isi Pesan" class="form-control"></textarea>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row btn-kirim-pesan">
-                            <div class="col-lg-12">
-                                <button type="submit" class="btn btn-2">Kirim Pesan</button>
-                            </div>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- kontak section end -->

@@ -36,6 +36,10 @@
             echo '<link rel="stylesheet" type="text/css" href="css/page_css/info_driver.css">';
             break;
 
+        case 'koperasi':
+            echo '<link rel="stylesheet" type="text/css" href="css/page_css/koperasi.css">';
+            break;
+
         case 'ribike':
             echo '<link rel="stylesheet" type="text/css" href="css/page_css/projek/ribike.css">';
             break;
@@ -150,7 +154,7 @@
                         <a class="nav-link color-white" href="?page=info_driver">Info Driver</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link color-white home" href="?page=koperasi&sub_page=koperasi2">Koperasi</a>
+                        <a class="nav-link color-white" href="?page=koperasi">Koperasi</a>
                     </li>
                     <!-- <li class="nav-item">
                         <a class="nav-link color-white" href="?page=info_user">Info User</a>
