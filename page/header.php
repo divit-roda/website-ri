@@ -149,6 +149,9 @@
                     <li class="nav-item">
                         <a class="nav-link color-white" href="?page=info_driver">Info Driver</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link color-white home" href="?page=koperasi&sub_page=koperasi2">Koperasi</a>
+                    </li>
                     <!-- <li class="nav-item">
                         <a class="nav-link color-white" href="?page=info_user">Info User</a>
                     </li> -->
