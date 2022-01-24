@@ -36,6 +36,33 @@
         <div class="service-features desc">
             <div class="service-feature-item">
                 <div class="section-title">
+                <h3>Ketentuan Umum Persyaratan Layanan</h3>
+                </div>
+                <h5>TATA CARA MENJADI MITRA DRIVER RODA INDONESIA</h5>
+                <ol>
+                    <li>Untuk Mitra Driver di 3 Bulan Pertama (Masa Trial), dibebaskan dari iuran bulanan, tapi diwajibkan membeli Atribut Roda Indonesia secara Tunai yang di lakukan bersamaan pada saat Top Up Deposit untuk meng-Aktivasi Aplikasi :</li>
+                        <p class="mt-3"></p>
+                        <ul>
+                            <li>Jaket dan Helm (Ribike) harga Rp. 350,000 untuk Full Paket. Untuk satuan Rp. 250,000 (Jaket saja), Rp. 150,000 (Helm).</li>
+                            <li>Jaket Ricar Rp. 250,000</li>
+                            <li>Polo shirt Rp. 100,000 (untuk Mitra Driver Opang) </li>
+                        </ul>
+                    <li>Menyiapkan kelengkapan Data Diri yang harus di Unggah pada saat Pendaftaran Keanggotaan Mitra Driver Roda Indonesia pada Aplikasi : SIM, KTP, Kartu Keluarga, STNK, Foto Diri & Foto Unit Kendaraan.</li>
+                        
+                    <li>Ketentuan Tahun Kendaraan Mitra Driver : </li>
+                        <p class="mt-3"></p>
+                        <ul>
+                            <li>RIBike Sepeda Motor Minimum Tahun 2012</li>
+                            <li>RICar Mobil Minimum Tahun 2015</li>
+                            <li>Opang 2012 Ke Bawah dengan melengkapi Surat Keterangan Bengkel untuk kondisi terakhir kendaraan yg di ACC Head Driver Wilayah.</li>
+                        </ul>
+                    </li>
+                    <li>Mengisi Form Member dan Unggah Data (lihat Point 2) pada Aplikasi, dan melakukan Top Up Deposit dan Atribut untuk mendapatkan Id Member dan Aktivasi pada Aplikasi.</li>
+                    <li>Setelah 3 Bulan Masa Trial, Driver sudah harus membayar Member Fee sebesar Rp. 110,000 yg di bayar secara kontinyu setiap awal bulan ditambah Top Up minimal Rp. 40,000 untuk Transaksi Perjalanan dan Atribut di Aplikasi RODA INDONESIA.</li>
+                    <li>KEANGGOTAAN KOPERASI adalah Fasilitas dari Roda Indonesia dan dinyatakan Sah menjadi Anggota dalam Tenggang waktu 18 bulan dimulai setelah 3 bulan Masa Trial Aplikasi RODA INDONESIA</li>
+                    <li>Apabila Mitra mengundurkan diri sebelum tenggang waktu 18 bulan secara otomatis dapat mengugurkan Fasilitasi keanggotaan Koperasi dari Roda Indonesia dan tidak berhak untuk mendapatkan Benefit Koperasi. Keanggotaan akan dimulai dari awal lagi jika Mitra ingin bergabung kembali bersama Roda Indonesia.</li>
+                </ol>
+                <div class="section-title">
                     <h3>Transportasi Online Roda Dua (RIBIKE)</h3>
                 </div>
                 <h5>Syarat Pendaftaran Mitra Roda Indonesia</h5>

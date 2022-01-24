@@ -11,6 +11,12 @@
             <div class="my-3">Hemat, Cermat, dan Bersahabat. Menjadi satu-satunya Aplikasi Karya Anak Nusantara yang Bergerak Mandiri Untuk Indonesia.</div>
             #satusentuhanuntuksemua
             <br>#hematcermatbersahabat
+	    <br>#IndonesiaBanget
+	    <br>#IndonesiaOptimis
+        <br>#JalanMenujuSejahtera
+        <br>#JalanMenujuPerubahan
+        <br>#PintuPerubahanKeluarga
+        <br>#BergerakMandiriUntukIndonesia
             <br>#rodaindonesia
             <div class="social-icon my-3">
                 <ul class="list-inline py-3">
