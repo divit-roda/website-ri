@@ -93,7 +93,7 @@
 
 
 <!-- Fitur Aplikasi -->
-<section class="projek section-padding" id="projek-section">
+<!-- <section class="projek section-padding" id="projek-section">
     <div class="container">
         <div class="row text-center">
             <div class="col align-self-center">
@@ -191,7 +191,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- Fitur Aplikasi -->
 
 <!-- Logo Kerja Sama -->
