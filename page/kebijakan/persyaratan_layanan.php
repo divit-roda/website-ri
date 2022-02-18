@@ -12,6 +12,7 @@
                     <!-- Description -->
                     <h3>Roda Indonesia</h3>
                     <h1>Persyaratan Layanan</h1>
+                   
                 </div>
             </div>
             <div class="col-12 col-lg-5 text-center default-logo-box">
@@ -37,6 +38,7 @@
             <div class="service-feature-item">
                 <div class="section-title">
                 <h3>Ketentuan Umum Persyaratan Layanan</h3>
+                <a href="?page=kebijakan&sub_page=persyaratan_layanan_user">USER</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="?page=kebijakan&sub_page=kebijakan_privasi">Kebijakan Privasi</a>
                 </div>
                 <h5>TATA CARA MENJADI MITRA DRIVER RODA INDONESIA</h5>
                 <ol>
@@ -99,7 +101,7 @@
                                 <ul class="my-3">
                                     <li>SIM dengan status aktif</li>
                                     <li>Mengupload foto SIM</li>
-                                    <li>Untuk TNI dan/atau Porli, wajib mengikuti kriteria SIM di atas (tidak boleh menggunakan SIM TNI dan/atau Porli)</li>
+                                    <li>Untuk TNI dan/atau Polri, wajib mengikuti kriteria SIM di atas (tidak boleh menggunakan SIM TNI dan/atau Porli)</li>
                                 </ul>
                             </li>
                         </ul>
