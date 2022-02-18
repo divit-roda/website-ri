@@ -36,7 +36,7 @@
         <div class="service-features desc">
             <div class="service-feature-item">
                 <div class="section-title">
-                    <h3>“Dari…Oleh…dan untuk MITRA RI”</h3>
+                    <h3>“Dari kita, oleh kita, untuk kita bersama menjadi mitra RODA INDONESIA”</h3>
                 </div>
                 <h5>Koperasi RI </h5>
                 <ol>
