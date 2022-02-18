@@ -38,7 +38,7 @@
             <div class="service-feature-item">
                 <div class="section-title">
                 <h3>Ketentuan Umum Persyaratan Layanan</h3>
-                <a href="?page=kebijakan&sub_page=persyaratan_layanan_user">USER</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="?page=kebijakan&sub_page=kebijakan_privasi">Kebijakan Privasi</a>
+                <a href="?page=kebijakan&sub_page=persyaratan_layanan_user">USER</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="?page=kebijakan&sub_page=persyaratan_layanan_driver">DRIVER</a>
                 </div>
                 <h5>TATA CARA MENJADI MITRA DRIVER RODA INDONESIA</h5>
                 <ol>

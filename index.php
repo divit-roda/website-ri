@@ -68,6 +68,12 @@ switch ($page) {
     case 'kebijakan':
         if ($sub_page == "kebijakan_privasi") {
             include "page/kebijakan/kebijakan_privasi.php";
+        }
+        else if ($sub_page == "persyaratan_layanan_user"){
+            include "page/kebijakan/persyaratan_layanan_user.php";
+        }
+        else if ($sub_page == "persyaratan_layanan_driver"){
+            include "page/kebijakan/persyaratan_layanan_driver.php";
         } else {
             include "page/kebijakan/persyaratan_layanan.php";
         }
