@@ -50,7 +50,7 @@
                     <div class="contact-info-item">
                         <i class="ri-pin-distance-fill"></i>
                         <h4>Cabang Utama</h4>
-                        <p>Jl. Tegal Kawung No.42, Cipageran, Kec. Cimahi Utara, Cimahi, Jawa Barat 40511</p>
+                        <p>Jl. RH Abdul Halim no 140B Cigugur Cimahi selatan</p>
                     </div>
                     <div class="contact-info-item">
                         <i class="ri-mail-send-fill"></i>
@@ -64,7 +64,7 @@
                             <div class="row">
                                 <div class="col-5">Telepon</div>
                                 <div class="col-1">:</div>
-                                <div class="col-6">(022) 2068 2586</div>
+                                <div class="col-6">081322205560</div>
                             </div>
                             <!-- <div class="row">
                                 <div class="col-5">Hotline</div>
