@@ -225,42 +225,46 @@
   background-color: var(--main-color);
   z-index: -1;
 }
+/*garis bagan pinggir COO*/
 .bagan-section .level-2-operational::after {
   content: "";
   position: absolute;
   left: calc(12.5% + 3px);
   top: 5%;
-  height: calc(85%);
+  height: calc(65%);/*panjang garis vertical nya*/
   width: 2px;
   background-color: var(--main-color);
   z-index: -1;
 }
+/*garis bagan Bawah CFO*/
 .bagan-section .level-2-finance::after {
   content: "";
   position: absolute;
   left: calc(12.5% + 4px);
   top: 5%;
-  height: calc(52%);
+  height: calc(45%); /*panjang garis vertical nya*/
   width: 2px;
   background-color: var(--main-color);
   z-index: -1;
 }
+/*garis bagan bawah CTO*/
 .bagan-section .level-2-it::after {
   content: "";
   position: absolute;
   left: calc(12.5% + 3px);
   top: 5%;
-  height: calc(53%);
+  height: calc(27%); /*panjang garis vertical nya*/
   width: 2px;
   background-color: var(--main-color);
   z-index: -1;
 }
+/*garis bagan pinggir bawah CMO*/
 .bagan-section .level-2-business::after {
   content: "";
   position: absolute;
   left: calc(12.5% + 4px);
   top: 5%;
-  height: 0%;
+  height: 88%;/*panjang garis vertical nya*/
   width: 2px;
   background-color: var(--main-color);
   z-index: -1;
