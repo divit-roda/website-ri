@@ -50,15 +50,15 @@
             </div>
             <div class="list-feature">
                 <i class="ri-shopping-bag-fill"></i>
-                <p>Memfasilitasi penjualan produk dengan Branding.</p>
+                <p>Memfasilitasi penjualan produk Kebutuhan Sehari-hari.</p>
             </div>
             <div class="list-feature">
                 <i class="ri-store-3-fill"></i>
-                <p>Menyediakan Marketplace untuk produk-produk yang dijual.</p>
+                <p>Memfasilitasi penjualan produk Premium Dengan Branding.</p>
             </div>
             <div class="list-feature">
                 <i class="ri-service-fill"></i>
-                <p>Memudahkan pembayaran Cash On Delivery melalui fitur RISend.</p>
+                <p>Memudahkan Transaksi Dengan jenis Cash On Delivery melalui RISend.</p>
             </div>
             <div class="list-feature">
                 <i class="ri-money-dollar-circle-fill"></i>

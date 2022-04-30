@@ -56,6 +56,9 @@
                 <p>Proses mudah dan cepat.</p>
             </div>
         </div>
+        <div class="section-title">
+            <h3 class="mt-5 mt-md-0"><span><a href="?page=snkrisend">Syarat dan Ketentuan</a></span></h3>
+        </div>
     </div>
     </div>
 </section>

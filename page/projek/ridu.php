@@ -78,7 +78,7 @@
                 </div>
                 <div class="list-feature">
                     <i class="ri-boxing-fill"></i>
-                    <p>Beladiri.</p>
+                    <p>Dan Lain-lain.</p>
                 </div>
             </div>
         </div>

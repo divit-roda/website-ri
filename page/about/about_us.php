@@ -375,7 +375,7 @@
     </div>
 </section>
 
-<section class="daftar-korwil section-padding text-center">
+<!-- <section class="daftar-korwil section-padding text-center">
     <div class="container text-white px-2">
         <div class="section-title mb-3">
             <p><strong>Ayo Jadi Bagian dari Kami</strong></p>
@@ -390,4 +390,4 @@
             </a>
         </div>
     </div>
-</section>
+</section> -->
