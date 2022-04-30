@@ -301,7 +301,7 @@
 <!-- how it works end -->
 
 <!-- kontak section start -->
-<section class="contact section-padding">
+<!-- <section class="contact section-padding">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-8">
@@ -360,8 +360,24 @@
             </div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- kontak section end -->
+<section class="daftar-korwil section-padding text-center">
+    <div class="container text-white px-2">
+        <div class="section-title mb-3">
+            <p><strong>Ayo Jadi Bagian dari Kami</strong></p>
+            <h2 class="text-white">DAFTAR KOORDINATOR WILAYAH NUSANTARA</h2>
+        </div>
+        <div class="desc mb-5 mt-3">
+            <p class="text-break">Untuk mengajukan diri sebagai Koordinator Wilayah serta mendapatkan penjelasan dan pengarahan, bisa klik ke tombol di bawah</p>
+        </div>
+        <div class="daftar-korwil-btn">
+            <a href="?page=kontak">
+                <button class="btn-1 mt-50px">Kontak</button>
+            </a>
+        </div>
+    </div>
+</section>
 
 <!-- Modal Aplikasi belum tersedia -->
 <div class="modal fade" id="ModalAppBelumTersedia" tabindex="-1" role="dialog">

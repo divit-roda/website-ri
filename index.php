@@ -65,6 +65,10 @@ switch ($page) {
         include "page/kontak/kontak_us.php";
         break;
 
+ case 'snkrisend':
+        include "page/projek/syarat_dan_ketentuan_RISEND.php";
+        break;
+
     case 'kebijakan':
         if ($sub_page == "kebijakan_privasi") {
             include "page/kebijakan/kebijakan_privasi.php";

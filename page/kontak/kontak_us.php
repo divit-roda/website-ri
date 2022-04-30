@@ -62,15 +62,15 @@
                         <h4>Nomor Telepon</h4>
                         <div class="contact-detail col-12 col-md-8 col-lg-6">
                             <div class="row">
-                                <div class="col-5">Telepon</div>
-                                <div class="col-1">:</div>
-                                <div class="col-6">081322205560</div>
-                            </div>
-                            <!-- <div class="row">
                                 <div class="col-5">Hotline</div>
                                 <div class="col-1">:</div>
-                                <div class="col-6">(0813) 2220 5561</div>
-                            </div> -->
+                                <div class="col-6">(022) 20668075</div>
+                            </div>
+                            <div class="row">
+                                <div class="col-5">Info Korwil</div>
+                                <div class="col-1">:</div>
+                                <div class="col-6">(0813)22205560</div>
+                            </div>
                             <div class="row d-flex">
                                 <div class="col-5">Technical Service</div>
                                 <div class="col-1">:</div>
