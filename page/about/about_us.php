@@ -201,7 +201,7 @@
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                                 <div class="d-flex align-items-center justify-content-center flex-column">
                                     <p class="tim-section-jabatan"><strong>Human Capital & Development</strong></p></b>
-                                    <p class="tim-section-jabatan">Valencia Angela</p>
+                                    <p class="tim-section-jabatan"></p>
                                 </div>
                             </div>
                         </div>
@@ -224,7 +224,7 @@
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                                 <div class="d-flex align-items-center justify-content-center flex-column">
                                     <p class="tim-section-jabatan"><strong>Head Of Driver</strong></p></b>
-                                    <p class="tim-section-jabatan">Hilman Sulaeman</p>
+                                    <p class="tim-section-jabatan"></p>
                                 </div>
                             </div>
                         </li>

@@ -50,7 +50,7 @@
                     <div class="contact-info-item">
                         <i class="ri-pin-distance-fill"></i>
                         <h4>Cabang Utama</h4>
-                        <p>Jl. RH Abdul Halim no 140B Cigugur Cimahi selatan</p>
+                        <p>Komplek KCVRI RT 05 RW 08 Tegal Kawung, Kel. Cipageran, Kec. Cimahi Utara Cimahi</p>
                     </div>
                     <div class="contact-info-item">
                         <i class="ri-mail-send-fill"></i>
