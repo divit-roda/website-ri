@@ -109,7 +109,7 @@
     <nav class="navbar navbar-expand-lg fixed-top py-3" id="header_nav">
         <div class="container">
             <a class="navbar-brand" href="index.php">
-                <img src="assets/logo/logo.png" width="80px" alt="">
+                <img src="assets/logo/logo.png" width="130px" alt="">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent">
                 <i class="ri-bar-chart-horizontal-fill"></i>
@@ -124,38 +124,55 @@
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link color-white" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            Projek &nbsp;<i class="ri-arrow-down-s-line" style="font-size: 13px;"></i>
+                            Fitur &nbsp;<i class="ri-arrow-down-s-line" style="font-size: 13px;"></i>
                         </a>
                         <ul class="dropdown-menu dropdown-menu-white" aria-labelledby="navbarDropdown">
+                            <li>
+                                <hr class="dropdown-divider bg-white">
+                            </li>
                             <li><a class="dropdown-item" href="?page=ribike">RIBIKE</a></li>
                             <li><a class="dropdown-item" href="?page=ricar">RICAR</a></li>
-                            <li><a class="dropdown-item" href="?page=ripublic">RIPUBLIC</a></li>
-                            <li>
-                                <hr class="dropdown-divider bg-white">
-                            </li>
-                            <li><a class="dropdown-item" href="?page=rimart">RIMART</a></li>
-                            <li><a class="dropdown-item" href="?page=rifood">RIFOOD</a></li>
-                            <li>
-                                <hr class="dropdown-divider bg-white">
-                            </li>
                             <li><a class="dropdown-item" href="?page=risend">RISEND</a></li>
-                            <li>
-                                <hr class="dropdown-divider bg-white">
-                            </li>
-                            <li><a class="dropdown-item" href="?page=ritrip">RITRIP</a></li>
                             <li>
                                 <hr class="dropdown-divider bg-white">
                             </li>
                             <li><a class="dropdown-item" href="?page=ridu">RIEDU</a></li>
                             <li><a class="dropdown-item" href="?page=richat">RICHAT</a></li>
+                            <li><a class="dropdown-item" href="?page=ripublic">RIPUBLIC</a></li>
+                            
+                            <!-- <li>
+                                <hr class="dropdown-divider bg-white">
+                            </li>
+                            <li><a class="dropdown-item" href="?page=risend">RISEND</a></li> -->
+                            <li>
+                                <hr class="dropdown-divider bg-white">
+                            </li>
+                            <li><a class="dropdown-item" href="?page=ritrip">RITRIP</a></li>
+                            <li><a class="dropdown-item" href="?page=rimart">RIMART</a></li>
+                            <li><a class="dropdown-item" href="?page=rifood">RIFOOD</a></li>
+                            <li>
+                                <hr class="dropdown-divider bg-white">
+                            </li>
+                           
+                            
                         </ul>
                     </li>
-                    <li class="nav-item">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link color-white" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Info &nbsp;<i class="ri-arrow-down-s-line" style="font-size: 13px;"></i>
+                        </a>
+                        <ul class="dropdown-menu dropdown-menu-white" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="?page=ribike">Mitra Driver</a></li>
+                            <li><a class="dropdown-item" href="?page=ricar">Mitra Usaha</a></li>
+                            <li><a class="dropdown-item" href="?page=koperasi">Koperasi</a></li>
+                        </ul>
+                    </li>
+                    <!-- <li class="nav-item">
                         <a class="nav-link color-white" href="?page=info_driver">Info Driver</a>
-                    </li>
-                    <li class="nav-item">
+                    </li> -->
+                    <!-- <li class="nav-item">
                         <a class="nav-link color-white" href="?page=koperasi">Koperasi</a>
-                    </li>
+                    </li> -->
                     <!-- <li class="nav-item">
                         <a class="nav-link color-white" href="?page=info_user">Info User</a>
                     </li> -->
