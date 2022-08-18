@@ -80,10 +80,7 @@
                     <div class="accordion-body">
                         <ol>
                             <li>
-                                <p>Roda Indonesia menjadi Perusahaan Digital Berbasis Online dengan Kualifikasi dan Kompetensi Internasional, yang berorientasi Profesional dan mampu meng-implementasikan konsep Transportasi Multimoda.</p>
-                            </li>
-                            <li>
-                                <p>Roda Indonesia Adalah Aplikasi Online yang Memberikan Manfaat lebih bagi Sinergi Masyarakat dan Program-Program Pemerintah.</p>
+                                <p>Menjadi perusahaan jasa transportasi berbasis Online yang dinamis, dan mempunyai daya tahan untuk berkompetisi dalam memberikan pelayanan yang prima bagi masyarakat</p>
                             </li>
                         </ol>
                     </div>
@@ -99,7 +96,7 @@
                     <div class="accordion-body">
                         <ol>
                             <li>
-                                <p>Memberikan kontribusi kerja bersama sebagai sebuah kemitraan yang mengacu pada peningkatan kualitas Sumber Daya Manusia yang Berdedikasi & Beretika sesuai Pancasila sila ke 2, "Kemanusiaan yang Adil dan Beradab".</p>
+                                <p>Memberikan kontribusi kerja bersama sebagai sebuah kemitraan yang mengacu pada peningkatan kualitas Sumber Daya Manusia yang Berdedikasi & Beretika sesuai Pancasila sila ke 2.</p>
                             </li>
                             <li>
                                 <p>Membangun Display Kerjasama Potensi antar wilayah sesuai Latar Belakang Budaya sebagai wujud Persatuan Indonesia, sesuai pancasila Sila ke 3.</p>

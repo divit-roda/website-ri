@@ -30,6 +30,7 @@
     </svg>
 </section>
 
+
 <section class="privacy section-padding">
     <div class="container">
         <div class="service-features desc">
@@ -40,7 +41,7 @@
                 <h5>Selamat datang di Aplikasi Roda Indonesia</h5>
                 <h5>1. Ketentuan Umum </h5>
                 <h5>BACALAH SELURUH KETENTUAN PENGGUNAAN INI SEBELUM MENGAKSES ATAU MENGGUNAKAN APLIKASI RODA INDONESIA</h5>
-                <p>Ketentuan Penggunaan ini adalah perjanjian antara pengguna (“Anda”) dan Roda Indonesia (“Kami”), sebuah perseroan terbatas yang didirikan dan beroperasi secara sah berdasarkan hukum negara Republik Indonesia dan berdomisili di Manado, Indonesia. Ketentuan Penggunaan ini mengatur akses dan penggunaan Anda atas aplikasi, situs web (<a href="http://www.rodaindonesia.site">www.rodaindonesia.site</a> dan situs web lain yang Kami kelola), konten dan produk yang disediakan oleh Kami (selanjutnya, secara bersama-sama disebut sebagai “Aplikasi”), serta pemesanan, pembayaran atau penggunaan layanan yang tersedia pada Aplikasi (“Layanan”).</p>
+                <p>Ketentuan Penggunaan ini adalah perjanjian antara pengguna (“Anda”) dan PT. Ngaasan Taas Niatean (Brand : Roda Indonesia) (“Kami”), sebuah perseroan terbatas yang didirikan dan beroperasi secara sah berdasarkan hukum negara Republik Indonesia dan berdomisili di Manado, Indonesia. Ketentuan Penggunaan ini mengatur akses dan penggunaan Anda atas aplikasi, situs web (<a href="http://www.rodaindonesia.site">www.rodaindonesia.site</a> dan situs web lain yang Kami kelola), konten dan produk yang disediakan oleh Kami (selanjutnya, secara bersama-sama disebut sebagai “Aplikasi”), serta pemesanan, pembayaran atau penggunaan layanan yang tersedia pada Aplikasi (“Layanan”).</p>
                 <p>
 Dengan menyetujui Ketentuan Penggunaan ini, Anda juga menyetujui Ketentuan Penggunaan tambahan, termasuk Ketentuan Penggunaan pada setiap Layanan, dan perubahannya yang merupakan bagian yang tidak terpisahkan dari Ketentuan Penggunaan ini (selanjutnya, Ketentuan Penggunaan, Ketentuan Penggunaan tambahan, dan perubahannya secara bersama-sama disebut sebagai “Ketentuan Penggunaan”). Meskipun merupakan satu kesatuan, Ketentuan Penggunaan tambahan akan berlaku dalam hal terdapat perbedaan dengan Ketentuan Penggunaan.
 </p>
