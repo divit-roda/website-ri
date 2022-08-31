@@ -138,7 +138,7 @@
     </div>
 </section>
 
-<section class="bagan-section section-padding">
+<!-- <section class="bagan-section section-padding">
     <div class="container">
         <div class="section-title">
             <h2 class="text-center"><span>Bagan Struktur</span> </h2>
@@ -290,24 +290,7 @@
                                 </div>
                             </div>
                         </li>
-                        <!-- <li>
-                            <div class="bagan-item level-3 line-right d-flex align-items-center">
-                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                                <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Creative Multimedia</strong></p>
-                                    <p class="tim-section-jabatan">Satrya Eka P.</p>
-                                </div>
-                            </div>
-                        </li> -->
-                        <!-- <li>
-                            <div class="bagan-item level-3 line-right d-flex align-items-center">
-                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                                <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>System Analyst</strong></p>
-                                    <p class="tim-section-jabatan">Rian Rahmawan</p>
-                                </div>
-                            </div>
-                        </li> -->
+                  
                     </ol>
                 </li>
                 <li class="level-2-business line-right position-relative my-md-5 my-lg-0">
@@ -355,22 +338,14 @@
                                 </div>
                             </div>
                         </li>
-                        <!-- <li>
-                            <div class="bagan-item level-3 line-right d-flex align-items-center">
-                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                                <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>System Analyst</strong></p>
-                                    <p class="tim-section-jabatan">Rian Rahmawan</p>
-                                </div>
-                            </div>
-                        </li> -->
+       
                     </ol>
 
                 </li>      
             </ol>
         </div>
     </div>
-</section>
+</section> -->
 
 <!-- <section class="daftar-korwil section-padding text-center">
     <div class="container text-white px-2">
