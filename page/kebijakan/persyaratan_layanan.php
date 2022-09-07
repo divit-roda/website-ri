@@ -33,11 +33,28 @@
 <!-- Akhir Jumbotron -->
 
 <section class="privacy section-padding">
-    <div class="container">
+   <div class="container text-center">
         <div class="service-features desc">
             <div class="service-feature-item">
                 <div class="section-title">
-                <h1><a href="?page=kebijakan&sub_page=persyaratan_layanan_user">USER</a></h1>&nbsp;&nbsp;|&nbsp;&nbsp;<h1><a href="?page=kebijakan&sub_page=persyaratan_layanan_driver">DRIVER</a></h1>
+
+                    <div class="row justify-content-center row-cols-md-4 g-2">
+                      <div class="col">
+                        <div class="card border-danger">
+                        <div class="card-header bg-danger text-light border-danger">KETENTUAN USER</div>
+                          <img src="assets/icon/richat.png" class="card-img-top">
+                            <a class="btn btn-danger btn-lg" href="?page=kebijakan&sub_page=persyaratan_layanan_user">USER</a>
+                        </div>
+                      </div>
+                      <div class="col">
+                        <div class="card border-danger">
+                        <div class="card-header bg-danger text-light border-danger">KETENTUAN DRIVER</div>
+                          <img src="assets/icon/ribike.png" class="card-img-top">
+                            <a class="btn btn-danger btn-lg" href="?page=kebijakan&sub_page=persyaratan_layanan_driver">DRIVER</a>
+                        </div>
+                      </div>
+                    </div>
+
                 </div>
             </div>
         </div>
