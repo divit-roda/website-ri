@@ -12,7 +12,6 @@
                     <!-- Description -->
                     <h3>Roda Indonesia</h3>
                     <h1>Persyaratan Layanan</h1>
-                   
                 </div>
             </div>
             <div class="col-12 col-lg-5 text-center default-logo-box">
@@ -41,16 +40,16 @@
                     <div class="row justify-content-center row-cols-md-4 g-2">
                       <div class="col">
                         <div class="card border-danger">
-                        <div class="card-header bg-danger text-light border-danger">KETENTUAN USER</div>
+                        <div class="card-header bg-transparent text-danger border-danger">KETENTUAN PENGGUNAAN APLIKASI</div>
                           <img src="assets/icon/richat.png" class="card-img-top">
-                            <a class="btn btn-danger btn-lg" href="?page=kebijakan&sub_page=persyaratan_layanan_user">USER</a>
+                            <a class="btn btn-outline-danger" href="?page=kebijakan&sub_page=persyaratan_layanan_user">USER</a>
                         </div>
                       </div>
                       <div class="col">
                         <div class="card border-danger">
-                        <div class="card-header bg-danger text-light border-danger">KETENTUAN DRIVER</div>
+                        <div class="card-header bg-transparent text-danger border-danger">KETENTUAN LAYANAN</div>
                           <img src="assets/icon/ribike.png" class="card-img-top">
-                            <a class="btn btn-danger btn-lg" href="?page=kebijakan&sub_page=persyaratan_layanan_driver">DRIVER</a>
+                            <a class="btn btn-outline-danger" href="?page=kebijakan&sub_page=persyaratan_layanan_driver">DRIVER</a>
                         </div>
                       </div>
                     </div>

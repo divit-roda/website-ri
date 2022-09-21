@@ -10,6 +10,7 @@
                 <div class="jumbotron-text judul-project">
                     <!-- Description -->
                     <h1>Layanan Edukasi</h1>
+                    <h3>#HematCermatBersahabat</h3>
                 </div>
             </div>
             <div class="col-12 col-lg-5 text-center logo-box">

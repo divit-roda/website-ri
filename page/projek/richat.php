@@ -10,6 +10,7 @@
                 <div class="jumbotron-text judul-project">
                     <!-- Description -->
                     <h1>Layanan Komunikasi</h1>
+                    <h3>#SatuSentuhanUntukSemua</h3>
                     <div class="jumbotron-btn">
 
                         <!-- button download app -->
