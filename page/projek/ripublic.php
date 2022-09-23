@@ -12,6 +12,7 @@
                     <!-- Description -->
                     <!-- <h3>Projek Roda Indonesia</h3> -->
                     <h1>Transportasi Umum</h1>
+                    <h3>#IndonesiaBanget</h3>
                 </div>
             </div>
             <div class="col-12 col-lg-5 text-center logo-box">

@@ -25,6 +25,10 @@ switch ($page) {
         include "page/koperasi/koperasi.php";
          break;
 
+    case 'mitra_driver':
+        include "page/gabung_mitra/mitra_driver.php";
+         break;         
+
     case 'ribike':
         include "page/projek/ribike.php";
         break;
