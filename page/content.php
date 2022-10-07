@@ -52,85 +52,6 @@
             <div class="owl-carousel features-carousel">
                 <div class="feature-item">
                     <div class="icon"><i class="ri-smartphone-fill"></i></div>
-<<<<<<< Updated upstream
-                    <h3>Mudah Diakses, Tampilan Menarik</h3>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-rss-line"></i></div>
-                    <h3>Jaringan Luas Dan Layanan Yang Mudah Dijangkau Bahkan Di Daerah Pelosok</h3>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-wallet-fill"></i></div>
-                    <h3>Sistem Pembayaran Yang Bersifat Tuna Dan Non Tunai</h3>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-layout-fill"></i></div>
-                    <h3>Pilihan Layanan Yang Lengkap</h3>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-upload-cloud-fill"></i></div>
-                    <h3>Sistem Upload Data Buat Mitra Roda Indonesia</h3>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-pin-distance-fill"></i></div>
-                    <h3>Adanya Filter Jarak Pada Aplikasi Driver Dan Akan Memudahkan User Mendapatkan Driver Dimanapun</h3>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-file-user-fill"></i></div>
-                    <h3>Info Driver Tersemat Permanen Di Aplikasi</h3>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-alarm-warning-fill"></i></div>
-                    <h3>Tombol Cancel Akan Menyala Ketika Masa Tunggu Habis (10 Menit Waktu User Menunggu Driver)</h3>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-team-fill"></i></div>
-                    <h3>Multi Order (Max 5 Order Dalam Waktu Yang Bersamaan)</h3>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-clipboard-fill"></i></div>
-                    <h3>Klaim Asuransi Yang Mudah (Melalui Aplikasi)</h3>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-checkbox-circle-fill"></i></div>
-                    <h3>Verifikasi Mudah</h3>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-service-fill"></i></div>
-                    <h3>Pelayanan Yang Maksimal Untuk Setiap Fitur</h3>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-coupon-fill"></i></div>
-                    <h3>Sistem Voucher, Booking Dan Member Memudahkan Driver Mendapat Orderan Yang Sudah Terjadwal (Coming Soon)</h3>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-newspaper-fill"></i></div>
-                    <h3>Berbagi Berita Terkini Di Beranda, Memudahkan Pengguna Mengetahui Keadaan Terkini</h3>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-forbid-fill"></i></div>
-                    <h3>Sistem Banned Untuk Akun Yang Tidak Aktif Dalam 1 Bulan (Akan Ada Pop-up Info)</h3>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-roadster-fill"></i></div>
-                    <h3>User Dapat Memilih Tipe Kendaraan (Sebanyak Driver Dalam Jangkauannya)</h3>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-shield-user-fill"></i></div>
-                    <h3>Bebas Dari Orderan Fiktif</h3>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-chat-history-fill"></i></div>
-                    <h3>History Chat Dalam Aplikasi Yang Tersimpan Dalam  Kurun Waktu Tertentu, Sehingga Permasalahan Dapat Diatasi Dengan Cepat</h3>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-e-bike-2-fill"></i></div>
-                    <h3>Tombol "Penerima Barang" Dan "Bukan Penerima" Dilengkapi Kamera, Untuk RISend</h3>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-chat-voice-fill"></i></div>
-                    <h3>Sistem VOIP Untuk RIChat</h3>
-=======
                     <p class="text-sm-center fw-bolder">Mudah Diakses, Tampilan Menarik</p>
                 </div>
                 <div class="feature-item">
@@ -213,7 +134,6 @@
                 <div class="feature-item">
                     <div class="icon"><i class="ri-chat-voice-fill"></i></div>
                     <p class="text-sm-center fw-bolder">Sistem VOIP Untuk RIChat</p>
->>>>>>> Stashed changes
                 </div>
             </div>
         </div>
@@ -391,16 +311,6 @@
         </div>
         <div class="row">
             <div class="owl-carousel supports-carousel">
-<<<<<<< Updated upstream
-                <div class="support-item">
-                    <img src="assets/logo/kominfo_512px.png" class="w-75 grayscale" alt="" srcset="">
-                </div>
-                <div class="support-item">
-                    <img src="assets/logo/kemenhub_512px.png" class="w-75 grayscale" alt="" srcset="">
-                </div>
-                <div class="support-item">
-                    <img src="assets/logo/smm_512px.png" class="w-75 grayscale" alt="" srcset="">
-=======
                 <div class="support-item text-center">
                     <img src="assets/logo/kominfo_512px.png" class="w-60 grayscale" alt="" srcset="">
                 </div>
@@ -409,28 +319,16 @@
                 </div>
                 <div class="support-item text-center">
                     <img src="assets/logo/smm_512px.png" class="w-60 grayscale" alt="" srcset="">
->>>>>>> Stashed changes
                 </div>
                 <!--<div class="support-item">
                     <img src="assets/logo/rtiga_512px.png" class="w-75 grayscale" alt="" srcset="">
                 </div>-->
-<<<<<<< Updated upstream
-                <div class="support-item">
-=======
                 <div class="support-item text-center">
->>>>>>> Stashed changes
                     <img src="assets/logo/doku_logo.png" class="w-75 grayscale" alt="" srcset="">
                 </div>
                 <!--<div class="support-item">
                     <img src="assets/logo/gbsrilogos.png" class="w-75 grayscale" alt="" srcset="">
                 </div>-->
-<<<<<<< Updated upstream
-                <div class="support-item">
-                    <img src="assets/logo/motionpaylogo.png" class="w-75 grayscale" alt="" srcset="">
-                </div>
-                <div class="support-item">
-                    <img src="assets/logo/motion_insure.png" class="w-75 grayscale" alt="" srcset="">
-=======
                 <div class="support-item text-center">
                     <img src="assets/logo/motion_pay_logo.png" class="w-100 h-100 grayscale" alt="" srcset="">
                 </div>
@@ -439,7 +337,6 @@
                 </div>
                 <div class="support-item text-center">
                     <img src="assets/logo/logo_pt.png" class="w-100 mh-100 grayscale" alt="" srcset="">
->>>>>>> Stashed changes
                 </div>
             </div>
         </div>
