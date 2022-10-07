@@ -18,7 +18,7 @@
             <div class="col-12 col-lg-4 text-center logo-box">
                 <div class="jumbotron-img logofitur">
                     <div class="circle"></div>
-                    <img src="assets/logo/ribike_logo_baru.png" alt="logo ribike">
+                    <img src="assets/icon/ribike.png" alt="logo ribike">
                 </div>
             </div>
         </div>

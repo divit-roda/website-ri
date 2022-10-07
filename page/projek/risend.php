@@ -17,7 +17,7 @@
             <div class="col-12 col-lg-4 text-center logo-box">
                 <div class="jumbotron-img logofitur">
                     <div class="circle"></div>
-                    <img src="assets/logo/risend_logo.png" alt="logo risend">
+                    <img src="assets/icon/risend.png" alt="logo risend">
                 </div>
             </div>
         </div>
