@@ -113,21 +113,6 @@
 </section>
 <!-- Akhir Visi Misi -->
 
-<!-- Milestone 
-<section>
-    <div class="container">
-        <div class="row text-center">
-            <div class="col align-self-center">
-                <div class="section-title">
-                    <h2>Perjalanan <span>Roda Indonesia</span></h2>
-                </div>
-            </div>
-        </div>
-        
-    </div>
-</section>
-Akhir Milestone -->
-
 <!-- 3 Pilar -->
 <section class="features section-padding">
     <div class="container">
@@ -157,8 +142,6 @@ Akhir Milestone -->
     </div>
 </section>
 <!-- Akhir 3 Pilar -->
-
-
 
 <!-- 5 Fundamental -->
 <section class="features section-padding">
@@ -229,7 +212,7 @@ Akhir Milestone -->
 <section class="bagan-section section-padding">
     <div class="container">
         <div class="section-title">
-            <h2 class="text-center"><span>Bagan Struktur</span></h2>
+            <h2 class="text-center"><span>Bagan Struktur</span> </h2>
         </div>
         <div class="big-vertical-line position-relative">
             <div class="level-1-wrapper position-relative">
@@ -243,23 +226,12 @@ Akhir Milestone -->
                         </div>
                     </div>
                 </div>
-                    <div class="hr-line position-relative my-md-4">
-                        <div class="row justify-content-center">
-                            <div class="col-12 col-md-6 col-lg-3 pe-md-5 pe-lg-4">
-                                <div class="bagan-item level-1-5 line-right legal d-flex align-items-center">
-                                    <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                                    <div class="d-flex align-items-center justify-content-center flex-column">
-                                        <p class="tim-section-jabatan"><strong>Consultant</strong></p></b>
-                                        <p class="tim-section-jabatan">...</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-12 col-md-6 col-lg-3 ps-md-5 ps-lg-4"></div>
-                        </div>
-                    </div>
+                <div>
+
+                </div>
                 <div class="hr-line hr-line-top position-relative my-md-4">
                     <div class="row justify-content-center">
-                        <div class="col-12 col-md-6 col-lg-3 pe-md-5 pe-lg-4"> 
+                        <div class="col-12 col-md-6 col-lg-3 pe-md-5 pe-lg-4">
                             <div class="bagan-item level-1-5 line-right secertary d-flex align-items-center">
                                 <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                                 <div class="d-flex align-items-center justify-content-center flex-column">
@@ -299,7 +271,7 @@ Akhir Milestone -->
             <li class="level-2-operational line-right position-relative">
                 <div class="bagan-item d-flex align-items-center">
                     <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                    <div class="d-flex align-items-center justify-content-center">
+                    <div class="d-flex align-items-center justify-content-center flex-column">
                         <p class="tim-section-jabatan"><strong>COO</strong></p></b>
                         <p class="tim-section-jabatan">...</p>
                     </div>
@@ -356,14 +328,6 @@ Akhir Milestone -->
                             <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
                             <div class="d-flex align-items-center justify-content-center flex-column">
                                 <p class="tim-section-jabatan"><strong>Tax</strong></p></b>
-                            </div>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="bagan-item level-3 line-right d-flex align-items-center">
-                            <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                            <div class="d-flex align-items-center justify-content-center flex-column">
-                                <p class="tim-section-jabatan"><strong>Purchasing</strong></p></b>
                             </div>
                         </div>
                     </li>
@@ -444,9 +408,27 @@ Akhir Milestone -->
                         </div>
                     </li>
                 </li>
-                </ol>
-            </li>      
-    
+            </ol>
+        </li>      
+    </ol>
 </div>
 </div>
 </section>
+<!-- Bagan Struktur -->
+
+<!-- <section class="daftar-korwil section-padding text-center">
+    <div class="container text-white px-2">
+        <div class="section-title mb-3">
+            <p><strong>Ayo Jadi Bagian dari Kami</strong></p>
+            <h2 class="text-white">DAFTAR KOORDINATOR WILAYAH NUSANTARA</h2>
+        </div>
+        <div class="desc mb-5 mt-3">
+            <p class="text-break">Untuk mengajukan diri sebagai Koordinator Wilayah serta mendapatkan penjelasan dan pengarahan, bisa klik ke tombol di bawah</p>
+        </div>
+        <div class="daftar-korwil-btn">
+            <a href="?page=kontak">
+                <button class="btn-1 mt-50px">Kontak</button>
+            </a>
+        </div>
+    </div>
+</section> -->
