@@ -87,6 +87,7 @@
             <div class="owl-carousel features-carousel">
                 <div class="feature-item">
                     <div class="icon"><i class="ri-bank-fill"></i></div>
+<<<<<<< Updated upstream
                     <h3>Member Bulanan Yang Otomatis Bisa Dirasakan Manfaatnya Dalam Bentuk Asuransi Dan Keanggotaan Koperasi</h3>
                 </div>
                 <div class="feature-item">
@@ -116,6 +117,41 @@
                 <div class="feature-item">
                     <div class="icon"><i class="ri-trophy-fill"></i></div>
                     <h3>Peluang Jenjang Karir Dan Pengembangan Potensi Diri (RI & Koperasi)</h3>
+=======
+                    <p class="text-sm-center fw-bolder">Member Bulanan Yang Otomatis Bisa Dirasakan Manfaatnya Dalam Bentuk Asuransi Dan Keanggotaan Koperasi</p>
+                </div>
+                <div class="feature-item">
+                    <div class="icon"><i class="ri-clipboard-fill"></i></div>
+                    <p class="text-sm-center fw-bolder">Proteksi Asuransi Kecelakaan Disaat Kerja Dan Diluar Kerja Yang Mudah Diakses Dan Diklaim Melalui Aplikasi</p>
+                </div>
+                <div class="feature-item">
+                    <div class="icon"><i class="ri-hand-coin-fill"></i></div>
+                    <p class="text-sm-center fw-bolder">Potongan Per Transaksi Bagi Driver Paling Ringan Dibanding Yang Lainnya</p>
+                </div>
+                <div class="feature-item">
+                    <div class="icon"><i class="ri-refund-2-fill"></i></div>
+                    <p class="text-sm-center fw-bolder">Kompensasi/Fee Untuk Pengambilan Rute Yang Jauh</p>
+                    <p class="text-sm-center fw-bolder">(Ngeblast Diatas 3KM)</p>
+                </div>
+                <div class="feature-item">
+                    <div class="icon"><i class="ri-team-fill"></i></div>
+                    <p class="text-sm-center fw-bolder">Multiorder</p>
+                    <p class="text-sm-center fw-bolder">(Max 5 Order Di Waktu Yang Bersamaan)</p>
+                </div>
+                <div class="feature-item">
+                    <div class="icon"><i class="ri-forbid-fill"></i></div>
+                    <p class="text-sm-center fw-bolder">Tidak Ada Sistem Penghentian Operasional Sementara (Suspend)</p>
+                </div>
+                <div class="feature-item">
+                    <div class="icon"><i class="ri-alarm-warning-fill"></i></div>
+                    <p class="text-sm-center fw-bolder">Tombol Cancel Akan Menyala Ketika Masa Tunggu Habis</p>
+                    <p class="text-sm-center fw-bolder">(10 Menit Waktu User Menunggu Driver)</p>
+                </div>
+                <div class="feature-item">
+                    <div class="icon"><i class="ri-trophy-fill"></i></div>
+                    <p class="text-sm-center fw-bolder">Peluang Jenjang Karir Dan Pengembangan Potensi Diri</p>
+                    <p class="text-sm-center fw-bolder">(RI & Koperasi)</p>
+>>>>>>> Stashed changes
                 </div>
             </div>
         </div>
@@ -175,6 +211,7 @@
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
     </div>
     <div class="modal-body">
+<<<<<<< Updated upstream
      <p>Mendaftar melalui Aplikasi RODA INDONESIA</p>
      <p>1. Calon Mitra Driver wajib memiliki smartphone</p>
      <p>2. Calon Mitra wajib memiliki akun e-mail Gmail</p>
@@ -185,6 +222,18 @@
      <ul>
         <li>• Memiliki KTP aktif dan Wajib Warga Negara Indonesia (WNI)</li>
         li>• Minimal berusia 17 tahun dan maksimal berusia 65 tahun pada saat pendaftaran (tidak diperlukan surat keterangan sehat)</li>
+=======
+       <p>Mendaftar melalui Aplikasi RODA INDONESIA</p>
+       <p>1. Calon Mitra Driver wajib memiliki smartphone</p>
+       <p>2. Calon Mitra wajib memiliki akun e-mail Gmail</p>
+       <p>3. Memiliki nomor telepon (hp) yang masih aktif</p>
+       <p>4. Mendownload Aplikasi Roda Indonesia Driver di Playstore</p>
+       <p>5. Mengisi data diri dan data kendaraan yang akan digunakan pada aplikasi dengan ketentuan:</p>
+       <p><li>Data Diri:</li></p>
+       <ul>
+        <li>• Memiliki KTP aktif dan Wajib Warga Negara Indonesia (WNI)</li>
+        <li>• Minimal berusia 17 tahun dan maksimal berusia 65 tahun pada saat pendaftaran (tidak diperlukan surat keterangan sehat)</li>
+>>>>>>> Stashed changes
         <li>• Mengupload foto KTP aktif (asli)</li>
         <li>• Mengupload KTP Resi Disdukcapil wajib dilegalisir dengan cap basah (dapat digunakan sebagai dokumen pengganti apabila E-KTP belum jadi dengan masa berlaku selama 6 (enam) bulan</li>
         <li>• Mengupload foto selfie</li>
@@ -211,8 +260,13 @@
 </ul>
 <p><li>Data Kendaraan:</li></p>
 <ul>
+<<<<<<< Updated upstream
    <li>1. Mengupload foto STNK dengan ketentuan:
        <ul>
+=======
+ <li>1. Mengupload foto STNK dengan ketentuan:
+     <ul>
+>>>>>>> Stashed changes
         <li>• STNK aktif (asli)</li>
         <li>• Maksimal tahun keluaran kendaraan 10 tahun (terhitung sejak pendaftaran)</li>
         <li>• Memiliki spesifikasi kendaraan R2 4 dengan minimal kapasitas mesin 110cc</li>
@@ -228,6 +282,113 @@
     </ul>
 </p>
 </div>
+<<<<<<< Updated upstream
+=======
+
+<div class="modal-footer border-danger"></div>
+<!-- SOP RIBike -->
+<section>
+    <h5 class="text-center"><strong>Standar Operasional Prosedur RIBIke</strong></h5>
+    &nbsp;
+    <div class="container align-items-center">
+        <table class="table table-sm table-bordered border-danger table-striped-columns">
+            <tr>
+                <th class="table-active text-center" >KATEGORI</th>
+                <th colspan="7" class="table-active text-center">CHECK LIST</th>
+            </tr>
+            <tbody>
+                <tr>
+                    <th class="table-active text-center" rowspan="8"><b>PENAMPILAN DRIVER</b></th>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Jaket Resmi Roda Indonesia</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Helm Standar SNI* (Roda Indonesia)</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Jaket Tidak Lusuh Dan Berbau Menyengat</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Bukan Jaket Modifikasi</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Celana Panjang</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Helm Tidak Berbau</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Bersepatu</td>
+                </tr>
+                <tr>
+                    <th class="table-active text-center" rowspan="6">KONDISI KENDARAAN</th>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Kaca Spion Lengkap</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Lampu Semua Dapat Menyala Dan Dapat Digunakan</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Knalpot Standar</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Pijakan Kaki Untuk Pelanggan</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Mesin Terawat</td>
+                </tr>
+                <tr>
+                    <th class="table-active text-center">LAIN - LAIN</th>
+                    <td colspan="7" class="text-center">Keharusan Untuk Follow Atau Subscribe Semua Sosial Media Roda Indonesia Sebagai Pusat Informasi Untuk Semua Mitra, Agar Dapat Mengikuti Secara Up To Date</td>
+                </tr>
+                <tr>
+                    <th colspan="7" class="table-active text-center">LAYANAN TERHADAP PELANGGAN</th>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Menyapa Pelanggan (Pagi, Siang, Atau Sore)</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Foto Driver Sesuai Informasi APK</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Plat Nomor Sesuai Informasi APK</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Menyarankan Kepada Pelanggan Untuk Menggunakan Masker</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Mengikuti Protokol Kesehatan</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Helm Untuk Penumpang Pastikan Bersih Dan Tidak Berbau</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Pastikan Helm Berfungsi Dengan Baik</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Disarankan Helm Ada Kaca Penutup Yang Berfungsi Dengan Baik</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Tidak Memulai Percakapan Yang Tidak Perlu Dengan Pelanggan</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Tawarkan Promo Berupa Voucher, Booking, Atau Member</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Ketika Selesai Perjalanan Sampaikan Terima Kasih</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Mengajak Pelanggan Untuk Memberikan Bintang, Like Dan Komen Di Kanal Sosial Media Kita, Bentuk Dukungan Maupun Perbaikan Roda Indonesia</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</section>
+<!-- Akhir SOP RIBike -->
+&nbsp;
+>>>>>>> Stashed changes
 <div class="modal-footer border-danger">
     <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Tutup</button>
 </div>
@@ -244,6 +405,7 @@
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
     </div>
     <div class="modal-body">
+<<<<<<< Updated upstream
        <p>Mendaftar melalui Aplikasi RODA INDONESIA</p>
        <p>1. Calon Mitra Driver wajib memiliki smartphone</p>
        <p>2. Calon Mitra wajib memiliki akun e-mail Gmail</p>
@@ -252,6 +414,16 @@
        <p>5. Mengisi data diri dan data kendaraan yang akan digunakan pada aplikasi dengan ketentuan:</p>
        <p><li>Data Diri:</li></p>
        <ul>
+=======
+     <p>Mendaftar melalui Aplikasi RODA INDONESIA</p>
+     <p>1. Calon Mitra Driver wajib memiliki smartphone</p>
+     <p>2. Calon Mitra wajib memiliki akun e-mail Gmail</p>
+     <p>3. Memiliki nomor telepon (hp) yang masih aktif</p>
+     <p>4. Mendownload Aplikasi Roda Indonesia Driver di Playstore</p>
+     <p>5. Mengisi data diri dan data kendaraan yang akan digunakan pada aplikasi dengan ketentuan:</p>
+     <p><li>Data Diri:</li></p>
+     <ul>
+>>>>>>> Stashed changes
         <li>• Memiliki KTP aktif dan Wajib Warga Negara Indonesia (WNI)</li>
         <li>• Minimal berusia 17 tahun dan maksimal berusia 65 tahun pada saat pendaftaran (tidak diperlukan surat keterangan sehat)</li>
         <li>• Mengupload foto KTP aktif (asli)</li>
@@ -297,6 +469,100 @@
     </ul>
 </p>
 </div>
+<<<<<<< Updated upstream
+=======
+<div class="modal-footer border-danger"></div>
+<!-- SOP RICar -->
+<section>
+    <h5 class="text-center"><strong>Standar Operasional Prosedur RICar</strong></h5>
+    &nbsp;
+    <div class="container align-items-center">
+        <table class="table table-sm table-bordered border-danger table-striped-columns">
+            <tr>
+                <th class="table-active text-center">KATEGORI</th>
+                <th colspan="7" class="table-active text-center">CHECK LIST</th>
+            </tr>
+            <tbody>
+                <tr>
+                    <th class="table-active text-center" rowspan="6"><b>PENAMPILAN DRIVER</b></th>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">T-Shirt Resmi Roda Indonesia</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Baju Tidak Lusuh Dan Berbau Menyengat</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Bukan Baju Modifikasi</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Celana Panjang</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Bersepatu</td>
+                </tr>
+                <tr>
+                    <th class="table-active text-center" rowspan="7">KONDISI KENDARAAN</th>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Kaca Spion Lengkap</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Tidak Merokok Di Dalam Mobil</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Di Dalam Mobil Tidak Ada Sampah Dan Berbau</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Tidak Boleh Ada Barang Yang Mengeluarkan Bau Menyengat</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Bagian Luar Mobil Dipastikan Bersih (Kecuali Kendala Hujan)</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Mesin Terawat</td>
+                </tr>
+                <tr>
+                    <th class="table-active text-center">LAIN - LAIN</th>
+                    <td colspan="7" class="text-center">Keharusan Untuk Follow Atau Subscribe Semua Sosial Media Roda Indonesia Sebagai Pusat Informasi Untuk Semua Mitra, Agar Dapat Mengikuti Secara Up To Date</td>
+                </tr>
+                <tr>
+                    <th colspan="7" class="table-active text-center">LAYANAN TERHADAP PELANGGAN</th>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Menyapa Pelanggan (Pagi, Siang, Atau Sore)</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Foto Driver Sesuai Informasi APK</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Plat Nomor Sesuai Informasi APK</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Menyarankan Kepada Pelanggan Untuk Menggunakan Masker</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Mengikuti Protokol Kesehatan</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Tidak Memulai Percakapan Yang Tidak Perlu Dengan Pelanggan</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Tawarkan Promo Berupa Voucher, Booking, Atau Member</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Ketika Selesai Perjalanan Sampaikan Terima Kasih</td>
+                </tr>
+                <tr>
+                    <td colspan="7" class="text-center">Mengajak Pelanggan Untuk Memberikan Bintang, Like Dan Komen Di Kanal Sosial Media Kita, Bentuk Dukungan Maupun Perbaikan Roda Indonesia</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</section>
+<!-- Akhir SOP RICar -->
+&nbsp;
+>>>>>>> Stashed changes
 <div class="modal-footer border-danger">
     <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Tutup</button>
 </div>
