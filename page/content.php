@@ -24,7 +24,7 @@
             <div class="col-12 col-lg-4 text-center">
                 <div class="jumbotron-img hide-logo">
                     <div class="circle"></div>
-                    <img src="assets/logo/ri_icon_logo.png" alt="Roda Indonesia">
+                    <img src="assets/logo/ri_icon_baru.png" alt="Roda Indonesia">
                 </div>
             </div>
         </div>
