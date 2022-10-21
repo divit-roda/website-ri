@@ -102,6 +102,35 @@
                     <p class="text-sm-center fw-bolder">Pelayanan Yang Maksimal Untuk Setiap Fitur</p>
                 </div>
                 <div class="feature-item">
+                </div>
+                <div class="feature-item">
+                    <div class="icon"><i class="ri-file-user-fill"></i></div>
+                    <p class="text-sm-center fw-bolder">Info Driver Tersemat Permanen Di Aplikasi</p>
+                </div>
+                <div class="feature-item">
+                    <div class="icon"><i class="ri-alarm-warning-fill"></i></div>
+                    <p class="text-sm-center fw-bolder">Tombol Cancel Akan Menyala Ketika Masa Tunggu Habis</p>
+                    <p class="text-sm-center fw-bolder">(10 Menit Waktu User Menunggu Driver)</p>
+                </div>
+                <div class="feature-item">
+                    <div class="icon"><i class="ri-team-fill"></i></div>
+                    <p class="text-sm-center fw-bolder">Multi Order</p>
+                    <p class="text-sm-center fw-bolder">(Max 5 Order Dalam Waktu Yang Bersamaan)</p>
+                </div>
+                <div class="feature-item">
+                    <div class="icon"><i class="ri-clipboard-fill"></i></div>
+                    <p class="text-sm-center fw-bolder">Klaim Asuransi Yang Mudah</p>
+                    <p class="text-sm-center fw-bolder">(Melalui Aplikasi)</p>
+                </div>
+                <div class="feature-item">
+                    <div class="icon"><i class="ri-checkbox-circle-fill"></i></div>
+                    <p class="text-sm-center fw-bolder">Verifikasi Mudah</p>
+                </div>
+                <div class="feature-item">
+                    <div class="icon"><i class="ri-service-fill"></i></div>
+                    <p class="text-sm-center fw-bolder">Pelayanan Yang Maksimal Untuk Setiap Fitur</p>
+                </div>
+                <div class="feature-item">
                     <div class="icon"><i class="ri-coupon-fill"></i></div>
                     <p class="text-sm-center fw-bolder">Sistem Voucher, Booking Dan Member Memudahkan Driver Mendapat Orderan Yang Sudah Terjadwal (Coming Soon)</p>
                 </div>
@@ -169,7 +198,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-10">
                 <div class="section-title">
-                    <h2>Yuk, Gabung Jadi <span>Sodara Roda Indonesia</span></h2>
+                    <h2>Ayo, Gabung Jadi <span>Mitra Roda Indonesia</span></h2>
                 </div>
             </div>
         </div>
@@ -332,6 +361,9 @@
                 <div class="support-item text-center">
                     <img src="assets/logo/motion_pay_logo.png" class="w-100 h-100 grayscale" alt="" srcset="">
                 </div>
+                <!--<div class="support-item text-center">
+                    <img src="assets/logo/motion_pay_logo.png" class="w-100 h-100 grayscale" alt="" srcset="">
+                </div>-->
                 <div class="support-item text-center">
                     <img src="assets/logo/motion_life_new_logo.png" class="w-100 h-100 grayscale" alt="" srcset="">
                 </div>
