@@ -113,27 +113,14 @@
 </section>
 <!-- Akhir Visi Misi -->
 
-<!-- Milestone -->
-<section>
-    <div class="container">
-        <div class="row text-center">
-            <div class="col align-self-center">
-                <div class="section-title">
-                    <h2>Perjalanan <span>Roda Indonesia</span></h2>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- Akhir Milestone -->
-
 <!-- 3 Pilar -->
 <section class="features section-padding">
     <div class="container">
         <div class="row text-center">
             <div class="col align-self-center">
                 <div class="section-title">
-                    <h2>3 Pilar <span>Fundamental</span></h2>
+                    <h2>3 Pilar</h2>
+                    <h2><span>Roda Indonesia</span></h2>
                 </div>
             </div>
         </div>
@@ -163,7 +150,8 @@
         <div class="row text-center">
             <div class="col align-self-center">
                 <div class="section-title">
-                    <h2>Fundamental <span>Budaya Kerja Roda Indonesia</span></h2>
+                    <h2>5 Fundamental</h2>
+                    <h2><span>Kerja Roda Indonesia</span></h2>
                 </div>
             </div>
         </div>
@@ -171,7 +159,7 @@
             <div class="owl-carousel features-carousel">
                 <div class="feature-item">
                     <div class="icon"><i class="ri-refresh-fill"></i></div>
-                    <h3>BERDAYA GUNA</h3>
+                    <h3>BELAJAR</h3>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-restart-fill"></i></div>
@@ -179,16 +167,16 @@
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-plant-fill"></i></div>
+                    <h3>BERDAYA</h3>
+                </div>
+                <div class="feature-item">
+                    <div class="icon"><i class="ri-team-fill"></i></div>
                     <h3>BERTUMBUH</h3>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-service-fill"></i></div>
                     <h3>BERBAGI</h3>
                 </div>
-                <!--<div class="feature-item">
-                    <div class="icon"><i class="ri-service-fill"></i></div>
-                    <h3></h3>
-                </div> -->
             </div>
         </div>
     </div>
@@ -225,7 +213,9 @@
 <!-- Bagan Struktur -->
 <section class="bagan-section section-padding">
     <div class="container">
-        <h2 class="mt-1" class="text-center"><span>Bagan</span> Struktur</h2>
+        <div class="section-title">
+            <h2 class="mt-1" class="text-center"><span>Bagan</span> Struktur</h2>
+        </div>
         <div class="justify-content-center">
             <img src="assets/gambar/struktur_organisasi.png" width="100%">
         </div>

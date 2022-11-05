@@ -24,7 +24,7 @@
             <div class="col-12 col-lg-4 text-center">
                 <div class="jumbotron-img hide-logo">
                     <div class="circle"></div>
-                    <img src="assets/logo/ri_icon_baru.png" alt="Roda Indonesia">
+                    <img src="assets/logo/ri_icon_logo.png" alt="Roda Indonesia">
                 </div>
             </div>
         </div>
@@ -52,117 +52,83 @@
             <div class="owl-carousel features-carousel">
                 <div class="feature-item">
                     <div class="icon"><i class="ri-smartphone-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">Mudah Diakses, Tampilan Menarik</p>
+                    <p class="fw-bold lh-1 text-sm-center">Mudah Diakses, Tampilan Menarik</p>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-rss-line"></i></div>
-                    <p class="text-sm-center fw-bolder">Jaringan Luas Dan Layanan Yang Mudah Dijangkau Bahkan Di Daerah Pelosok</p>
+                    <p class="fw-bold lh-1 text-sm-center">Jaringan Luas Dan Layanan Yang Mudah Dijangkau Bahkan Di Daerah Pelosok</p>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-wallet-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">Sistem Pembayaran Yang Bersifat Tuna Dan Non Tunai</p>
+                    <p class="fw-bold lh-1 text-sm-center">Sistem Pembayaran Yang Bersifat Tunai Dan Non Tunai</p>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-layout-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">Pilihan Layanan Yang Lengkap</p>
+                    <p class="fw-bold lh-1 text-sm-center">Pilihan Layanan Yang Lengkap</p>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-upload-cloud-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">Sistem Upload Data Buat Mitra Roda Indonesia</p>  
+                    <p class="fw-bold lh-1 text-sm-center">Sistem Upload Data Buat Mitra Roda Indonesia</p>  
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-pin-distance-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">Adanya Filter Jarak Pada Aplikasi Driver Dan Akan Memudahkan User Mendapatkan Driver Dimanapun</p>
+                    <p class="fw-bold lh-1 text-sm-center">Adanya Filter Jarak Pada Aplikasi Driver Dan Akan Memudahkan User Mendapatkan Driver Dimanapun</p>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-file-user-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">Info Driver Tersemat Permanen Di Aplikasi</p>
+                    <p class="fw-bold lh-1 text-sm-center">Info Driver Tersemat Permanen Di Aplikasi</p>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-alarm-warning-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">Tombol Cancel Akan Menyala Ketika Masa Tunggu Habis</p>
-                    <p class="text-sm-center fw-bolder">(10 Menit Waktu User Menunggu Driver)</p>
+                    <p class="fw-bold lh-1 text-sm-center">Tombol Cancel Akan Menyala Ketika Masa Tunggu Habis<br>(10 Menit Waktu User Menunggu Driver)</p>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-team-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">Multi Order</p>
-                    <p class="text-sm-center fw-bolder">(Max 5 Order Dalam Waktu Yang Bersamaan)</p>
+                    <p class="fw-bold lh-1 text-sm-center">Multi Order<br>(Max 5 Order Dalam Waktu Yang Bersamaan)</p>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-clipboard-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">Klaim Asuransi Yang Mudah</p>
-                    <p class="text-sm-center fw-bolder">(Melalui Aplikasi)</p>
+                    <p class="fw-bold lh-1 text-sm-center">Klaim Asuransi Yang Mudah<br>(Melalui Aplikasi)</p>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-checkbox-circle-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">Verifikasi Mudah</p>
+                    <p class="fw-bold lh-1 text-sm-center">Verifikasi Mudah</p>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-service-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">Pelayanan Yang Maksimal Untuk Setiap Fitur</p>
-                </div>
-                <div class="feature-item">
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-file-user-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">Info Driver Tersemat Permanen Di Aplikasi</p>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-alarm-warning-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">Tombol Cancel Akan Menyala Ketika Masa Tunggu Habis</p>
-                    <p class="text-sm-center fw-bolder">(10 Menit Waktu User Menunggu Driver)</p>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-team-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">Multi Order</p>
-                    <p class="text-sm-center fw-bolder">(Max 5 Order Dalam Waktu Yang Bersamaan)</p>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-clipboard-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">Klaim Asuransi Yang Mudah</p>
-                    <p class="text-sm-center fw-bolder">(Melalui Aplikasi)</p>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-checkbox-circle-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">Verifikasi Mudah</p>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-service-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">Pelayanan Yang Maksimal Untuk Setiap Fitur</p>
+                    <p class="fw-bold lh-1 text-sm-center">Pelayanan Yang Maksimal Untuk Setiap Fitur</p>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-coupon-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">Sistem Voucher, Booking Dan Member Memudahkan Driver Mendapat Orderan Yang Sudah Terjadwal (Coming Soon)</p>
+                    <p class="fw-bold lh-1 text-sm-center">Sistem Voucher, Booking Dan Member Memudahkan Driver Mendapat Orderan Yang Sudah Terjadwal (Coming Soon)</p>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-newspaper-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">Berbagi Berita Terkini Di Beranda, Memudahkan Pengguna Mengetahui Keadaan Terkini</p>
+                    <p class="fw-bold lh-1 text-sm-center">Berbagi Berita Terkini Di Beranda, Memudahkan Pengguna Mengetahui Keadaan Terkini</p>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-forbid-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">Sistem Banned Untuk Akun Yang Tidak Aktif Dalam 1 Bulan</p>
-                    <p class="text-sm-center fw-bolder">(Akan Ada Pop-up Info)</p>
+                    <p class="fw-bold lh-1 text-sm-center">Sistem Banned Untuk Akun Yang Tidak Aktif Dalam 1 Bulan<br>(Akan Ada Pop-up Info)</p>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-roadster-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">User Dapat Memilih Tipe Kendaraan</p>
-                    <p class="text-sm-center fw-bolder">(Sebanyak Driver Dalam Jangkauannya)</p>
+                    <p class="fw-bold lh-1 text-sm-center">User Dapat Memilih Tipe Kendaraan<br>(Sebanyak Driver Dalam Jangkauannya)</p>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-shield-user-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">Bebas Dari Orderan Fiktif</p>
+                    <p class="fw-bold lh-1 text-sm-center">Bebas Dari Orderan Fiktif</p>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-chat-history-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">History Chat Dalam Aplikasi Yang Tersimpan Dalam  Kurun Waktu Tertentu, Sehingga Permasalahan Dapat Diatasi Dengan Cepat</p>
+                    <p class="fw-bold lh-1 text-sm-center">History Chat Dalam Aplikasi Yang Tersimpan Dalam  Kurun Waktu Tertentu, Sehingga Permasalahan Dapat Diatasi Dengan Cepat</p>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-e-bike-2-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">Tombol "Penerima Barang" Dan "Bukan Penerima" Dilengkapi Kamera, Untuk RISend</p>
+                    <p class="fw-bold lh-1 text-sm-center">Tombol "Penerima Barang" Dan "Bukan Penerima" Dilengkapi Kamera (RISend)</p>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-chat-voice-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">Sistem VOIP Untuk RIChat</p>
+                    <p class="fw-bold lh-1 text-sm-center">Sistem VOIP Untuk RIChat</p>
                 </div>
             </div>
         </div>
@@ -358,9 +324,6 @@
                 <!--<div class="support-item">
                     <img src="assets/logo/gbsrilogos.png" class="w-75 grayscale" alt="" srcset="">
                 </div>-->
-                <div class="support-item text-center">
-                    <img src="assets/logo/motion_pay_logo.png" class="w-100 h-100 grayscale" alt="" srcset="">
-                </div>
                 <!--<div class="support-item text-center">
                     <img src="assets/logo/motion_pay_logo.png" class="w-100 h-100 grayscale" alt="" srcset="">
                 </div>-->

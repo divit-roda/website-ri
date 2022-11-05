@@ -87,71 +87,35 @@
             <div class="owl-carousel features-carousel">
                 <div class="feature-item">
                     <div class="icon"><i class="ri-bank-fill"></i></div>
-<<<<<<< Updated upstream
-                    <h3>Member Bulanan Yang Otomatis Bisa Dirasakan Manfaatnya Dalam Bentuk Asuransi Dan Keanggotaan Koperasi</h3>
+                    <p class="fw-bold lh-1 text-sm-center d-flex justify-content-center">Member Bulanan Yang Otomatis Bisa Dirasakan Manfaatnya Dalam Bentuk Asuransi Dan Keanggotaan Koperasi</p>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-clipboard-fill"></i></div>
-                    <h3>Proteksi Asuransi Kecelakaan Disaat Kerja Dan Diluar Kerja Yang Mudah Diakses Dan Diklaim Melalui Aplikasi</h3>
+                    <p class="fw-bold lh-1 text-sm-center d-flex justify-content-center">Proteksi Asuransi Kecelakaan Disaat Kerja Dan Diluar Kerja Yang Mudah Diakses Dan Diklaim Melalui Aplikasi</p>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-hand-coin-fill"></i></div>
-                    <h3>Potongan Per Transaksi Bagi Driver Paling Ringan Dibanding Yang Lainnya</h3>
+                    <p class="fw-bold lh-1 text-sm-center d-flex justify-content-center">Potongan Per Transaksi Bagi Driver Paling Ringan Dibanding Yang Lainnya</p>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-refund-2-fill"></i></div>
-                    <h3>Kompensasi/Fee Untuk Pengambilan Rute Yang Jauh (Ngeblast Diatas 3KM</h3>
+                    <p class="fw-bold lh-sm text-sm-center d-flex justify-content-center">Kompensasi/Fee Untuk Pengambilan Rute Yang Jauh<br>(Ngeblast Diatas 3KM)</p>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-team-fill"></i></div>
-                    <h3>Multiorder (Max 5 Order Di Waktu Yang Bersamaan)</h3>
+                    <p class="fw-bold lh-1 text-sm-center d-flex justify-content-center">Multiorder<br>(Max 5 Order Di Waktu Yang Bersamaan)</p>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-forbid-fill"></i></div>
-                    <h3>Tidak Ada Sistem Penghentian Operasional Sementara (Suspend)</h3>
+                    <p class="fw-bold lh-1 text-sm-center d-flex justify-content-center">Tidak Ada Sistem Penghentian Operasional Sementara (Suspend)</p>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-alarm-warning-fill"></i></div>
-                    <h3>Tombol Cancel Akan Menyala Ketika Masa Tunggu Habis (10 Menit Waktu User Menunggu Driver)</h3>
+                    <p class="fw-bold lh-1 text-sm-center d-flex justify-content-center">Tombol Cancel Akan Menyala Ketika Masa Tunggu Habis<br>(10 Menit Waktu User Menunggu Driver)</p>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-trophy-fill"></i></div>
-                    <h3>Peluang Jenjang Karir Dan Pengembangan Potensi Diri (RI & Koperasi)</h3>
-=======
-                    <p class="text-sm-center fw-bolder">Member Bulanan Yang Otomatis Bisa Dirasakan Manfaatnya Dalam Bentuk Asuransi Dan Keanggotaan Koperasi</p>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-clipboard-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">Proteksi Asuransi Kecelakaan Disaat Kerja Dan Diluar Kerja Yang Mudah Diakses Dan Diklaim Melalui Aplikasi</p>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-hand-coin-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">Potongan Per Transaksi Bagi Driver Paling Ringan Dibanding Yang Lainnya</p>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-refund-2-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">Kompensasi/Fee Untuk Pengambilan Rute Yang Jauh</p>
-                    <p class="text-sm-center fw-bolder">(Ngeblast Diatas 3KM)</p>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-team-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">Multiorder</p>
-                    <p class="text-sm-center fw-bolder">(Max 5 Order Di Waktu Yang Bersamaan)</p>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-forbid-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">Tidak Ada Sistem Penghentian Operasional Sementara (Suspend)</p>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-alarm-warning-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">Tombol Cancel Akan Menyala Ketika Masa Tunggu Habis</p>
-                    <p class="text-sm-center fw-bolder">(10 Menit Waktu User Menunggu Driver)</p>
-                </div>
-                <div class="feature-item">
-                    <div class="icon"><i class="ri-trophy-fill"></i></div>
-                    <p class="text-sm-center fw-bolder">Peluang Jenjang Karir Dan Pengembangan Potensi Diri</p>
-                    <p class="text-sm-center fw-bolder">(RI & Koperasi)</p>
->>>>>>> Stashed changes
+                    <p class="fw-bold lh-1 text-sm-center d-flex justify-content-center">Peluang Jenjang Karir Dan Pengembangan Potensi Diri<br>(RI & Koperasi)</p>
                 </div>
             </div>
         </div>
@@ -211,18 +175,6 @@
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
     </div>
     <div class="modal-body">
-<<<<<<< Updated upstream
-     <p>Mendaftar melalui Aplikasi RODA INDONESIA</p>
-     <p>1. Calon Mitra Driver wajib memiliki smartphone</p>
-     <p>2. Calon Mitra wajib memiliki akun e-mail Gmail</p>
-     <p>3. Memiliki nomor telepon (hp) yang masih aktif</p>
-     <p>4. Mendownload Aplikasi Roda Indonesia Driver di Playstore</p>
-     <p>5. Mengisi data diri dan data kendaraan yang akan digunakan pada aplikasi dengan ketentuan:</p>
-     <p><li>Data Diri:</li></p>
-     <ul>
-        <li>• Memiliki KTP aktif dan Wajib Warga Negara Indonesia (WNI)</li>
-        li>• Minimal berusia 17 tahun dan maksimal berusia 65 tahun pada saat pendaftaran (tidak diperlukan surat keterangan sehat)</li>
-=======
        <p>Mendaftar melalui Aplikasi RODA INDONESIA</p>
        <p>1. Calon Mitra Driver wajib memiliki smartphone</p>
        <p>2. Calon Mitra wajib memiliki akun e-mail Gmail</p>
@@ -233,7 +185,6 @@
        <ul>
         <li>• Memiliki KTP aktif dan Wajib Warga Negara Indonesia (WNI)</li>
         <li>• Minimal berusia 17 tahun dan maksimal berusia 65 tahun pada saat pendaftaran (tidak diperlukan surat keterangan sehat)</li>
->>>>>>> Stashed changes
         <li>• Mengupload foto KTP aktif (asli)</li>
         <li>• Mengupload KTP Resi Disdukcapil wajib dilegalisir dengan cap basah (dapat digunakan sebagai dokumen pengganti apabila E-KTP belum jadi dengan masa berlaku selama 6 (enam) bulan</li>
         <li>• Mengupload foto selfie</li>
@@ -260,13 +211,8 @@
 </ul>
 <p><li>Data Kendaraan:</li></p>
 <ul>
-<<<<<<< Updated upstream
-   <li>1. Mengupload foto STNK dengan ketentuan:
-       <ul>
-=======
  <li>1. Mengupload foto STNK dengan ketentuan:
      <ul>
->>>>>>> Stashed changes
         <li>• STNK aktif (asli)</li>
         <li>• Maksimal tahun keluaran kendaraan 10 tahun (terhitung sejak pendaftaran)</li>
         <li>• Memiliki spesifikasi kendaraan R2 4 dengan minimal kapasitas mesin 110cc</li>
@@ -282,8 +228,6 @@
     </ul>
 </p>
 </div>
-<<<<<<< Updated upstream
-=======
 
 <div class="modal-footer border-danger"></div>
 <!-- SOP RIBike -->
@@ -388,7 +332,6 @@
 </section>
 <!-- Akhir SOP RIBike -->
 &nbsp;
->>>>>>> Stashed changes
 <div class="modal-footer border-danger">
     <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Tutup</button>
 </div>
@@ -405,16 +348,6 @@
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
     </div>
     <div class="modal-body">
-<<<<<<< Updated upstream
-       <p>Mendaftar melalui Aplikasi RODA INDONESIA</p>
-       <p>1. Calon Mitra Driver wajib memiliki smartphone</p>
-       <p>2. Calon Mitra wajib memiliki akun e-mail Gmail</p>
-       <p>3. Memiliki nomor telepon (hp) yang masih aktif</p>
-       <p>4. Mendownload Aplikasi Roda Indonesia Driver di Playstore</p>
-       <p>5. Mengisi data diri dan data kendaraan yang akan digunakan pada aplikasi dengan ketentuan:</p>
-       <p><li>Data Diri:</li></p>
-       <ul>
-=======
      <p>Mendaftar melalui Aplikasi RODA INDONESIA</p>
      <p>1. Calon Mitra Driver wajib memiliki smartphone</p>
      <p>2. Calon Mitra wajib memiliki akun e-mail Gmail</p>
@@ -423,7 +356,6 @@
      <p>5. Mengisi data diri dan data kendaraan yang akan digunakan pada aplikasi dengan ketentuan:</p>
      <p><li>Data Diri:</li></p>
      <ul>
->>>>>>> Stashed changes
         <li>• Memiliki KTP aktif dan Wajib Warga Negara Indonesia (WNI)</li>
         <li>• Minimal berusia 17 tahun dan maksimal berusia 65 tahun pada saat pendaftaran (tidak diperlukan surat keterangan sehat)</li>
         <li>• Mengupload foto KTP aktif (asli)</li>
@@ -469,8 +401,6 @@
     </ul>
 </p>
 </div>
-<<<<<<< Updated upstream
-=======
 <div class="modal-footer border-danger"></div>
 <!-- SOP RICar -->
 <section>
@@ -562,7 +492,6 @@
 </section>
 <!-- Akhir SOP RICar -->
 &nbsp;
->>>>>>> Stashed changes
 <div class="modal-footer border-danger">
     <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Tutup</button>
 </div>
