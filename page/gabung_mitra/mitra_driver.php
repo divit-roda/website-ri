@@ -30,49 +30,6 @@
 </section>
 <!-- Akhir Jumbotron -->
 
-<!-- Persyaratan -->
-<div class="container">
-    <div class="section-title my-5">
-        <h2>Syarat Pendaftaran Mitra <span>Roda Indonesia</span></h2>
-    </div>
-    <div class="row row-cols-1 row-cols-md-3 g-3">
-      <div class="col">
-        <div class="card border-danger text-center">
-          <img src="assets/icon/ribike.png" class="card-img-top" alt="...">
-          <div class="card-body">
-            <h5 class="card-title text-center"><b>Syarat Pendaftaran RIBIKE</b></h5>
-            <button type="button" class="btn btn-outline-danger" data-bs-toggle="modal" data-bs-target="#modalRibike">
-                <strong>Selengkapnya</strong>
-            </button>
-        </div>
-    </div>
-</div>
-<div class="col">
-    <div class="card border-danger text-center">
-      <img src="assets/icon/ricar.png" class="card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title text-center"><b>Syarat Pendaftaran RICAR</b></h5>
-        <button type="button" class="btn btn-outline-danger" data-bs-toggle="modal" data-bs-target="#modalRicar">
-            <strong>Selengkapnya</strong>
-        </button>
-    </div>
-</div>
-</div>
-<div class="col">
-    <div class="card border-danger text-center">
-      <img src="assets/icon/risend.png" class="card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title text-center"><b>Syarat Pendaftaran RISEND</b></h5>
-        <button type="button" class="btn btn-outline-danger" data-bs-toggle="modal" data-bs-target="#modalRisend">
-            <strong>Selengkapnya</strong>
-        </button>
-    </div>
-</div>
-</div>
-</div>
-</div>
-<!-- Akhir Persyaratan -->
-&nbsp;     
 <!-- Manfaat Mitra Driver -->
 <section class="features section-padding">
     <div class="container">
@@ -122,6 +79,98 @@
     </div>
 </section>
 <!-- Akhir Manfaat Mitra Driver -->
+
+<!-- Ketentuan Penggunaan Aplikasi Roda Indonesia -->
+<section class="privacy section-padding">
+    <div class="container">
+        <div class="service-features desc">
+            <div class="service-feature-item">
+                <div class="section-title">
+                    <h2>Tata Cara Menjadi <span>Mitra Driver Roda Indonesia</span></h2>
+                </div>
+                <div class="accordion ketentuan-pengguna-arc" id="accordionExample">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingOne">
+                            <button class="accordion-button btn-2 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">SELENGKAPNYA</button>
+                        </h2>
+                        <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample"> 
+                            <div class="accordion-body">
+                                <ol>
+                                    <li>Untuk Mitra Driver di 3 Bulan Pertama (Masa Trial), dibebaskan dari iuran bulanan, tapi diwajibkan membeli Atribut Roda Indonesia secara Tunai yang di lakukan bersamaan pada saat Top Up Deposit untuk meng-Aktivasi Aplikasi :</li>
+
+                                    <ul>
+                                        <li>1. Jaket dan Helm (Ribike) harga Rp. 350,000 untuk Full Paket. Untuk satuan Rp. 250,000 (Jaket saja), Rp. 150,000 (Helm).</li>
+                                        <li>2. Jaket Ricar Rp. 250,000</li>
+                                        <li>3. Polo shirt Rp. 100,000 (untuk Mitra Driver Opang) </li>
+                                    </ul>
+                                    <li>Menyiapkan kelengkapan Data Diri yang harus di Unggah pada saat Pendaftaran Keanggotaan Mitra Driver Roda Indonesia pada Aplikasi : SIM, KTP, Kartu Keluarga, STNK, Foto Diri & Foto Unit Kendaraan.</li>
+
+                                    <li>Ketentuan Tahun Kendaraan Mitra Driver : </li>
+
+                                    <ul>
+                                        <li>1. RIBike Sepeda Motor Minimum Tahun 2012</li>
+                                        <li>2. RICar Mobil Minimum Tahun 2015</li>
+                                        <li>3. Opang 2012 Ke Bawah dengan melengkapi Surat Keterangan Bengkel untuk kondisi terakhir kendaraan yg di ACC Head Driver Wilayah.</li>
+                                    </ul>
+
+                                    <li>Mengisi Form Member dan Unggah Data (lihat Point 2) pada Aplikasi, dan melakukan Top Up Deposit dan Atribut untuk mendapatkan Id Member dan Aktivasi pada Aplikasi.</li>
+                                    <li>Setelah 3 Bulan Masa Trial, Driver sudah harus membayar Member Fee sebesar Rp. 110,000 yg di bayar secara kontinyu setiap awal bulan ditambah Top Up minimal Rp. 40,000 untuk Transaksi Perjalanan dan Atribut di Aplikasi RODA INDONESIA.</li>
+                                    <li>KEANGGOTAAN KOPERASI adalah Fasilitas dari Roda Indonesia dan dinyatakan Sah menjadi Anggota dalam Tenggang waktu 18 bulan dimulai setelah 3 bulan Masa Trial Aplikasi RODA INDONESIA</li>
+                                    <li>Apabila Mitra mengundurkan diri sebelum tenggang waktu 18 bulan secara otomatis dapat mengugurkan Fasilitasi keanggotaan Koperasi dari Roda Indonesia dan tidak berhak untuk mendapatkan Benefit Koperasi. Keanggotaan akan dimulai dari awal lagi jika Mitra ingin bergabung kembali bersama Roda Indonesia.</li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Akhir Ketentuan Penggunaan Aplikasi Roda Indonesia -->
+
+<!-- Persyaratan -->
+<div class="container">
+    <div class="section-title my-5">
+        <h2>Syarat Pendaftaran Mitra <span>Roda Indonesia</span></h2>
+    </div>
+    <div class="row row-cols-1 row-cols-md-3 g-3">
+      <div class="col">
+        <div class="card border-danger text-center">
+          <img src="assets/icon/ribike.png" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title text-center"><b>Syarat Pendaftaran RIBIKE</b></h5>
+            <button type="button" class="btn btn-outline-danger" data-bs-toggle="modal" data-bs-target="#modalRibike">
+                <strong>Selengkapnya</strong>
+            </button>
+        </div>
+    </div>
+</div>
+<div class="col">
+    <div class="card border-danger text-center">
+      <img src="assets/icon/ricar.png" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title text-center"><b>Syarat Pendaftaran RICAR</b></h5>
+        <button type="button" class="btn btn-outline-danger" data-bs-toggle="modal" data-bs-target="#modalRicar">
+            <strong>Selengkapnya</strong>
+        </button>
+    </div>
+</div>
+</div>
+<div class="col">
+    <div class="card border-danger text-center">
+      <img src="assets/icon/risend.png" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title text-center"><b>Syarat Pendaftaran RISEND</b></h5>
+        <button type="button" class="btn btn-outline-danger" data-bs-toggle="modal" data-bs-target="#modalRisend">
+            <strong>Selengkapnya</strong>
+        </button>
+    </div>
+</div>
+</div>
+</div>
+</div>
+<!-- Akhir Persyaratan -->
+&nbsp;     
 
 <!-- Cara Daftar -->
 <div class="row">
@@ -175,14 +224,14 @@
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
     </div>
     <div class="modal-body">
-       <p>Mendaftar melalui Aplikasi RODA INDONESIA</p>
-       <p>1. Calon Mitra Driver wajib memiliki smartphone</p>
-       <p>2. Calon Mitra wajib memiliki akun e-mail Gmail</p>
-       <p>3. Memiliki nomor telepon (hp) yang masih aktif</p>
-       <p>4. Mendownload Aplikasi Roda Indonesia Driver di Playstore</p>
-       <p>5. Mengisi data diri dan data kendaraan yang akan digunakan pada aplikasi dengan ketentuan:</p>
-       <p><li>Data Diri:</li></p>
-       <ul>
+     <p>Mendaftar melalui Aplikasi RODA INDONESIA</p>
+     <p>1. Calon Mitra Driver wajib memiliki smartphone</p>
+     <p>2. Calon Mitra wajib memiliki akun e-mail Gmail</p>
+     <p>3. Memiliki nomor telepon (hp) yang masih aktif</p>
+     <p>4. Mendownload Aplikasi Roda Indonesia Driver di Playstore</p>
+     <p>5. Mengisi data diri dan data kendaraan yang akan digunakan pada aplikasi dengan ketentuan:</p>
+     <p><li>Data Diri:</li></p>
+     <ul>
         <li>• Memiliki KTP aktif dan Wajib Warga Negara Indonesia (WNI)</li>
         <li>• Minimal berusia 17 tahun dan maksimal berusia 65 tahun pada saat pendaftaran (tidak diperlukan surat keterangan sehat)</li>
         <li>• Mengupload foto KTP aktif (asli)</li>
@@ -211,8 +260,8 @@
 </ul>
 <p><li>Data Kendaraan:</li></p>
 <ul>
- <li>1. Mengupload foto STNK dengan ketentuan:
-     <ul>
+   <li>1. Mengupload foto STNK dengan ketentuan:
+       <ul>
         <li>• STNK aktif (asli)</li>
         <li>• Maksimal tahun keluaran kendaraan 10 tahun (terhitung sejak pendaftaran)</li>
         <li>• Memiliki spesifikasi kendaraan R2 4 dengan minimal kapasitas mesin 110cc</li>
@@ -348,14 +397,14 @@
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
     </div>
     <div class="modal-body">
-     <p>Mendaftar melalui Aplikasi RODA INDONESIA</p>
-     <p>1. Calon Mitra Driver wajib memiliki smartphone</p>
-     <p>2. Calon Mitra wajib memiliki akun e-mail Gmail</p>
-     <p>3. Memiliki nomor telepon (hp) yang masih aktif</p>
-     <p>4. Mendownload Aplikasi Roda Indonesia Driver di Playstore</p>
-     <p>5. Mengisi data diri dan data kendaraan yang akan digunakan pada aplikasi dengan ketentuan:</p>
-     <p><li>Data Diri:</li></p>
-     <ul>
+       <p>Mendaftar melalui Aplikasi RODA INDONESIA</p>
+       <p>1. Calon Mitra Driver wajib memiliki smartphone</p>
+       <p>2. Calon Mitra wajib memiliki akun e-mail Gmail</p>
+       <p>3. Memiliki nomor telepon (hp) yang masih aktif</p>
+       <p>4. Mendownload Aplikasi Roda Indonesia Driver di Playstore</p>
+       <p>5. Mengisi data diri dan data kendaraan yang akan digunakan pada aplikasi dengan ketentuan:</p>
+       <p><li>Data Diri:</li></p>
+       <ul>
         <li>• Memiliki KTP aktif dan Wajib Warga Negara Indonesia (WNI)</li>
         <li>• Minimal berusia 17 tahun dan maksimal berusia 65 tahun pada saat pendaftaran (tidak diperlukan surat keterangan sehat)</li>
         <li>• Mengupload foto KTP aktif (asli)</li>

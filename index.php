@@ -27,7 +27,15 @@ switch ($page) {
 
     case 'mitra_driver':
         include "page/gabung_mitra/mitra_driver.php";
-         break;         
+         break;
+
+    case 'mitra_usaha':
+        include "page/gabung_mitra/mitra_usaha.php";
+         break; 
+
+    case 'gabung_korwil':
+        include "page/gabung_mitra/gabung_korwil.php";
+        break;        
 
     case 'ribike':
         include "page/projek/ribike.php";

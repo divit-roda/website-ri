@@ -40,6 +40,14 @@
             echo '<link rel="stylesheet" type="text/css" href="css/page_css/mitra_driver.css">';
             break;
 
+        case 'gabung_korwil':
+            echo '<link rel="stylesheet" type="text/css" href="css/page_css/gabung_korwil.css">';
+            break;
+            
+        case 'mitra_usaha':
+            echo '<link rel="stylesheet" type="text/css" href="css/page_css/mitra_usaha.css">';
+            break;
+
         case 'koperasi':
             echo '<link rel="stylesheet" type="text/css" href="css/page_css/koperasi.css">';
             break;
@@ -154,7 +162,7 @@
                         </a>
                         <ul class="dropdown-menu dropdown-menu-white" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="?page=mitra_driver">Info Mitra Driver</a></li>
-                            <li><a class="dropdown-item" href="?page=">Info Mitra Usaha</a></li>
+                            <li><a class="dropdown-item" href="?page=mitra_usaha">Info Mitra Usaha</a></li>
                             <li><a class="dropdown-item" href="?page=koperasi">Info Mitra Koperasi</a></li>
                         </ul>
                     </li>
