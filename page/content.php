@@ -24,7 +24,7 @@
             <div class="col-12 col-lg-4 text-center">
                 <div class="jumbotron-img hide-logo">
                     <div class="circle"></div>
-                    <img src="assets/logo/ri_icon_baru.png" alt="Roda Indonesia">
+                    <img src="assets/logo/ri_icon_logo.png" alt="Roda Indonesia">
                 </div>
             </div>
         </div>
@@ -98,10 +98,10 @@
                     <div class="icon"><i class="ri-service-fill"></i></div>
                     <p class="fw-bold lh-1 text-sm-center">Pelayanan Yang Maksimal Untuk Setiap Fitur</p>
                 </div>
-                <div class="feature-item">
+                <!-- <div class="feature-item">
                     <div class="icon"><i class="ri-coupon-fill"></i></div>
                     <p class="fw-bold lh-1 text-sm-center">Sistem Voucher, Booking Dan Member Memudahkan Driver Mendapat Orderan Yang Sudah Terjadwal (Coming Soon)</p>
-                </div>
+                </div> -->
                 <div class="feature-item">
                     <div class="icon"><i class="ri-newspaper-fill"></i></div>
                     <p class="fw-bold lh-1 text-sm-center">Berbagi Berita Terkini Di Beranda, Memudahkan Pengguna Mengetahui Keadaan Terkini</p>
@@ -159,48 +159,41 @@
 <!-- Akhir SLogan -->
 
 <!-- Gabung Jadi RI -->
-<section class="gabung-ri section-padding">
-    <div class="container text-center">
-        <div class="row justify-content-center">
-            <div class="col-lg-10">
-                <div class="section-title">
-                    <h2>Ayo, Gabung Jadi <span>Mitra Roda Indonesia</span></h2>
-                </div>
-            </div>
+<div class="container">
+    <div class="section-title my-5">
+        <h2>Ayo, Gabung Jadi <span>Mitra Roda Indonesia</span></h2>
+    </div>
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+      <div class="col">
+        <div class="card h-100 border-danger text-center">
+          <img src="assets/icon/ribike.png" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title text-center"><b>Gabung Sebagai Mitra Driver</b></h5>
+                <a class="btn btn-danger" href="?page=mitra_driver" role="button">Selengkapnya</a>
+            </button>
         </div>
     </div>
-    <div class="container gabung-ri-item">
-        <div class="row">
-            <div class="col-md-4">
-                <img src="assets/icon/ribike.png">
-            </div>
-            <div class="col-md-7 d-flex justify-content-center flex-column">
-                <div class="gabung-ri-text">
-                    <h2 class="mt-2 mt-md-0 fw-bold"><strong>Gabung Sebagai Mitra Driver</strong></h2>
-                    <a class="btn btn-danger" href="?page=mitra_driver" role="button">Selengkapnya</a>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <img src="assets/icon/rimart.png">
-            </div>
-            <div class="col-md-7 d-flex justify-content-center flex-column">
-                <div class="gabung-ri-text">
-                    <h2 class="mt-2 mt-md-0 fw-bold"><strong>Gabung Sebagai Mitra Usaha</strong></h2>
-                    <a class="btn btn-danger" href="?page=" role="button">Selengkapnya</a>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <img src="assets/icon/ritrip.png">
-            </div>
-            <div class="col-md-7 d-flex justify-content-center flex-column">
-                <div class="gabung-ri-text">
-                    <h2 class="mt-2 mt-md-0 fw-bold"><strong>Gabung Sebagai Korwil</strong></h2>
-                    <a class="btn btn-danger" href="?page=" role="button">Selengkapnya</a>
-                </div>
-            </div>
-        </div>
+</div>
+<div class="col">
+    <div class="card border-danger text-center">
+      <img src="assets/icon/rimart.png" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title text-center"><b>Gabung Sebagai Mitra Usaha</b></h5>
+        <a class="btn btn-danger" href="?page=mitra_usaha" role="button">Selengkapnya</a>
     </div>
-</section>
+</div>
+</div>
+<div class="col">
+    <div class="card border-danger text-center">
+      <img src="assets/icon/ritrip.png" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title text-center"><b>Gabung Sebagai Korwil</b></h5>
+            <a class="btn btn-danger" href="?page=gabung_korwil" role="button">Selengkapnya</a>
+    </div>
+</div>
+</div>
+</div>
+</div>
 <!-- Akhir Gabung Jadi RI -->
 
 <!-- Mulai App Download Section -->
