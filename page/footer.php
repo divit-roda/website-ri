@@ -8,7 +8,6 @@
         </div>
         <div class="page-footer-text">
             100% Karya Anak Nusantara
-            <div class="my-3">Hemat, Cermat, dan Bersahabat. Menjadi satu-satunya Aplikasi Karya Anak Nusantara yang Bergerak Mandiri Untuk Indonesia.</div>
             <div class="my-3">Menjadi satu-satunya Aplikasi Karya Anak Nusantara yang Bergerak Mandiri Untuk Indonesia.</div>
             <div class="social-icon my-3">
                 <ul class="list-inline py-3">

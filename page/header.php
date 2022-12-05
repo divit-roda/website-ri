@@ -161,7 +161,6 @@
                             Info &nbsp;<i class="ri-arrow-down-s-line" style="font-size: 13px;"></i>
                         </a>
                         <ul class="dropdown-menu dropdown-menu-white" aria-labelledby="navbarDropdown">
-                            <li><a class="dropdown-item" href="?page=mitra_driver">Info Mitra Driver</a></li>
                             <li><a class="dropdown-item" href="?page=info_driver">Info Driver</a></li>
                             <li><a class="dropdown-item" href="?page=mitra_usaha">Info Mitra Usaha</a></li>
                             <li><a class="dropdown-item" href="?page=koperasi">Info Mitra Koperasi</a></li>
