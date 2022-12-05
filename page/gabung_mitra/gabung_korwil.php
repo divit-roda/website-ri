@@ -114,19 +114,6 @@
 </section>
 <!-- Akhir Manfaat Gabung Korwil -->
 
-<!-- Cara Daftar -->
-<section class="how-it-works section-padding">
-    <div class="container">
-        <div class="section-title">
-            <h2>Daftar <span>Sekarang</span></h2>
-        </div>
-        <div class="text-center">
-            <a href="https://form.jotform.com/ntn.ri.opr/RodaIndonesiaForm" class="justify-content-center link-danger">https://form.jotform.com/ntn.ri.opr/RodaIndonesiaForm</a>
-        </div>
-    </div>
-</section>
-<!-- Akhir Cara Daftar -->
-
 <!-- Daftar Korwil -->
 <div class="container">
     <div class="section-title text-center">
