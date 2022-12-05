@@ -70,16 +70,18 @@
                                 <div class="col-5">Info Korwil</div>
                                 <div class="col-1">:</div>
                                 <div class="col-6">Pak Achiel - (0813)22146567</div>
+                                <div class="col-5">Achiel - (0813)22146567</div>
                             </div>
                              <div class="row">
                                 <div class="col-5"></div>
                                 <div class="col-1"></div>
                                 <div class="col-6">Pak Jim - (0858)23167281</div>
+                                <div class="col-5">Jim - (0858)23167281</div>
                             </div>
                             <div class="row">
                                 <div class="col-5">Technical Service</div>
                                 <div class="col-1">:</div>
-                                <div class="col-6">(0838) 3662 6451<br></div>
+                                <div class="col-5">(0838) 3662 6451<br></div>
                             </div>
                         </div>
                     </div>

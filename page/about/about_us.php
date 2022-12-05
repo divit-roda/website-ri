@@ -42,6 +42,8 @@
     </div>
 </section>
 
+
+<!-- Cerita Kami -->
 <section class="company-story section-padding">
     <div class="container">
         <div class="row">
@@ -50,8 +52,18 @@
                     <h2 class="text-center mt-5 mt-lg-0 text-lg-start"><span>Cerita</span> Kami</h2>
                 </div>
                 <div class="company-story-text desc">
-                    <p>Diawali dari kebutuhan akan sebuah wadah yang mampu menampung aspirasi anak negeri, untuk ikut andil membangun solusi atas segala permasalahan sosial yang mengerucut pada kondisi ekonomi yg dihadapi seluruh masyarakat Indonesia, Dimana jumlah penduduk yang banyak, juga potensi yang besar belum mampu tereksplorasi dengan baik secara adil dan merata. Hal inilah yang menjadi pokok permasalahan kami sebagai anak negeri, dan menginisiasi kami untuk melakukan sesuatu. </p>
-                    <p>Banyak hal yang membuat masyarakat kita selalu tertinggal di persaingan dunia, terutama dunia digital di masa depan. Perlu sesuatu yang mampu merangkum dan menyatukan seluruh potensi manusia, kekayaan alam dan semangat membangun bersama, agar kita tidak hanya menjadi follower akan tetapi tampil sebagai trend setter yang mampu mengenali kapasitas diri serta mampu memaksimalkan potensi tanpa harus kehilangan eksistensi karakteristik budaya, dan tetap menjadikan kita tuan rumah di negeri sendiri, di negeri yang kaya akan sumber alam dan berdaya dalam mengelolanya.</p>
+                    <p>Diawali dari kebutuhan akan sebuah wadah yang mampu menampung aspirasi anak negeri, untuk ikut andil
+                    membangun solusi atas segala permasalahan sosial yang mengerucut pada kondisi ekonomi yg dihadapi seluruh
+                    masyarakat Indonesia, Dimana jumlah penduduk yang banyak, juga potensi yang besar belum mampu
+                    tereksplorasi dengan baik secara adil dan merata. Hal inilah yang menjadi pokok permasalahan kami sebagai anak
+                    negeri, dan menginisiasi kami untuk melakukan sesuatu.</p>
+                    <p>Banyak hal yang membuat masyarakat kita selalu tertinggal di persaingan dunia, terutama dunia digital di masa
+                    depan. Perlu sesuatu yang mampu merangkum dan menyatukan seluruh potensi manusia, kekayaan alam dan
+                    semangat membangun bersama, agar kita tidak hanya menjadi follower akan tetapi tampil sebagai trend setter
+                    yang mampu mengenali kapasitas diri serta mampu memaksimalkan potensi tanpa harus kehilangan eksistensi
+                    karakteristik budaya, dan tetap menjadikan kita tuan rumah di negeri sendiri, di negeri yang kaya akan sumber
+                    alam dan berdaya dalam mengelolanya. Maka Lahirlah Roda Indonesia yang digagas dan didirikan oleh Anneke
+                    Sjuultje Lesar (Founder,Owner & CEO)</p>
                 </div>
             </div>
             <div class="col-12 col-lg-6 col-xl-6 text-center order-1">
@@ -62,6 +74,7 @@
         </div>
     </div>
 </section>
+<!-- Akhir Cerita Kami -->
 
 <!-- Visi Misi -->
 <section class="visi-misi-section section-padding">
@@ -83,6 +96,7 @@
                                 <p>Menjadi perusahaan jasa transportasi berbasis Online yang dinamis, dan mempunyai daya tahan untuk berkompetisi dalam memberikan pelayanan yang prima bagi masyarakat</p>
                             </li>
                         </ol>
+                        <p>Menjadi perusahaan jasa transportasi berbasis Online yang dinamis, dan mempunyai daya tahan untuk berkompetisi dalam memberikan pelayanan yang prima bagi masyarakat</p>
                     </div>
                 </div>
             </div>

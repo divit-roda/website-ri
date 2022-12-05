@@ -30,6 +30,7 @@
 </section>
 <!-- Akhir Jumbotron -->
 
+<!-- Info Korwil -->
 <section class="company-profile section-padding">
     <div class="container">
         <div class="section-title">
@@ -63,11 +64,46 @@
                     <li>Mengetahui Prosedur / Peraturan Mengemudi Yang Aman</li>
                     <li>Mampu Berbahasa Indonesia Dengan Baik Secara Lisan Maupun Tulisan</li>
                     <li>Mampu Bekerja Dalam Team Dan Dalam Lingkungan Dengan Berbagai Budaya</li>
+</div>
+</section>
+<!-- Akhir Info Korwil -->
+
+<!-- Persyaratan Korwil -->
+<div class="container">
+    <div class="section-title">
+        <h2 class="text-center"><span>Persyaratan </span>Korwil</h2>
+    </div>
+    <div class="justify-content-center">
+        <br>
+        <div class="row">
+            <div class="col-md-3 text-center">
+              <img src="assets/logo/rodin_maskot.png" width="60%" alt="" srcset="">
+          </div>
+          <div class="col-md-9">
+            <div class="text-start">
+             <dl class="row">
+                <dd class="col-sm-12">                            
+                    <li>WNI.</li>
+                    <li>Perorangan ataupun Komunitas.</li>
+                    <li>Minimal Lulusan SMA atau Sederajat.</li>
+                    <li>Usia Max. 45 Tahun.</li>
+                    <li>Memiliki Ijin Mengemudi (min, SIM C).</li>
+                    <li>SKCK (Surat Catatan Kepolisian).</li>
+                    <li>Surat Keterangan Sehat Jasmani & Rohani.</li>
+                    <li>Memiliki Pengetahuan Tentang Wilayah Serta Mampu Memetakannya.</li>
+                    <li>Diutamakan Mempunyai Latar Belakang Sebagai Driver.</li>
+                    <li>Mengetahui Prosedur / Peraturan Mengemudi Yang Aman.</li>
+                    <li>Mampu Berbahasa Indonesia Dengan Baik Secara Lisan Maupun Tulisan.</li>
+                    <li>Mampu Bekerja Dalam Team Dan Dalam Lingkungan Dengan Berbagai Budaya.</li>
                 </dd>
             </dl>
         </div>
     </div>
 </section>
+</div>
+</div>
+</div>
+<!-- Akhir Persyaratan Korwil -->
 
 <!-- Manfaat Gabung Korwil -->
 <section class="features section-padding">
@@ -76,6 +112,7 @@
             <div class="col align-self-center">
                 <div class="section-title">
                     <h2>Manfaat <span>Mitra Driver</span></h2>
+                    <h2>Manfaat <span>Korwil</span></h2>
                 </div>
             </div>
         </div>
@@ -141,3 +178,36 @@
     </div>
 </section>
 <!-- AKhir Hubungi Kami -->
+<!-- Daftar Korwil -->
+<div class="container">
+    <div class="section-title text-center">
+        <h2>Daftar <span>Sekarang</span></h2>
+    </div>
+    <div class="text-center">
+        <div class="justify-content-center">
+            <div class="justify-content-center">
+                <img src="assets/gambar/qr_form.png">
+            </div>
+            <div class="justify-content-center">
+                <div class="card-body justify-content-center">
+                    <div class="card-title">
+                        <a href="https://form.jotform.com/ntn.ri.opr/RodaIndonesiaForm" class="link-danger">https://form.jotform.com/ntn.ri.opr/RodaIndonesiaForm</a>
+                    </div>
+                    <br>       
+                    <div class="card border-danger justify-content-center">
+                        <div class="card-header text-center">
+                            <b><u>Info Korwil</u></b>
+                        </div>
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">WA Business : 081322205560</li>
+                            <li class="list-group-item">Achiel : 081322146567</li>
+                            <li class="list-group-item">Jim : 085823167281</li>
+                        </ul>
+                    </div>        
+                </div>
+            </div>
+        </div>
+    </div>
+    <br>
+</div>
+<!-- Akhir Daftar Korwil -->
