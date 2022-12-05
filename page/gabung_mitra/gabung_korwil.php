@@ -42,32 +42,6 @@
     </div>
 </section>
 
-<section class="section-padding">
-    <div class="container">
-        <div class="section-title">
-            <h2 class="mt-1" class="text-center"><span>Persyaratan </span>Korwil</h2>
-        </div>
-        <div class="company-profile-text justify-content-center desc">
-            <dl class="row">
-                <dd class="col-sm-3">                            
-                    <li>WNI</li>
-                    <li>Perorangan ataupun Komunitas</li>
-                    <li>Minimal Lulusan SMA atau Sederajat</li>
-                    <li>Usia Max. 45 Tahun</li>
-                    <li>Memiliki Ijin Mengemudi (min, SIM C)</li>
-                    <li>SKCK (Surat Catatan Kepolisian</li>
-                </dd>
-                <dd class="col-sm-9">
-                    <li>Surat Keterangan Sehat Jasmani & Rohani</li>
-                    <li>Memiliki Pengetahuan Tentang Wilayah Serta Mampu Memetakannya</li>
-                    <li>Diutamakan Mempunyai Latar Belakang Sebagai Driver</li>
-                    <li>Mengetahui Prosedur / Peraturan Mengemudi Yang Aman</li>
-                    <li>Mampu Berbahasa Indonesia Dengan Baik Secara Lisan Maupun Tulisan</li>
-                    <li>Mampu Bekerja Dalam Team Dan Dalam Lingkungan Dengan Berbagai Budaya</li>
-</div>
-</section>
-<!-- Akhir Info Korwil -->
-
 <!-- Persyaratan Korwil -->
 <div class="container">
     <div class="section-title">
@@ -153,31 +127,6 @@
 </section>
 <!-- Akhir Cara Daftar -->
 
-<!-- Hubungi Kami -->
-<section class="how-it-works section-padding">
-    <div class="section-title">
-        <h2>Hubungi <span>Kami</span></h2>
-    </div>
-    <div class="container contact-info-item">
-        <div class="justify-content-start">
-            <i class="ri-phone-fill"></i>
-            <h3>Info Korwil</h3>
-            <ul class="list-inline">
-            <li class="list-inline-item">WA Business     :</li>
-            <li class="list-inline-item">081322205560</li>
-            </ul>
-            <ul class="list-inline">
-            <li class="list-inline-item">Arsy Raspati    :</li>
-            <li class="list-inline-item">081322146567</li>
-            </ul>
-            <ul class="list-inline">
-            <li class="list-inline-item">Jim             :</li>
-            <li class="list-inline-item">085823167281</li>
-            </ul>
-        </div>
-    </div>
-</section>
-<!-- AKhir Hubungi Kami -->
 <!-- Daftar Korwil -->
 <div class="container">
     <div class="section-title text-center">
