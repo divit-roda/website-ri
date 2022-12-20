@@ -106,7 +106,7 @@
         <div class="card border-danger text-center">
           <img src="assets/icon/rimart.png" class="card-img-top" alt="...">
           <div class="card-body">
-            <h5 class="card-title text-center"><b>Syarat Pendaftaran RIMART</b></h5>
+            <h5 class="card-title text-center"><b>SYARAT PENDAFTARAN RIMART</b></h5>
             <button type="button" class="btn btn-outline-danger" data-bs-toggle="modal" data-bs-target="#modalRibike">
                 <strong>Selengkapnya</strong>
             </button>
@@ -117,7 +117,7 @@
     <div class="card border-danger text-center">
       <img src="assets/icon/ritrip.png" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title text-center"><b>Syarat Pendaftaran RITRIP</b></h5>
+        <h5 class="card-title text-center"><b>SYARAT PENDAFTARAN RITRIP</b></h5>
         <button type="button" class="btn btn-outline-danger" data-bs-toggle="modal" data-bs-target="#modalRicar">
             <strong>Selengkapnya</strong>
         </button>
@@ -128,7 +128,7 @@
     <div class="card border-danger text-center">
       <img src="assets/icon/rifood.png" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title text-center"><b>Syarat Pendaftaran RIFOOD</b></h5>
+        <h5 class="card-title text-center"><b>SYARAT PENDAFTARAN RIFOOD</b></h5>
         <button type="button" class="btn btn-outline-danger" data-bs-toggle="modal" data-bs-target="#modalRisend">
             <strong>Selengkapnya</strong>
         </button>

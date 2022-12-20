@@ -80,6 +80,8 @@
 </section>
 <!-- Akhir Manfaat Mitra Driver -->
 
+
+
 <!-- Persyaratan -->
 <div class="container">
     <div class="section-title my-5">
@@ -90,7 +92,7 @@
         <div class="card border-danger text-center">
           <img src="assets/icon/ribike.png" class="card-img-top" alt="...">
           <div class="card-body">
-            <h5 class="card-title text-center"><b>Syarat Pendaftaran RIBIKE</b></h5>
+            <h5 class="card-title text-center"><b>SYARAT PENDAFTARAN RIBIKE</b></h5>
             <button type="button" class="btn btn-outline-danger" data-bs-toggle="modal" data-bs-target="#modalRibike">
                 <strong>Selengkapnya</strong>
             </button>
@@ -101,7 +103,7 @@
     <div class="card border-danger text-center">
       <img src="assets/icon/ricar.png" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title text-center"><b>Syarat Pendaftaran RICAR</b></h5>
+        <h5 class="card-title text-center"><b>SYARAT PENDAFTARAN RICAR</b></h5>
         <button type="button" class="btn btn-outline-danger" data-bs-toggle="modal" data-bs-target="#modalRicar">
             <strong>Selengkapnya</strong>
         </button>
@@ -112,7 +114,7 @@
     <div class="card border-danger text-center">
       <img src="assets/icon/risend.png" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title text-center"><b>Syarat Pendaftaran RISEND</b></h5>
+        <h5 class="card-title text-center"><b>SYARAT PENDAFTARAN RISEND</b></h5>
         <button type="button" class="btn btn-outline-danger" data-bs-toggle="modal" data-bs-target="#modalRisend">
             <strong>Selengkapnya</strong>
         </button>
