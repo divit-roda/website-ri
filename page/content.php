@@ -24,7 +24,7 @@
             <div class="col-12 col-lg-4 text-center">
                 <div class="jumbotron-img hide-logo">
                     <div class="circle"></div>
-                    <img src="assets/logo/ri_icon_baru.png" alt="Roda Indonesia">
+                    <img src="assets/logo/ri_icon_logo.png" alt="Roda Indonesia">
                 </div>
             </div>
         </div>
@@ -187,7 +187,7 @@
     <div class="card border-danger text-center">
       <img src="assets/icon/ritrip.png" class="card-img-top" alt="...">
       <div class="card-body">
-        <h5 class="card-title text-center"><b>Gabung Sebagai Korwil</b></h5>
+        <h5 class="card-title text-center"><b>Gabung Sebagai Koordinator Wilayah</b></h5>
             <a class="btn btn-danger" href="?page=gabung_korwil" role="button">Selengkapnya</a>
     </div>
 </div>
@@ -300,34 +300,31 @@
         <div class="row">
             <div class="owl-carousel supports-carousel">
                 <div class="support-item text-center">
-                    <img src="assets/logo/kominfo_512px.png" class="w-60 grayscale" alt="" srcset="">
+                    <img src="assets/logo/kominfo_512px.png" class="w-60" alt="" srcset="">
                 </div>
                 <div class="support-item text-center">
-                    <img src="assets/logo/kemenhub_512px.png" class="w-60 grayscale" alt="" srcset="">
+                    <img src="assets/logo/kemenhub_512px.png" class="w-60" alt="" srcset="">
                 </div>
                 <div class="support-item text-center">
-                    <img src="assets/logo/smm_512px.png" class="w-60 grayscale" alt="" srcset="">
+                    <img src="assets/logo/smm_512px.png" class="w-60" alt="" srcset="">
                 </div>
                 <!--<div class="support-item">
                     <img src="assets/logo/rtiga_512px.png" class="w-75 grayscale" alt="" srcset="">
                 </div>-->
                 <div class="support-item text-center">
-                    <img src="assets/logo/doku_logo.png" class="w-75 grayscale" alt="" srcset="">
+                    <img src="assets/logo/doku_logo.png" class="w-75" alt="" srcset="">
                 </div>
                 <!--<div class="support-item">
                     <img src="assets/logo/gbsrilogos.png" class="w-75 grayscale" alt="" srcset="">
                 </div>-->
-                <!--<div class="support-item text-center">
-                    <img src="assets/logo/motion_pay_logo.png" class="w-100 h-100 grayscale" alt="" srcset="">
-                </div>-->
                 <div class="support-item text-center">
-                    <img src="assets/logo/motion_pay_logo.png" class="w-100 h-100 grayscale" alt="" srcset="">
+                    <img src="assets/logo/motion_pay_logo.png" class="w-100 h-100" alt="" srcset="">
                 </div>
                 <div class="support-item text-center">
-                    <img src="assets/logo/motion_life_new_logo.png" class="w-100 h-100 grayscale" alt="" srcset="">
+                    <img src="assets/logo/motion_life_new_logo.png" class="w-100 h-100" alt="" srcset="">
                 </div>
                 <div class="support-item text-center">
-                    <img src="assets/logo/logo_pt.png" class="w-100 mh-100 grayscale" alt="" srcset="">
+                    <img src="assets/logo/logo_pt.png" class="w-100 mh-100" alt="" srcset="">
                 </div>
             </div>
         </div>
