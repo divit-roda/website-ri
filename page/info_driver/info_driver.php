@@ -49,8 +49,7 @@
                     <li>Untuk Mitra Driver di 3 Bulan Pertama (Masa Trial), dibebaskan dari iuran bulanan, tapi diwajibkan membeli Atribut Roda Indonesia secara Tunai yang di lakukan bersamaan pada saat Top Up Deposit untuk meng-Aktivasi Aplikasi :</li>
                     <ul>
                         <li>1. Jaket dan Helm (Ribike) harga Rp. 350,000 untuk Full Paket. Untuk satuan Rp. 250,000 (Jaket saja), Rp. 150,000 (Helm).</li>
-                        <li>2. Jaket Ricar Rp. 250,000</li>
-                        <li>3. Polo shirt Rp. 100,000 (untuk Mitra Driver Opang) </li>
+                        <li>2. Polo shirt Rp. 100,000 (untuk Mitra Driver RICAR) </li>
                     </ul>
                     <li>Menyiapkan kelengkapan Data Diri yang harus di Unggah pada saat Pendaftaran Keanggotaan Mitra Driver Roda Indonesia pada Aplikasi : SIM, KTP, Kartu Keluarga, STNK, Foto Diri & Foto Unit Kendaraan.</li>
                     <li>Ketentuan Tahun Kendaraan Mitra Driver : </li>
