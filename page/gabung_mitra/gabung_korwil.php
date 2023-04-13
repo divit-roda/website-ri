@@ -40,7 +40,9 @@
             <p><b>Koordinator Wilayah</b> (Korwil) adalah pelaksana yang mengkoordinir para driver di suatu wilayah tertentu, baik wilayah tingkat Kelurahan, Kecamatan, maupun Kota. Korwil bisa dari perorangan maupun Komunitas, yang memiliki peran dan fungsi sebagai Perekrut Driver, mengelola dan memelihara para Driver tetap loyal berada di Roda Indonesia.</p>
         </div>
     </div>
+</div>
 </section>
+<!-- Akhir Info Korwil -->
 
 <!-- Persyaratan Korwil -->
 <div class="container">
@@ -73,7 +75,6 @@
             </dl>
         </div>
     </div>
-</section>
 </div>
 </div>
 </div>
@@ -85,7 +86,6 @@
         <div class="row text-center">
             <div class="col align-self-center">
                 <div class="section-title">
-                    <h2>Manfaat <span>Mitra Driver</span></h2>
                     <h2>Manfaat <span>Korwil</span></h2>
                 </div>
             </div>
@@ -136,7 +136,6 @@
                         </div>
                         <ul class="list-group list-group-flush">
                             <li class="list-group-item">WA Business : 081322205560</li>
-                            <li class="list-group-item">Achiel : 081322146567</li>
                             <li class="list-group-item">Jim : 085823167281</li>
                         </ul>
                     </div>        
