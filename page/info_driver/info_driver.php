@@ -65,7 +65,7 @@
                         <li>3. Opang 2012 Ke Bawah dengan melengkapi Surat Keterangan dari bengkel (kondisi terakhir kendaraan) yg ditunjuk oleh pihak Roda Indonesia per-wilayah.</li>
                     </ul>
                     <li>Fasilitas Asuransi didapat Mitra driver Roda Indonesia setiap tahun yang akan efektif di bulan ke 4 setelah mendaftar, bebas biaya dan dapat di klaim dengan mudah melalui Aplikasi.</li>
-                    <li>•   Fasilitas Keanggotaan Koperasi yang akan didapat setelah 18 bulan dengan aktif menjadi Mitra Driver Roda Indonesia tanpa jeda, bebas biaya iuran pokok dan iuran wajib (Baca Info Lebih Lengkap: <a href="http://rodaindonesia.site/index.php?page=koperasi">Koperasi</a>). Mitra Driver yang tidak aktif atau bahkan mengundurkan diri dari kemitraan dengan Roda Indonesia, serta merta menggugurkan fasilitas keanggotaan koperasi ini. Jika kemudian mendaftar kembali menjadi Mitra Roda Indonesia, perhitungan 18 bulan tersebut akan dimulai lagi dari awal.</li>
+                    <li>Fasilitas Keanggotaan Koperasi yang akan didapat setelah 18 bulan dengan aktif menjadi Mitra Driver Roda Indonesia tanpa jeda, bebas biaya iuran pokok dan iuran wajib (Baca Info Lebih Lengkap: <a href="http://rodaindonesia.site/index.php?page=koperasi">Koperasi</a>). Mitra Driver yang tidak aktif atau bahkan mengundurkan diri dari kemitraan dengan Roda Indonesia, serta merta menggugurkan fasilitas keanggotaan koperasi ini. Jika kemudian mendaftar kembali menjadi Mitra Roda Indonesia, perhitungan 18 bulan tersebut akan dimulai lagi dari awal.</li>
                 </ol>
             </p>
         </div>
