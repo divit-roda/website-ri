@@ -1,4 +1,3 @@
-
 <!-- Jumbotron -->
 <section class="page-jumbotron d-flex align-items-center">
     <div class="effect-wrap">
@@ -86,7 +85,7 @@
                 <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
                         <ol>
-                           <p>Sebelum menggunakan Aplikasi, Anda harus menyetujui Ketentuan Penggunaan ini dan <a href="?page=kebijakan&sub_page=kebijakan_privasi">Kebijakan Privasi</a>, dan mendaftarkan diri Anda dengan memberikan informasi yang dibutuhkan oleh Kami. Saat melakukan pendaftaran, Kami akan meminta Anda untuk memberikan nama lengkap, alamat email, dan nomor telepon seluler pribadi Anda yang sah. Anda dapat mengubah informasi data diri Anda pada fitur pengaturan dalam Aplikasi.</p>
+                           <p>Sebelum menggunakan Aplikasi, Anda harus menyetujui Ketentuan Penggunaan ini dan <a href="http://rodaindonesia.site/index.php?page=kebijakan&sub_page=kebijakan_privasi">Kebijakan Privasi</a>, dan mendaftarkan diri Anda dengan memberikan informasi yang dibutuhkan oleh Kami. Saat melakukan pendaftaran, Kami akan meminta Anda untuk memberikan nama lengkap, alamat email, dan nomor telepon seluler pribadi Anda yang sah. Anda dapat mengubah informasi data diri Anda pada fitur pengaturan dalam Aplikasi.</p>
                             <p>
                             Setelah melakukan pendaftaran, sistem Kami akan menghasilkan kode verifikasi secara otomatis dan mengirim kode verifikasi tersebut melalui pesan singkat ke nomor telepon genggam yang Anda berikan. Anda perlu melakukan verifikasi dengan memasukan kode verifikasi tersebut pada halaman pendaftaran di Aplikasi.</p>
                             <p>

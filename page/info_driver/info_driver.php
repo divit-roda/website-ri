@@ -46,22 +46,26 @@
             </h2>
             <p>
                 <ol>
-                    <li>Untuk Mitra Driver di 3 Bulan Pertama (Masa Trial), dibebaskan dari iuran bulanan, tapi diwajibkan membeli Atribut Roda Indonesia secara Tunai yang di lakukan bersamaan pada saat Top Up Deposit untuk meng-Aktivasi Aplikasi :</li>
+                    <li>Selama 3 Bulan Pertama Masa Operasional (Masa Trial), Mitra Driver (RIBike/RICar) dibebaskan untuk membeli atribut secara keseluruhan maupun salah satu terlebih dahulu, dengan keterangan:</li>
                     <ul>
-                        <li>1. Jaket dan Helm (Ribike) harga Rp. 350,000 untuk Full Paket. Untuk satuan Rp. 250,000 (Jaket saja), Rp. 150,000 (Helm).</li>
-                        <li>2. Polo shirt Rp. 100,000 (untuk Mitra Driver RICAR) </li>
+                        <li>1. Jaket (untuk Mitra Driver RIBike), dengan harga Rp 250.000</li>
+                        <li>2. Helm (untuk Mitra Driver RIBike), dengan harga Rp 150.000</li>
+                        <li>3. Paket Jaket dan Helm (untuk Mitra Driver RIBike), dengan harga Rp 350.000</li>
+                        <li>4. Polo Shirt, dengan harga Rp 100.000 (khusus untuk Mitra Driver RICar)</li>
                     </ul>
-                    <li>Menyiapkan kelengkapan Data Diri yang harus di Unggah pada saat Pendaftaran Keanggotaan Mitra Driver Roda Indonesia pada Aplikasi : SIM, KTP, Kartu Keluarga, STNK, Foto Diri & Foto Unit Kendaraan.</li>
-                    <li>Ketentuan Tahun Kendaraan Mitra Driver : </li>
+                    <li>Memasuki bulan ke-4 Masa Operasional:</li>
+                    <ul>
+                        <li>1. Mitra Driver RIBike harus memakai atribut lengkap (Jaket dan Helm)</li>
+                        <li>2. Mitra Driver RICar harus memakai Polo Shirt</li>
+                    </ul>
+                    <li>Ketentuan Tahun Kendaraan Mitra Driver:</li>
                     <ul>
                         <li>1. RIBike Sepeda Motor Minimum Tahun 2012</li>
-                        <li>2. RICar Mobil Minimum Tahun 2015</li>
-                        <li>3. Opang 2012 Ke Bawah dengan melengkapi Surat Keterangan Bengkel untuk kondisi terakhir kendaraan yg di ACC Head Driver Wilayah.</li>
+                        <li>2. RICar Minimum Tahun 2015</li>
+                        <li>3. Opang 2012 Ke Bawah dengan melengkapi Surat Keterangan dari bengkel (kondisi terakhir kendaraan) yg ditunjuk oleh pihak Roda Indonesia per-wilayah.</li>
                     </ul>
-                    <li>Mengisi Form Member dan Unggah Data (lihat Point 2) pada Aplikasi, dan melakukan Top Up Deposit dan Atribut untuk mendapatkan Id Member dan Aktivasi pada Aplikasi.</li>
-                    <li>Setelah 3 Bulan Masa Trial, Driver sudah harus membayar Member Fee sebesar Rp. 110,000 yg di bayar secara kontinyu setiap awal bulan ditambah Top Up minimal Rp. 40,000 untuk Transaksi Perjalanan dan Atribut di Aplikasi RODA INDONESIA.</li>
-                    <li>KEANGGOTAAN KOPERASI adalah Fasilitas dari Roda Indonesia dan dinyatakan Sah menjadi Anggota dalam Tenggang waktu 18 bulan dimulai setelah 3 bulan Masa Trial Aplikasi RODA INDONESIA</li>
-                    <li>Apabila Mitra mengundurkan diri sebelum tenggang waktu 18 bulan secara otomatis dapat mengugurkan Fasilitasi keanggotaan Koperasi dari Roda Indonesia dan tidak berhak untuk mendapatkan Benefit Koperasi. Keanggotaan akan dimulai dari awal lagi jika Mitra ingin bergabung kembali bersama Roda Indonesia.</li>
+                    <li>Fasilitas Asuransi didapat Mitra driver Roda Indonesia setiap tahun yang akan efektif di bulan ke 4 setelah mendaftar, bebas biaya dan dapat di klaim dengan mudah melalui Aplikasi.</li>
+                    <li>•   Fasilitas Keanggotaan Koperasi yang akan didapat setelah 18 bulan dengan aktif menjadi Mitra Driver Roda Indonesia tanpa jeda, bebas biaya iuran pokok dan iuran wajib (Baca Info Lebih Lengkap: <a href="http://rodaindonesia.site/index.php?page=koperasi">Koperasi</a>). Mitra Driver yang tidak aktif atau bahkan mengundurkan diri dari kemitraan dengan Roda Indonesia, serta merta menggugurkan fasilitas keanggotaan koperasi ini. Jika kemudian mendaftar kembali menjadi Mitra Roda Indonesia, perhitungan 18 bulan tersebut akan dimulai lagi dari awal.</li>
                 </ol>
             </p>
         </div>
