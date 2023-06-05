@@ -48,6 +48,45 @@
                         <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                             <div class="accordion-body">
                                 <h5>Ketentuan Penggunaa RIBIKE</h5>
+                                <ol>
+                                    <li><b>Penampilan Driver</b></li>
+                                    <ul>
+                                        <li>Jaket Resmi Roda Indonesia</li>
+                                        <li>Helm Standar SNI* (Roda Indonesia)</li>
+                                        <li>Jaket tidak lusuh dan berbau menyengat</li>
+                                        <li>Bukan Jaket Modifikasi</li>
+                                        <li>Celana Panjang</li>
+                                        <li>Helm tidak berbau</li>
+                                        <li>Bersepatu</li>
+                                    </ul>
+                                    <li><b>Kondisi Kendaraan</b></li>
+                                    <ul>
+                                        <li>Kaca Spion Lengkap</li>
+                                        <li>Lampu semua dapat menyala dan dapat digunakan</li>
+                                        <li>Knalpot standar</li>
+                                        <li>Pijakan kaki untuk pelanggan</li>
+                                        <li>Mesin terawat</li>
+                                    </ul>
+                                    <li><b>Lain - lain</b></li>
+                                    <ul>
+                                        <li>Keharusan untuk follow atau subscribe semua sosial media Roda Indonesia sebagai pusat informasi untuk semua Mitra, agar dapat mengikuti secara up to date</li>
+                                    </ul>
+                                    <li><b>Layanan terhadap pelanggan</b></li>
+                                    <ul>
+                                        <li>Menyapa pelanggan (pagi, siang atau sore)</li>
+                                        <li>Foto Driver sesuai informasi APK</li>
+                                        <li>Plat nomor sesuai informasi APK</li>
+                                        <li>Meyarankan kepada pelanggan untuk menggunakan masker </li>
+                                        <li>Mengikuti protokol kesehatan</li>
+                                        <li>Helm untuk penumpang pastikan bersih dan tidak berbau</li>
+                                        <li>Pastikan helm berfungsi dengan baik</li>
+                                        <li>Disarankan helm ada kaca penutup yang berfungsi dengan baik</li>
+                                        <li>Tidak memulai percakapan yang tidak perlu dengan pelanggan</li>
+                                        <li>Tawarkan promo yang ada di Roda Indonesia (Jika Ada)</li>
+                                        <li>Ketika selesai perjalanan sampaikan Terima Kasih</li>
+                                        <li>Mengajak Pelanggan Untuk memberikan bintang, like dan comment di kanal sosial media kita , bentuk dukungan maupun  perbaikan untuk Roda Indonesia</li>
+                                    </ul>
+                                </ol>
                                 <p>Ketentuan Penggunaan RIBike ini merupakan bagian yang tidak terpisahkan dari Ketentuan Penggunaan Aplikasi Roda Indonesia. Jika Anda menggunakan Layanan pada Aplikasi Roda Indonesia, maka Anda akan dianggap telah membaca dan menyetujui Ketentuan Penggunaan RIBike ini. Mohon agar Anda tidak melanjutkan penggunaan Layanan RIBike.</p>
                                 <ol>
                                     <li class="my-3"><b>Istilah Umum</b></li>
@@ -98,6 +137,41 @@
                         <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                             <div class="accordion-body">
                                 <h5>Ketentuan Penggunaan RICAR</h5>
+                                 <ol>
+                                    <li><b>Penampilan Driver</b></li>
+                                    <ul>
+                                        <li>T-Shirt Resmi Roda Indonesia</li>
+                                        <li>Baju tidak lusuh dan berbau menyengat</li>
+                                        <li>Bukan Jaket Modifikasi</li>
+                                        <li>Celana Panjang</li>
+                                        <li>Bersepatu</li>
+                                    </ul>
+                                    <li><b>Kondisi Kendaraan</b></li>
+                                    <ul>
+                                        <li>Kaca Spion Lengkap</li>
+                                        <li>Tidak merokok didalam Mobil</li>
+                                        <li>Tidak boleh ada barang yang mengeluarkan bau menyengat</li>
+                                        <li>Bagian Luar Mobil dipastikan bersih (kecuali kendala hujan)</li>
+                                        <li>Mesin terawat</li>
+                                    </ul>
+                                    <li><b>Lain - lain</b></li>
+                                    <ul>
+                                        <li>Keharusan untuk follow atau subscribe semua sosial media Roda Indonesia sebagai pusat informasi untuk semua Mitra, agar dapat mengikuti secara up to date</li>
+                                    </ul>
+                                    <li><b>Layanan terhadap pelanggan</b></li>
+                                    <ul>
+                                        <li>Menyapa pelanggan (pagi, siang atau sore)</li>
+                                        <li>Foto Driver sesuai informasi APK</li>
+                                        <li>Plat nomor sesuai informasi APK</li>
+                                        <li>Meyarankan kepada pelanggan untuk menggunakan masker </li>
+                                        <li>Mengikuti protokol kesehatan</li>
+                                        <li>Tidak memulai percakapan yang tidak perlu dengan pelanggan</li>
+                                        <li>Tawarkan promo yang ada di Roda Indonesia (Jika Ada)</li>
+                                        <li>Ketika selesai perjalanan sampaikan agar mengecek barang-barang bawaan</li>
+                                        <li>Ketika selesai perjalanan sampaikan Terima Kasih</li>
+                                        <li>Mengajak Pelanggan Untuk memberikan bintang, like dan comment di kanal sosial media kita , bentuk dukungan maupun  perbaikan untuk Roda Indonesia</li>
+                                    </ul>
+                                </ol>
                                 <p>Ketentuan Penggunaan RICar ini merupakan bagian yang tidak terpisahkan dari ketentuan Penggunaan Aplikasi Roda Indonesia. Jika Anda menggunakan Layanan RICar pada Aplikasi RODA INDONESIA, maka Anda akan dianggap telah membaca dan menyetujui <b>Ketentuan Penggunaan RICar</b> ini. Oleh karenanya, jika Anda tidak menyetujui sebagian atau seluruh bagian dari Ketentuan Penggunaan RICar ini, mohon agar Anda tidak melanjutkan penggunaan Layanan RICar.</p>
                                 <ol>
                                     <li class="my-3"><b>Istilah Umum</b></li>
