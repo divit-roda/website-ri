@@ -12,6 +12,7 @@
                     <!-- Description -->
                     <!-- <h3>Projek Roda Indonesia</h3> -->
                     <h1>Pengantaran Makanan</h1>
+                    <h3>#BergerakMandiriUntukIndonesia</h3>
                 </div>
             </div>
             <div class="col-12 col-lg-5 text-center logo-box">
@@ -37,17 +38,13 @@
             <h3 class="mt-5 mt-md-0"><span>RIFOOD</span></h3>
         </div>
         <div class="rifood-explain-text mb-5 desc">
-            <p>RIFOOD menyediakan berbagai macam makanan dan jajanan hasil olahan UMKM ataupun merchant ternama. Seluruh UMKM yang menjadi produsen makanan di RIFOOD dibimbing dan berada di bawah pengawasan Lab Kitchen (barisan chef berpengalaman) sehinga kualitas kebersihan dan kenikmatan rasa terjamin. Makanan-makanan lokal siap dipesan dan diantar oleh driver berlangganan Anda.</p>
+            <p>Makanan- makanan lokal siap santap (ready to eat) pilihan di setiap daerah, siap dipesan dan diantar oleh Mitra Driver RIFOOD anda. Dan bagi para Merchants, standarisasi kami merupakan jaminan bahwa produk anda masuk dalam kategori terbaik di kelasnya.</p>
         </div>
 
         <div class="section-title mb-0">
             <h3 class="mb-0">Fitur-fitur <span>RIFOOD</span></h3>
         </div>
         <div class="project-features px-2 px-md-4 pt-4">
-            <div class="list-feature">
-                <i class="ri-hand-heart-fill"></i>
-                <p>Biaya pengiriman terjangkau.</p>
-            </div>
             <div class="list-feature">
                 <i class="ri-smartphone-fill"></i>
                 <p>Wisata kuliner dalam genggaman tanpa keluar rumah.</p>
@@ -58,7 +55,7 @@
             </div>
             <div class="list-feature">
                 <i class="ri-checkbox-multiple-fill"></i>
-                <p>Dibimbing dan berada di bawah pengawasan Lab Kitchen.</p>
+                <p>Produsen juga akan diberikan edukasi dan pendampingan, sehingga memiliki produk yang layak edar, dan keamanan produk terjamin.</p>
             </div>
         </div>
     </div>

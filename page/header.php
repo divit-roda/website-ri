@@ -36,6 +36,18 @@
             echo '<link rel="stylesheet" type="text/css" href="css/page_css/info_driver.css">';
             break;
 
+        case 'mitra_driver':
+            echo '<link rel="stylesheet" type="text/css" href="css/page_css/mitra_driver.css">';
+            break;
+
+        case 'gabung_korwil':
+            echo '<link rel="stylesheet" type="text/css" href="css/page_css/gabung_korwil.css">';
+            break;
+            
+        case 'mitra_usaha':
+            echo '<link rel="stylesheet" type="text/css" href="css/page_css/mitra_usaha.css">';
+            break;
+
         case 'koperasi':
             echo '<link rel="stylesheet" type="text/css" href="css/page_css/koperasi.css">';
             break;
@@ -124,39 +136,40 @@
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link color-white" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                            Projek &nbsp;<i class="ri-arrow-down-s-line" style="font-size: 13px;"></i>
+                            Produk &nbsp;<i class="ri-arrow-down-s-line" style="font-size: 13px;"></i>
                         </a>
                         <ul class="dropdown-menu dropdown-menu-white" aria-labelledby="navbarDropdown">
                             <li><a class="dropdown-item" href="?page=ribike">RIBIKE</a></li>
                             <li><a class="dropdown-item" href="?page=ricar">RICAR</a></li>
-                            <li><a class="dropdown-item" href="?page=ripublic">RIPUBLIC</a></li>
+                            <li><a class="dropdown-item" href="?page=risend">RISEND</a></li>
                             <li>
                                 <hr class="dropdown-divider bg-white">
                             </li>
                             <li><a class="dropdown-item" href="?page=rimart">RIMART</a></li>
                             <li><a class="dropdown-item" href="?page=rifood">RIFOOD</a></li>
-                            <li>
-                                <hr class="dropdown-divider bg-white">
-                            </li>
-                            <li><a class="dropdown-item" href="?page=risend">RISEND</a></li>
-                            <li>
-                                <hr class="dropdown-divider bg-white">
-                            </li>
                             <li><a class="dropdown-item" href="?page=ritrip">RITRIP</a></li>
                             <li>
                                 <hr class="dropdown-divider bg-white">
                             </li>
+                            <li><a class="dropdown-item" href="?page=ripublic">RIPUBLIC</a></li>
                             <li><a class="dropdown-item" href="?page=ridu">RIEDU</a></li>
                             <li><a class="dropdown-item" href="?page=richat">RICHAT</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link color-white" href="?page=info_driver">Info Driver</a>
+                        <li class="nav-item dropdown">
+                        <a class="nav-link color-white" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            Info &nbsp;<i class="ri-arrow-down-s-line" style="font-size: 13px;"></i>
+                        </a>
+                        <ul class="dropdown-menu dropdown-menu-white" aria-labelledby="navbarDropdown">
+                            <li><a class="dropdown-item" href="?page=info_driver">Info Driver</a></li>
+                            <li><a class="dropdown-item" href="?page=mitra_usaha">Info Mitra Usaha</a></li>
+                            <li><a class="dropdown-item" href="?page=koperasi">Info Mitra Koperasi</a></li>
+                        </ul>
                     </li>
-                    <li class="nav-item">
+                    <!--<li class="nav-item">
                         <a class="nav-link color-white" href="?page=koperasi">Koperasi</a>
                     </li>
-                    <!-- <li class="nav-item">
+                    <li class="nav-item">
                         <a class="nav-link color-white" href="?page=info_user">Info User</a>
                     </li> -->
                     <li class="nav-item">

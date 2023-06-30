@@ -50,7 +50,7 @@
                     <div class="contact-info-item">
                         <i class="ri-pin-distance-fill"></i>
                         <h4>Cabang Utama</h4>
-                        <p>Komplek KCVRI RT 05 RW 08 Tegal Kawung, Kel. Cipageran, Kec. Cimahi Utara Cimahi</p>
+                        <p></p>
                     </div>
                     <div class="contact-info-item">
                         <i class="ri-mail-send-fill"></i>
@@ -64,17 +64,17 @@
                             <div class="row">
                                 <div class="col-5">Hotline</div>
                                 <div class="col-1">:</div>
-                                <div class="col-6">(022) 20668075</div>
+                                <div class="col-6"></div>
                             </div>
                             <div class="row">
                                 <div class="col-5">Info Korwil</div>
                                 <div class="col-1">:</div>
-                                <div class="col-6">(0813)22205560</div>
+                                <div class="col-5">Jim - (0858)23167281</div>
                             </div>
-                            <div class="row d-flex">
+                            <div class="row">
                                 <div class="col-5">Technical Service</div>
                                 <div class="col-1">:</div>
-                                <div class="col-6">(0838) 3662 6451<br></div>
+                                <div class="col-5">(0838) 3662 6451<br></div>
                             </div>
                         </div>
                     </div>

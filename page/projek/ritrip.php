@@ -10,6 +10,7 @@
                 <div class="jumbotron-text judul-project">
                     <!-- Description -->
                     <h1>Wisata dan Perjalanan</h1>
+                    <h3>#RodaIndonesia</h3>
                 </div>
             </div>
             <div class="col-12 col-lg-5 text-center logo-box">
@@ -35,36 +36,24 @@
             <h3 class="mt-5 mt-md-0"><span>RITRIP</span></h3>
         </div>
         <div class="ritrip-explain-text mb-5 desc">
-            <p>RITRIP melayani Anda yang ingin melakukan perjalanan privasi bersama pasangan, keluarga, atau pun rekan kerja Anda. Untuk satu moment perjalanan atau yang terjadwal setiap hari baik personal ataupun massal. Jalan-jalan dan liburan Anda akan lebih seru dengan informasi yang lengkap serta paket-paket wisata lokal bersama driver pribadi Anda. Anda akan didamping Tour Guide bersertifikat yang dapat memandu dan mengatur perjalanan Anda menjadi lebih terencana dan istimewa.</p>
+            <p>Jalan-jalan & liburan anda akan lebih seru dengan informasi yang lengkap serta paket-paket wisata lokal bersama driver pribadi anda didamping TOUR GUIDE bersertifikasi.  Mereka akan memandu dan mengatur perjalanan anda menjadi  lebih terencana & istimewa.</p>
         </div>
 
         <div class="section-title mb-0">
             <h3 class="mb-0">Fitur-fitur <span>RITRIP</span></h3>
         </div>
-        <div class="row project-features justify-content-center">
-            <div class="col-10 col-md-4 pt-4">
-                <div class="thumbnail-feature">
-                    <div class="icon">
-                        <i class="ri-coupon-3-fill"></i>
-                    </div>
-                    <h3> Pemesanan Tiket </h3>
-                </div>
+        <div class="project-features px-2 px-md-4 pt-4">
+            <div class="list-feature">
+                <i class="ri-red-packet-line"></i>
+                <p>Dapatkan paket-paket perjalanan dengan harga bersaing untuk transportasi darat,laut dan udara , serta tempat penginapan.</p>
             </div>
-            <div class="col-10 col-md-4 pt-4">
-                <div class="thumbnail-feature">
-                    <div class="icon">
-                        <i class="ri-hotel-fill"></i>
-                    </div>
-                    <h3> Hotel </h3>
-                </div>
+            <div class="list-feature">
+                <i class="ri-exchange-dollar-line"></i>
+                <p>FavPrice, Fitur yang menyuguhkan informasi terbaru mengenai harga terbaik dan termurah.</p>
             </div>
-            <div class="col-10 col-md-4 pt-4">
-                <div class="thumbnail-feature">
-                    <div class="icon">
-                        <i class="ri-bus-wifi-fill"></i>
-                    </div>
-                    <h3> Travel </h3>
-                </div>
+            <div class="list-feature">
+                <i class="ri-currency-line"></i>
+                <p>ComPrice, Fitur yang memantau harga terbaik dari Hotel.</p>
             </div>
         </div>
     </div>

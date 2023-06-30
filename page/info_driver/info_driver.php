@@ -13,10 +13,8 @@
                     <!-- <h3>Roda Indonesia</h3> -->
                     <h1>Informasi Driver</h1>
                     <div class="jumbotron-btn">
-
                         <!-- button download aplikasi -->
-                        <button type="button" data-bs-toggle="modal" data-bs-target="#ModalAppBelumTersedia" class="btn btn-1 download-btn">Download Aplikasi Driver</button>
-
+                        <!-- <button type="button" data-bs-toggle="modal" data-bs-target="#ModalAppBelumTersedia" class="btn btn-1 download-btn">Download Aplikasi Driver</button> -->
                     </div>
                 </div>
             </div>
@@ -37,45 +35,91 @@
 </section>
 <!-- Akhir Jumbotron -->
 
-<!-- how it works start -->
-<section class="driver-benefit section-padding">
+<!-- Ketentuan Penggunaan Aplikasi Roda Indonesia -->
+<section class="privacy section-padding">
     <div class="container">
-        <div class="row justify-content-center">
-            <div class="col-lg-10">
+        <div class="service-features desc">
+            <div class="service-feature-item">
                 <div class="section-title">
-                    <h2>Dapatkan <span>Manfaat</span> Yang <span>Maksimal</span></h2>
-                    <h3 class="mt-4">Dengan Menjadi Bagian dari Roda Indonesia !!!</h3>
+                    <h2>Info <span>Driver</span></h2>
                 </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-4 col-md-6">
-                <div class="driver-benefit-item line-right">
-                    <div class="step"><i class="ri-google-play-fill"></i></div>
-                    <h3>unduh aplikasi</h3>
-                    <p>Unduh Aplikasi Roda Indonesia yang tersedia secara gratis di Playstore</p>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="driver-benefit-item line-right">
-                    <div class="step"><i class="ri-edit-2-fill"></i></div>
-                    <h3>isi data diri</h3>
-                    <p>Daftar dengan mengisi data sesuai dengan identitas diri anda</p>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-6">
-                <div class="driver-benefit-item">
-                    <div class="step"><i class="ri-home-smile-fill"></i></div>
-                    <h3>jadilah tuan rumah di tanah air indonesia</h3>
-                    <p>Ayo bersama kita bergerak untuk indonesia yang lebih baik</p>
-                </div>
-            </div>
+            </h2>
+            <p>
+                <ol>
+                    <li>Selama 3 Bulan Pertama Masa Operasional (Masa Trial), Mitra Driver (RIBike/RICar) dibebaskan untuk membeli atribut secara keseluruhan maupun salah satu terlebih dahulu, dengan keterangan:</li>
+                    <ul>
+                        <li>1. Jaket (untuk Mitra Driver RIBike), dengan harga Rp 250.000</li>
+                        <li>2. Helm (untuk Mitra Driver RIBike), dengan harga Rp 150.000</li>
+                        <li>3. Paket Jaket dan Helm (untuk Mitra Driver RIBike), dengan harga Rp 350.000</li>
+                        <li>4. Polo Shirt, dengan harga Rp 100.000 (khusus untuk Mitra Driver RICar)</li>
+                    </ul>
+                    <li>Memasuki bulan ke-4 Masa Operasional:</li>
+                    <ul>
+                        <li>1. Mitra Driver RIBike harus memakai atribut lengkap (Jaket dan Helm)</li>
+                        <li>2. Mitra Driver RICar harus memakai Polo Shirt</li>
+                    </ul>
+                    <li>Ketentuan Tahun Kendaraan Mitra Driver:</li>
+                    <ul>
+                        <li>1. RIBike Sepeda Motor Minimum Tahun 2012</li>
+                        <li>2. RICar Minimum Tahun 2015</li>
+                        <li>3. Opang 2012 Ke Bawah dengan melengkapi Surat Keterangan dari bengkel (kondisi terakhir kendaraan) yg ditunjuk oleh pihak Roda Indonesia per-wilayah.</li>
+                    </ul>
+                    <li>Fasilitas Asuransi didapat Mitra driver Roda Indonesia setiap tahun yang akan efektif di bulan ke 4 setelah mendaftar, bebas biaya dan dapat di klaim dengan mudah melalui Aplikasi.</li>
+                    <li>•   Fasilitas Keanggotaan Koperasi yang akan didapat setelah 18 bulan dengan aktif menjadi Mitra Driver Roda Indonesia tanpa jeda, bebas biaya iuran pokok dan iuran wajib (Baca Info Lebih Lengkap: <a href="http://rodaindonesia.site/index.php?page=koperasi">Koperasi</a>). Mitra Driver yang tidak aktif atau bahkan mengundurkan diri dari kemitraan dengan Roda Indonesia, serta merta menggugurkan fasilitas keanggotaan koperasi ini. Jika kemudian mendaftar kembali menjadi Mitra Roda Indonesia, perhitungan 18 bulan tersebut akan dimulai lagi dari awal.</li>
+                </ol>
+            </p>
         </div>
     </div>
+</div>
+</div>
+</div>
 </section>
-<!-- how it works end -->
+<!-- Akhir Ketentuan Penggunaan Aplikasi Roda Indonesia -->
 
-<section class="driver-attribut section-padding">
+<!-- Cara Daftar -->
+<div class="row">
+    <section class="how-it-works section-padding">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="section-title">
+                        <h2>Cara <span>Mendaftar</span></h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-md-6">
+                    <div class="how-it-works-item line-right">
+                        <div class="step">1</div>
+                        <h3>unduh aplikasi</h3>
+                        <p>Unduh Aplikasi Roda Indonesia yang tersedia secara gratis di Playstore</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="how-it-works-item line-right">
+                        <div class="step">2</div>
+                        <h3>isi data diri</h3>
+                        <p>Daftar dengan mengisi data sesuai dengan identitas diri anda</p>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="how-it-works-item">
+                        <div class="step">3</div>
+                        <h3>gunakan aplikasi</h3>
+                        <p>Nikmati berbagai fitur dan kemudahan yang tersedia di dalam aplikasi Roda Indonesia</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="app-download-btn text-center">
+            <button type="button"  data-bs-target="" class="btn btn-danger download-btn btn-lg">Daftar Sekarang</button>
+        </div>
+    </section>
+</div>
+</div>
+<!-- Akhir Cara Daftar -->
+
+<!-- <section class="driver-attribut section-padding">
     <div class="container text-center">
         <div class="row justify-content-center">
             <div class="col-lg-10">
@@ -179,8 +223,7 @@
             </div>
         </div>
     </div>
-
-</section>
+</section> -->
 
 <!-- Modal Aplikasi belum tersedia -->
 <div class="modal fade" id="ModalAppBelumTersedia" tabindex="-1" role="dialog">

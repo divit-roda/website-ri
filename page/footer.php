@@ -8,16 +8,7 @@
         </div>
         <div class="page-footer-text">
             100% Karya Anak Nusantara
-            <div class="my-3">Hemat, Cermat, dan Bersahabat. Menjadi satu-satunya Aplikasi Karya Anak Nusantara yang Bergerak Mandiri Untuk Indonesia.</div>
-            #satusentuhanuntuksemua
-            <br>#hematcermatbersahabat
-	    <br>#IndonesiaBanget
-	    <br>#IndonesiaOptimis
-        <br>#JalanMenujuSejahtera
-        <br>#JalanMenujuPerubahan
-        <br>#PintuPerubahanKeluarga
-        <br>#BergerakMandiriUntukIndonesia
-            <br>#rodaindonesia
+            <div class="my-3">Menjadi satu-satunya Aplikasi Karya Anak Nusantara yang Bergerak Mandiri Untuk Indonesia.</div>
             <div class="social-icon my-3">
                 <ul class="list-inline py-3">
                     <li class="list-inline-item">
@@ -32,8 +23,33 @@
                         <a href="https://www.instagram.com/rodaindonesiaofficial/" target="_blank" class="s-icon ins-ic"><i class="ri-instagram-line"></i></a>
                     </li>
                 </ul>
+                <div class="btn-group">
+                    <div class="list-inline-item">
+                    <a href="">
+                    <input type="image" src="assets/logo/playstore_logo.png" style="border: double;" height="50" width="130"/>
+                    </a>
+                    </div>
+                </div>
+                <div class="btn-group">
+                    <div class="list-inline-item">
+                    <a href="">
+                    <input type="image" src="assets/logo/appstore_logo.png" style="border: double;" height="50" width="130"/>
+                    </a>
+                    </div>
+                </div>
             </div>
-        </div>
+            
+            
+            #satusentuhanuntuksemua
+            <br>#hematcermatbersahabat
+	        <br>#IndonesiaBanget
+	        <br>#IndonesiaOptimis
+            <br>#JalanMenujuSejahtera
+            <br>#JalanMenujuPerubahan
+            <br>#PintuPerubahanKeluarga
+            <br>#BergerakMandiriUntukIndonesia
+            <br>#rodaindonesia    
+         </div>
     </div>
     <!--/.Footer Links-->
 
@@ -144,6 +160,7 @@ switch ($page) {
         $('span').toggleClass("cancel");
     });
 </script>
+
 
 </body>
 
