@@ -77,6 +77,7 @@
                                         <li>Foto Driver sesuai informasi APK</li>
                                         <li>Plat nomor sesuai informasi APK</li>
                                         <li>Meyarankan kepada pelanggan untuk menggunakan masker </li>
+                                        <li>Menyarankan kepada pelanggan untuk menggunakan masker </li>
                                         <li>Mengikuti protokol kesehatan</li>
                                         <li>Helm untuk penumpang pastikan bersih dan tidak berbau</li>
                                         <li>Pastikan helm berfungsi dengan baik</li>
@@ -143,6 +144,7 @@
                                         <li>T-Shirt Resmi Roda Indonesia</li>
                                         <li>Baju tidak lusuh dan berbau menyengat</li>
                                         <li>Bukan Jaket Modifikasi</li>
+                                        <li>Bukan baju Modifikasi</li>
                                         <li>Celana Panjang</li>
                                         <li>Bersepatu</li>
                                     </ul>
@@ -150,6 +152,7 @@
                                     <ul>
                                         <li>Kaca Spion Lengkap</li>
                                         <li>Tidak merokok didalam Mobil</li>
+                                        <li>Didalam Mobil tidak ada sampah dan berbau</li>
                                         <li>Tidak boleh ada barang yang mengeluarkan bau menyengat</li>
                                         <li>Bagian Luar Mobil dipastikan bersih (kecuali kendala hujan)</li>
                                         <li>Mesin terawat</li>
@@ -164,6 +167,7 @@
                                         <li>Foto Driver sesuai informasi APK</li>
                                         <li>Plat nomor sesuai informasi APK</li>
                                         <li>Meyarankan kepada pelanggan untuk menggunakan masker </li>
+                                        <li>Menyarankan kepada pelanggan untuk menggunakan masker </li>
                                         <li>Mengikuti protokol kesehatan</li>
                                         <li>Tidak memulai percakapan yang tidak perlu dengan pelanggan</li>
                                         <li>Tawarkan promo yang ada di Roda Indonesia (Jika Ada)</li>

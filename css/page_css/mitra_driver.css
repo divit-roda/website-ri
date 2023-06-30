@@ -43,7 +43,11 @@
 }
 .page-jumbotron .jumbotron-text p,
 .page-jumbotron .jumbotron-text span {
+
   font-size: 5px;
+
+  font-size: 15px;
+
   line-height: 28px;
   color: #fff;
   font-weight: 300;
@@ -152,9 +156,7 @@ ol {
     margin: 30px 40px;
   }
 }
-/* ====================================================================================================================================
-                                                                RESPONSIVE
-==================================================================================================================================== */
+
 @media (max-width: 991px) {
   .navbar-toggler {
     background-color: transparent;
@@ -347,3 +349,4 @@ ol {
     margin-bottom: 40px;
   }
 }
+

@@ -253,7 +253,7 @@
   position: absolute;
   left: calc(12.5% + 3px);
   top: 5%;
-  height: calc(27%); /*panjang garis vertical nya*/
+  height: calc(50%); /*panjang garis vertical nya*/
   width: 2px;
   background-color: var(--main-color);
   z-index: -1;
@@ -264,7 +264,7 @@
   position: absolute;
   left: calc(12.5% + 4px);
   top: 5%;
-  height: 88%;/*panjang garis vertical nya*/
+  height: 70%;/*panjang garis vertical nya*/
   width: 2px;
   background-color: var(--main-color);
   z-index: -1;
