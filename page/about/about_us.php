@@ -42,6 +42,8 @@
     </div>
 </section>
 
+
+<!-- Cerita Kami -->
 <section class="company-story section-padding">
     <div class="container">
         <div class="row">
@@ -50,8 +52,18 @@
                     <h2 class="text-center mt-5 mt-lg-0 text-lg-start"><span>Cerita</span> Kami</h2>
                 </div>
                 <div class="company-story-text desc">
-                    <p>Diawali dari kebutuhan akan sebuah wadah yang mampu menampung aspirasi anak negeri, untuk ikut andil membangun solusi atas segala permasalahan sosial yang mengerucut pada kondisi ekonomi yg dihadapi seluruh masyarakat Indonesia, Dimana jumlah penduduk yang banyak, juga potensi yang besar belum mampu tereksplorasi dengan baik secara adil dan merata. Hal inilah yang menjadi pokok permasalahan kami sebagai anak negeri, dan menginisiasi kami untuk melakukan sesuatu. </p>
-                    <p>Banyak hal yang membuat masyarakat kita selalu tertinggal di persaingan dunia, terutama dunia digital di masa depan. Perlu sesuatu yang mampu merangkum dan menyatukan seluruh potensi manusia, kekayaan alam dan semangat membangun bersama, agar kita tidak hanya menjadi follower akan tetapi tampil sebagai trend setter yang mampu mengenali kapasitas diri serta mampu memaksimalkan potensi tanpa harus kehilangan eksistensi karakteristik budaya, dan tetap menjadikan kita tuan rumah di negeri sendiri, di negeri yang kaya akan sumber alam dan berdaya dalam mengelolanya.</p>
+                    <p>Diawali dari kebutuhan akan sebuah wadah yang mampu menampung aspirasi anak negeri, untuk ikut andil
+                        membangun solusi atas segala permasalahan sosial yang mengerucut pada kondisi ekonomi yg dihadapi seluruh
+                        masyarakat Indonesia, Dimana jumlah penduduk yang banyak, juga potensi yang besar belum mampu
+                        tereksplorasi dengan baik secara adil dan merata. Hal inilah yang menjadi pokok permasalahan kami sebagai anak
+                    negeri, dan menginisiasi kami untuk melakukan sesuatu.</p>
+                    <p>Banyak hal yang membuat masyarakat kita selalu tertinggal di persaingan dunia, terutama dunia digital di masa
+                        depan. Perlu sesuatu yang mampu merangkum dan menyatukan seluruh potensi manusia, kekayaan alam dan
+                        semangat membangun bersama, agar kita tidak hanya menjadi follower akan tetapi tampil sebagai trend setter
+                        yang mampu mengenali kapasitas diri serta mampu memaksimalkan potensi tanpa harus kehilangan eksistensi
+                        karakteristik budaya, dan tetap menjadikan kita tuan rumah di negeri sendiri, di negeri yang kaya akan sumber
+                        alam dan berdaya dalam mengelolanya. Maka Lahirlah Roda Indonesia yang digagas dan didirikan oleh Anneke
+                    Sjuultje Lesar (Founder,Owner & CEO)</p>
                 </div>
             </div>
             <div class="col-12 col-lg-6 col-xl-6 text-center order-1">
@@ -62,6 +74,7 @@
         </div>
     </div>
 </section>
+<!-- Akhir Cerita Kami -->
 
 <!-- Visi Misi -->
 <section class="visi-misi-section section-padding">
@@ -72,20 +85,13 @@
         <div class="accordion visi-misi-arc" id="accordionExample">
             <div class="accordion-item">
                 <h2 class="accordion-header" id="headingOne">
-                    <button class="accordion-button btn-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                    <button class="accordion-button btn-2 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
                         Visi
                     </button>
                 </h2>
-                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                        <ol>
-                            <li>
-                                <p>Roda Indonesia menjadi Perusahaan Digital Berbasis Online dengan Kualifikasi dan Kompetensi Internasional, yang berorientasi Profesional dan mampu meng-implementasikan konsep Transportasi Multimoda.</p>
-                            </li>
-                            <li>
-                                <p>Roda Indonesia Adalah Aplikasi Online yang Memberikan Manfaat lebih bagi Sinergi Masyarakat dan Program-Program Pemerintah.</p>
-                            </li>
-                        </ol>
+                        <p>Menjadi perusahaan jasa transportasi berbasis Online yang dinamis, dan mempunyai daya tahan untuk berkompetisi dalam memberikan pelayanan yang prima bagi masyarakat</p>
                     </div>
                 </div>
             </div>
@@ -99,7 +105,7 @@
                     <div class="accordion-body">
                         <ol>
                             <li>
-                                <p>Memberikan kontribusi kerja bersama sebagai sebuah kemitraan yang mengacu pada peningkatan kualitas Sumber Daya Manusia yang Berdedikasi & Beretika sesuai Pancasila sila ke 2, "Kemanusiaan yang Adil dan Beradab".</p>
+                                <p>Memberikan kontribusi kerja bersama sebagai sebuah kemitraan yang mengacu pada peningkatan kualitas Sumber Daya Manusia yang Berdedikasi & Beretika sesuai Pancasila sila ke 2.</p>
                             </li>
                             <li>
                                 <p>Membangun Display Kerjasama Potensi antar wilayah sesuai Latar Belakang Budaya sebagai wujud Persatuan Indonesia, sesuai pancasila Sila ke 3.</p>
@@ -116,6 +122,170 @@
 </section>
 <!-- Akhir Visi Misi -->
 
+<!-- 3 Pilar -->
+<section class="features section-padding">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col align-self-center">
+                <div class="section-title">
+                    <h2>3 Pilar</h2>
+                    <h2><span>Roda Indonesia</span></h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="owl-carousel features-carousel">
+                <div class="feature-item">
+                    <div class="icon"><i class="ri-refund-2-fill"></i></div>
+                    <h3>HEMAT</h3>
+                </div>
+                <div class="feature-item">
+                    <div class="icon"><i class="ri-search-eye-line"></i></div>
+                    <h3>CERMAT</h3>
+                </div>
+                <div class="feature-item">
+                    <div class="icon"><i class="ri-service-fill"></i></div>
+                    <h3>BERSAHABAT</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Akhir 3 Pilar -->
+
+<!-- 5 Fundamental -->
+<section class="features section-padding">
+    <div class="container">
+        <div class="row text-center">
+            <div class="col align-self-center">
+                <div class="section-title">
+                    <h2>5 Fundamental</h2>
+                    <h2><span>Kerja Roda Indonesia</span></h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="owl-carousel features-carousel">
+                <div class="feature-item">
+                    <div class="icon"><i class="ri-refresh-fill"></i></div>
+                    <h3>BELAJAR</h3>
+                </div>
+                <div class="feature-item">
+                    <div class="icon"><i class="ri-restart-fill"></i></div>
+                    <h3>BERPROSES</h3>
+                </div>
+                <div class="feature-item">
+                    <div class="icon"><i class="ri-plant-fill"></i></div>
+                    <h3>BERDAYA</h3>
+                </div>
+                <div class="feature-item">
+                    <div class="icon"><i class="ri-team-fill"></i></div>
+                    <h3>BERTUMBUH</h3>
+                </div>
+                <div class="feature-item">
+                    <div class="icon"><i class="ri-service-fill"></i></div>
+                    <h3>BERBAGI</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Akhir 5 Fundamental -->
+
+<!-- Timeline -->
+
+<style>
+    .timeline {
+        position: relative;
+        max-width: 800px;
+        margin: 0 auto;
+    }
+
+    .timeline::after {
+        content: none;
+    }
+
+    .timeline-item {
+        position: relative;
+        padding: 40px;
+    }
+
+    .timeline-item::before {
+        content: "";
+        position: absolute;
+        width: 2px;
+        height: 100%;
+        left: -11px;
+        top: 0;
+
+    }
+
+      .timeline-item::after {
+            content: attr(data-year);
+            position: absolute;
+            width: 45px;
+            height: 45px;
+            border-radius: 50%;
+            background: linear-gradient(to left, #b90000, #f70000);
+            color: #fff;
+            font-size: 18px; 
+            font-weight: bold;
+            line-height: 45px; 
+            text-align: center;
+            top: 0;
+            right: -150px;
+            left: 1px; 
+        }
+
+    .timeline-content {
+        padding: 10px;
+        text-align: justify;
+        background: linear-gradient(to left, #b90000, #f70000);
+        border-radius: 10px;
+        position: relative;
+        overflow: hidden;
+        color: #ffffff;
+    }
+</style>
+
+<section class="timeline-section section-padding">
+    <div class="container">
+        <div class="section-title">
+            <h2><span>Perjalanan </span>Kami</h2>
+        </div>
+        <div class="timeline">
+            <div class="timeline-item" data-year="2018">
+                <div class="timeline-content">
+                    <b><p align="justify-content-center">Ide Membuat Aplikasi berbasis digital yang bisa memudahkan, memberikan kenyamanan serta keamanan bagi semua kebutuhan Masyarakat dalam satu sentuhan tercetus dari pendiri (Ibu Anne), dengan nama Brand Roda Indonesia.</p></b>
+                </div>
+            </div>
+            <div class="timeline-item" data-year="2019">
+                <div class="timeline-content">
+                    <b><p align="justify-content-center">9 Fitur Roda Indonesia mulai dibangun, tahun ini juga Roda Indonesia dinaungi oleh PT. Malesung minaesa Dwipantara yang berbadan hukum, dan Merek sudah dipatenkan.</p></b>
+                </div>
+            </div>
+            <div class="timeline-item" data-year="2020">
+                <div class="timeline-content">
+                    <b><p class="justify-content-start">Inovasi sebagai follower dari pendahulunya, untuk mampu bersaing maka konsep - konsep unggulan seperti Voucher, member dan Koperasi sudah mulai dibangun.</p></b>
+                </div>
+            </div>
+            <div class="timeline-item" data-year="2021">
+                <div class="timeline-content">
+                    <b><p class="justify-content-center">Direksi mengumumkan bahwa badan hukum yang menaungi Roda Indonesia berganti menjadi PT. Ngaasan Taas Niatean. Tahun ini pula Roda Indonesia sudah bekerjasama dengan pihak MotionLife sebagai penyedia Layanan Asuransi bagi Mitra kami, dan MotionPay sebagai Layanan Payment Gateway.</p></b>
+                </div>
+            </div>
+            <div class="timeline-item" data-year="2022">
+                <div class="timeline-content">
+                    <b><p class="justify-content-center">Roda Indonesia melakukan Integrasi dengan Payment Gateway, juga mempertajam semua konsep dari 9 Fitur, dimulai dari Produk utama kami yaitu RIBike, RICar dan RISend.</p></b>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Timeline -->
+
+
+<!-- Sertifikat -->
 <section class="company-profile section-padding">
     <div class="container text-center">
         <div class="section-title">
@@ -140,240 +310,20 @@
         </div>
     </div>
 </section>
+<!-- Akhir Sertifikat -->
 
+<!-- Bagan Struktur -->
 <section class="bagan-section section-padding">
     <div class="container">
         <div class="section-title">
-            <h2 class="text-center"><span>Bagan Struktur</span> </h2>
+            <h2 class="mt-1" class="text-center"><span>Bagan</span> Struktur</h2>
         </div>
-        <div class="big-vertical-line position-relative">
-            <div class="level-1-wrapper position-relative">
-                <div class="row d-flex justify-content-center">
-                    <div class="col-md-7 col-lg-4">
-                        <div class="bagan-item level-1 line-right d-flex align-items-center">
-                            <div class="d-flex align-items-center justify-content-center flex-column">
-                                <p class="tim-section-jabatan"><strong>CEO / FOUNDER RI</strong></p></b>
-                                <p class="tim-section-jabatan">Anneke S.L., S.Psi., M.M., AJP</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="hr-line hr-line-top position-relative my-md-4">
-                    <div class="row justify-content-center">
-                        <div class="col-12 col-md-6 col-lg-3 pe-md-5 pe-lg-4">
-                            <div class="bagan-item level-1-5 line-right secertary d-flex align-items-center">
-                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                                <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Corp Secretary</strong></p></b>
-                                    <p class="tim-section-jabatan">Febricca V. Dirk</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12 col-md-6 col-lg-3 ps-md-5 ps-lg-4">
-                            <div class="bagan-item level-1-5 line-right legal d-flex align-items-center">
-                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                                <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Corp Lawyer</strong></p></b>
-                                    <p class="tim-section-jabatan">Yuniarti Chandra, S.H., M.H.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="hr-line position-relative my-md-4">
-                    <div class="row justify-content-center">
-                        <div class="col-12 col-md-6 col-lg-3 pe-md-5 pe-lg-4">
-                            <div class="bagan-item level-1-5 line-right legal d-flex align-items-center">
-                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                                <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Consultant</strong></p></b>
-                                    <p class="tim-section-jabatan">Alfianne A.D.P., S.A.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12 col-md-6 col-lg-3 ps-md-5 ps-lg-4"></div>
-                    </div>
-                </div>
-                <div class="hr-line position-relative my-md-4">
-                    <div class="row justify-content-center">
-                        <div class="col-12 col-md-6 col-lg-3 pe-md-5 pe-lg-4">
-                            <div class="bagan-item level-1-5 line-right legal d-flex align-items-center">
-                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                                <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Human Capital & Development</strong></p></b>
-                                    <p class="tim-section-jabatan"></p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12 col-md-6 col-lg-3 ps-md-5 ps-lg-4"></div>
-                    </div>
-                </div>
-            </div>
-            <ol class="level-2-wrapper">
-                <li class="level-2-operational line-right position-relative">
-                    <div class="bagan-item d-flex align-items-center">
-                        <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                        <div class="d-flex align-items-center justify-content-center flex-column">
-                            <p class="tim-section-jabatan"><strong>COO</strong></p></b>
-                            <p class="tim-section-jabatan"></p>
-                        </div>
-                    </div>
-                    <ol class="level-3-wrapper">
-                        <li>
-                            <div class="bagan-item level-3 line-right d-flex align-items-center">
-                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                                <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Head Of Driver</strong></p></b>
-                                    <p class="tim-section-jabatan"></p>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="bagan-item level-3 line-right d-flex align-items-center">
-                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                                <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Regional Coordinator</strong></p></b>
-                                    <p class="tim-section-jabatan"></p>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="bagan-item level-3 line-right d-flex align-items-center">
-                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                                <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Driver</strong></p></b>
-                                </div>
-                            </div>
-                        </li>
-                    </ol>
-                </li>
-                <li class="level-2-finance line-right position-relative">
-                    <div class="bagan-item d-flex align-items-center">
-                        <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                        <div class="d-flex align-items-center justify-content-center flex-column">
-                            <p class="tim-section-jabatan"><strong>CFO</strong></p></b>
-                            <p class="tim-section-jabatan">Ning Wahyuni, N S.E., M.M.</p>
-                        </div>
-                    </div>
-                    <ol class="level-3-wrapper">
-                        <li>
-                            <div class="bagan-item level-3 line-right d-flex align-items-center">
-                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                                <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Accounting</strong></p></b>
-                                    <p class="tim-section-jabatan">Yuli Nurhayati</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="bagan-item level-3 line-right d-flex align-items-center">
-                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                                <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Purchasing.</strong></p></b>
-                                </div>
-                            </div>
-                        </li>
-                    </ol>
-                </li>
-                <li class="level-2-it line-right position-relative my-md-5 my-lg-0">
-                    <div class="bagan-item d-flex align-items-center">
-                        <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                        <div class="h-100 d-flex align-items-center justify-content-center flex-column">
-                            <p class="tim-section-jabatan"><strong>CTO</strong></p></b>
-                            <p class="tim-section-jabatan">Faisal Yahya</p>
-                        </div>
-                    </div>
-                    <ol class="level-3-wrapper">
-                        <li>
-                            <div class="bagan-item level-3 line-right d-flex align-items-center">
-                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                                <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Programmer</strong></p></b>
-                                    <p class="tim-section-jabatan">Rian Rahmawan</p>
-                                </div>
-                            </div>
-                        </li>
-                        <!-- <li>
-                            <div class="bagan-item level-3 line-right d-flex align-items-center">
-                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                                <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Creative Multimedia</strong></p>
-                                    <p class="tim-section-jabatan">Satrya Eka P.</p>
-                                </div>
-                            </div>
-                        </li> -->
-                        <!-- <li>
-                            <div class="bagan-item level-3 line-right d-flex align-items-center">
-                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                                <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>System Analyst</strong></p>
-                                    <p class="tim-section-jabatan">Rian Rahmawan</p>
-                                </div>
-                            </div>
-                        </li> -->
-                    </ol>
-                </li>
-                <li class="level-2-business line-right position-relative my-md-5 my-lg-0">
-                    <div class="bagan-item d-flex align-items-center">
-                        <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                        <div class="h-100 d-flex align-items-center justify-content-center flex-column">
-                            <p class="tim-section-jabatan"><strong>CMO</strong></p></b>
-                            <p class="tim-section-jabatan">Gita Gartina Poeradiredja</p>
-                        </div>
-                    </div>
-                    <ol class="level-3-wrapper">
-                    <li>
-                            <div class="bagan-item level-3 line-right d-flex align-items-center">
-                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                                <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Head of Creative Multimedia</strong></p></b>
-                                    <p class="tim-section-jabatan">Satrya Eka P.</p>
-                                </div>
-                            </div>
-                        </li>
-                    <li>
-                            <div class="bagan-item level-3 line-right d-flex align-items-center">
-                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                                <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Head of Production</strong></p></b>
-                                    <p class="tim-section-jabatan">DYAN HERDIANSYAH</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="bagan-item level-3 line-right d-flex align-items-center">
-                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                                <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Head Of Marketing</strong></p></b>
-                                    <p class="tim-section-jabatan"></p>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="bagan-item level-3 line-right d-flex align-items-center">
-                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                                <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>Public Relation</strong></p>
-                                    <p class="tim-section-jabatan"></p>
-                                </div>
-                            </div>
-                        </li>
-                        <!-- <li>
-                            <div class="bagan-item level-3 line-right d-flex align-items-center">
-                                <i class="ri-checkbox-blank-circle-fill dot-bagan"></i>
-                                <div class="d-flex align-items-center justify-content-center flex-column">
-                                    <p class="tim-section-jabatan"><strong>System Analyst</strong></p>
-                                    <p class="tim-section-jabatan">Rian Rahmawan</p>
-                                </div>
-                            </div>
-                        </li> -->
-                    </ol>
-
-                </li>      
-            </ol>
+        <div class="justify-content-center">
+            <img src="assets/gambar/struktur_organisasi.png" width="100%">
         </div>
     </div>
 </section>
+<!-- Bagan Struktur -->
 
 <!-- <section class="daftar-korwil section-padding text-center">
     <div class="container text-white px-2">

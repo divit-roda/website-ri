@@ -10,6 +10,7 @@
                 <div class="jumbotron-text judul-project">
                     <!-- Description -->
                     <h1>Layanan Komunikasi</h1>
+                    <h3>#SatuSentuhanUntukSemua</h3>
                     <div class="jumbotron-btn">
 
                         <!-- button download app -->
@@ -41,7 +42,7 @@
             <h3 class="mt-5 mt-md-0"><span>RICHAT</span></h3>
         </div>
         <div class="richat-explain-text desc">
-            <p>Aplikasi RICHAT hadir sebagai sarana untuk saling berkirim pesan kepada sesama pengguna aplikasi Roda Indonesia agar dapat terjalin komunikasi yang baik, mudah dan praktis. RICHAT dilengkapi dengan tombol darurat yang dapat digunakan saat Anda berada situasi darurat. RICHAT membangun ruang bergaul digital bagi kelancaran interaksi Anda sebagai pengguna Aplikasi Nusantara dengan atmosfir interaksi masyarakat Indonesia.</p>
+            <p>RICHAT hadir sebagai sarana untuk saling berkirim pesan kepada sesama pengguna aplikasi Roda Indonesia agar dapat terjalin komunikasi yang baik, mudah dan praktis. RICHAT dilengkapi dengan Tombol Darurat yang dapat digunakan saat Anda berada situasi darurat.</p>
         </div>
         <div class="richat-img">
             <div class="row">

@@ -12,6 +12,7 @@
                     <!-- Description -->
                     <!-- <h3>Projek Roda Indonesia</h3> -->
                     <h1>Transportasi Umum</h1>
+                    <h3>#IndonesiaBanget</h3>
                 </div>
             </div>
             <div class="col-12 col-lg-5 text-center logo-box">
@@ -37,7 +38,7 @@
             <h3><span>RIPUBLIC</span></h3>
         </div>
         <div class="public-explain-text mb-5 desc">
-            <p>RIPUBLIC hadir untuk memberikan sebuah solusi terbaik dan sesuai dengan kebutuhan masyarakat di daerah masing-masing. RIPUBLIC menyediakan fasilitas angkutan lokal yang terjangkau bagi masyarakat. RIPUBLIC dilengkapi dengan fitur Tombol Darurat yang akan mengirimkan pesan singkat kepada kerabat maupun keluarga. Notifikasi waktu kedatangan, dan Lokasi Armada, kami hadirkan sebagai kemudahan bagi penumpang dan pengendara angkutan untuk pelayanan yang aman dan nyaman.</p>
+            <p>RIPUBLIC hadir sebagai wujud dukungan kepada pemerintah, dan pengguna layanan tranportasi massal. RIPUBLIC juga hadir untuk memaksimalkan FUNGSI alat transportasi massal tersebut.</p>
         </div>
 
         <div class="section-title mb-0">
@@ -46,23 +47,23 @@
         <div class="project-features px-2 px-md-4 pt-4">
             <div class="list-feature">
                 <i class="info-icon ri-wallet-3-fill"></i>
-                <p>Biaya yang terjangkau bagi penumpang.</p>
+                <p>Biaya yang terjangkau bagi pengguna transportasu publik/massal.</p>
             </div>
             <div class="list-feature">
                 <i class="ri-roadster-fill"></i>
-                <p>Penumpang bisa memilih tipe Transportasi Umum seperti Bus, Angkutan Kota, Delman, dan Becak.</p>
+                <p>Pengguna Layanan RIPUBLIC bisa memilih type transportasi umum seperti Bus, Angkutan Kota, Delman, Becak dsb.</p>
             </div>
             <div class="list-feature">
                 <i class="ri-time-fill"></i>
-                <p>Notifikasi waktu kedatangan dan Lokasi Armada</p>
+                <p>Notifikasi waktu kedatangan dan Posisi Armada.</p>
             </div>
             <div class="list-feature">
                 <i class="ri-article-fill"></i>
-                <p>Berita seputar kejadian di sekitar Penumpang yang aktual.</p>
+                <p>Berita aktual disekitar Pengguna yang bisa di bagikan melalui laman Aplikasi Roda Indonesia.</p>
             </div>
             <div class="list-feature">
                 <i class="ri-message-2-fill"></i>
-                <p>Dilengkapi Tombol Darurat yang akan mengirimkan pesan darurat kepada kerabat maupun keluarga.</p>
+                <p>Dilengkapi tombol darurat yang akan mengirimkan pesan darurat kepada kerabat maupun keluarga.</p>
             </div>
         </div>
     </div>

@@ -10,6 +10,7 @@
                 <div class="jumbotron-text judul-project">
                     <!-- Description -->
                     <h1>Layanan Edukasi</h1>
+                    <h3>#HematCermatBersahabat</h3>
                 </div>
             </div>
             <div class="col-12 col-lg-5 text-center logo-box">
@@ -40,7 +41,7 @@
                     <img src="assets/gambar/ridu/ridu-img.jpg" alt="" srcset="">
                 </div>
                 <div class="ridu-desc desc">
-                    <p>RIEDU menyediakan fasilitas Edukasi untuk membuka mindset Entrepreneur masyarakat. Keuntungan lain bagi konsumen, produsen maupun driver untuk mendapatkan paket Pendidikan dan Pelatihan yang meliputi informasi pengembangan usaha, serta pelatihan produk-produk yang disajikan bersama para ahli di bidangnya masing-masing (kuliner, bisnis, entertainment, dll). Kegiatan ini akan menjadi jenjang karier Anda sebagai trainer bagi driver untuk rekan–rekan driver lainnya.</p>
+                    <p>Keuntungan lain bagi pelanggan,penjual maupun driver untuk mendapat Pendidikan & pelatihan yang meliputi informasi , pengembangan usaha, produk-produk yang  akan disajikan, bersama para ahli di bidangnya masing-masing (Kuliner, bisnis, entertainment,dll), Yang akan diselenggarakan secara berkala dan berkesinambungan. Dan bagi Mitra driver yang berprestasi  kegiatan ini akan menjadi jenjang karier anda sebagai trainer bagi rekan –rekan driver lainnya.</p>
                 </div>
             </div>
 

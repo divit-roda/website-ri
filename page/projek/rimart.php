@@ -12,6 +12,7 @@
                     <!-- Description -->
                     <!-- <h3>Projek Roda Indonesia</h3> -->
                     <h1>Marketplace</h1>
+                    <h3>#PintuPerubahanKeluarga</h3>
                 </div>
             </div>
             <div class="col-12 col-lg-5 text-center logo-box">
@@ -37,7 +38,7 @@
             <h3 class="mt-5 mt-md-0"><span>RIMART</span></h3>
         </div>
         <div class="mart-explain-text mb-5 desc">
-            <p>RIMART adalah fitur Marketplace yang memfasilitasi proses transaksi Jual Beli Online. RIMART memfasilitasi penjualan produk dengan Branding sehingga produk dapat dijangkau konsumen dengan mudah dan terpercaya. RIMART telah bekerjasama dengan pemerintah-pemerintah daerah dalam mendapatkan data penjualan yang bermanfaat untuk wirausaha Anda. RIMART juga menyediakan informasi harga produk yang bersaing untuk konsumen Roda Indonesia di setiap wilayah terdekat.</p>
+            <p>Media yang mudah, cepat untuk jual-beli dengan menggunakan layanan RIMART. Layanan yang mengedepankan proses yang cermat  untuk harga yang lebih hemat dan bersahabat.</p>
         </div>
 
         <div class="section-title mb-0">
@@ -49,20 +50,16 @@
                 <p>Menjembatani Wirausaha dengan konsumen di seluruh wilayah Indonesia.</p>
             </div>
             <div class="list-feature">
-                <i class="ri-shopping-bag-fill"></i>
-                <p>Memfasilitasi penjualan produk Kebutuhan Sehari-hari.</p>
-            </div>
-            <div class="list-feature">
-                <i class="ri-store-3-fill"></i>
-                <p>Memfasilitasi penjualan produk Premium Dengan Branding.</p>
+                <i class="ri-vip-fill"></i>
+                <p>Penjual dapat ber-Iklan secara regular dan premium.</p>
             </div>
             <div class="list-feature">
                 <i class="ri-service-fill"></i>
-                <p>Memudahkan Transaksi Dengan jenis Cash On Delivery melalui RISend.</p>
+                <p>Co-Campaign dan Co-Branding untuk penjual pemula.</p>
             </div>
             <div class="list-feature">
-                <i class="ri-money-dollar-circle-fill"></i>
-                <p>Proses transaksi yang Mudah, Aman, dan Terpercaya.</p>
+                <i class="ri-secure-payment-line"></i>
+                <p>Proses transaksi yang mudah, aman, dan terpercaya.</p>
             </div>
         </div>
     </div>
