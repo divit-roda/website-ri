@@ -63,16 +63,6 @@
                         yang mampu mengenali kapasitas diri serta mampu memaksimalkan potensi tanpa harus kehilangan eksistensi
                         karakteristik budaya, dan tetap menjadikan kita tuan rumah di negeri sendiri, di negeri yang kaya akan sumber
                         alam dan berdaya dalam mengelolanya. Maka Lahirlah Roda Indonesia yang digagas dan didirikan oleh Anneke
-                    membangun solusi atas segala permasalahan sosial yang mengerucut pada kondisi ekonomi yg dihadapi seluruh
-                    masyarakat Indonesia, Dimana jumlah penduduk yang banyak, juga potensi yang besar belum mampu
-                    tereksplorasi dengan baik secara adil dan merata. Hal inilah yang menjadi pokok permasalahan kami sebagai anak
-                    negeri, dan menginisiasi kami untuk melakukan sesuatu.</p>
-                    <p>Banyak hal yang membuat masyarakat kita selalu tertinggal di persaingan dunia, terutama dunia digital di masa
-                    depan. Perlu sesuatu yang mampu merangkum dan menyatukan seluruh potensi manusia, kekayaan alam dan
-                    semangat membangun bersama, agar kita tidak hanya menjadi follower akan tetapi tampil sebagai trend setter
-                    yang mampu mengenali kapasitas diri serta mampu memaksimalkan potensi tanpa harus kehilangan eksistensi
-                    karakteristik budaya, dan tetap menjadikan kita tuan rumah di negeri sendiri, di negeri yang kaya akan sumber
-                    alam dan berdaya dalam mengelolanya. Maka Lahirlah Roda Indonesia yang digagas dan didirikan oleh Anneke
                     Sjuultje Lesar (Founder,Owner & CEO)</p>
                 </div>
             </div>
@@ -101,11 +91,6 @@
                 </h2>
                 <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                     <div class="accordion-body">
-                        <ol>
-                            <li>
-                                <p>Menjadi perusahaan jasa transportasi berbasis Online yang dinamis, dan mempunyai daya tahan untuk berkompetisi dalam memberikan pelayanan yang prima bagi masyarakat</p>
-                            </li>
-                        </ol>
                         <p>Menjadi perusahaan jasa transportasi berbasis Online yang dinamis, dan mempunyai daya tahan untuk berkompetisi dalam memberikan pelayanan yang prima bagi masyarakat</p>
                     </div>
                 </div>
@@ -207,8 +192,8 @@
 </section>
 <!-- Akhir 5 Fundamental -->
 
-
 <!-- Timeline -->
+
 <style>
     .timeline {
         position: relative;
