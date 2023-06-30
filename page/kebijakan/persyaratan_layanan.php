@@ -45,7 +45,7 @@
                     <div class="row justify-content-center row-cols-md-4 g-2">
                         <div class="col card-height"> <!-- Add "card-height" class -->
                             <div class="card border-danger">
-                                <div class="card-header bg-transparent text-danger border-danger">KETENTUAN PENGGUNAAN APLIKASI</div>
+                                <div class="card-header bg-transparent text-danger border-danger">KETENTUAN PENGGUNAAN</div>
                                 <img src="assets/icon/richat.png" class="card-img-top">
                                 <a class="btn btn-outline-danger" href="?page=kebijakan&sub_page=persyaratan_layanan_user">USER</a>
                             </div>
