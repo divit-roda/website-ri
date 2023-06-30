@@ -210,15 +210,6 @@
         padding: 40px;
     }
 
-    .timeline-item::before {
-        content: "";
-        position: absolute;
-        width: 2px;
-        height: 100%;
-        left: -11px;
-        top: 0;
-
-    }
 
       .timeline-item::after {
             content: attr(data-year);
