@@ -318,7 +318,7 @@
                     <img src="assets/logo/gbsrilogos.png" class="w-75 grayscale" alt="" srcset="">
                 </div>-->
                 <div class="support-item text-center">
-                    <img src="assets/logo/motion_pay_logo.png" class="w-100 h-100" alt="" srcset="">
+                    <img src="assets/logo/opgi.png" class="w-100 h-100" alt="" srcset="">
                 </div>
                 <div class="support-item text-center">
                     <img src="assets/logo/motion_life_new_logo.png" class="w-100 h-100" alt="" srcset="">
