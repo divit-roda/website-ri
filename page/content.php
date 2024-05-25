@@ -68,7 +68,7 @@
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-upload-cloud-fill"></i></div>
-                    <p class="fw-bold lh-1 text-sm-center">Sistem Upload Data Buat Mitra Roda Indonesia</p>  
+                    <p class="fw-bold lh-1 text-sm-center">Sistem Upload Data Buat Mitra Roda Indonesia</p>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-pin-distance-fill"></i></div>
@@ -120,7 +120,7 @@
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-chat-history-fill"></i></div>
-                    <p class="fw-bold lh-1 text-sm-center">History Chat Dalam Aplikasi Yang Tersimpan Dalam  Kurun Waktu Tertentu, Sehingga Permasalahan Dapat Diatasi Dengan Cepat</p>
+                    <p class="fw-bold lh-1 text-sm-center">History Chat Dalam Aplikasi Yang Tersimpan Dalam Kurun Waktu Tertentu, Sehingga Permasalahan Dapat Diatasi Dengan Cepat</p>
                 </div>
                 <div class="feature-item">
                     <div class="icon"><i class="ri-e-bike-2-fill"></i></div>
@@ -164,35 +164,35 @@
         <h2>Ayo, Gabung Jadi <span>Mitra Roda Indonesia</span></h2>
     </div>
     <div class="row row-cols-1 row-cols-md-3 g-4">
-      <div class="col">
-        <div class="card h-100 border-danger text-center">
-          <img src="assets/icon/ribike.png" class="card-img-top" alt="...">
-          <div class="card-body">
-            <h5 class="card-title text-center"><b>Gabung Sebagai Mitra Driver</b></h5>
-                <a class="btn btn-danger" href="?page=mitra_driver" role="button">Selengkapnya</a>
-            </button>
+        <div class="col">
+            <div class="card h-100 border-danger text-center">
+                <img src="assets/icon/ribike.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title text-center"><b>Gabung Sebagai Mitra Driver</b></h5>
+                    <a class="btn btn-danger" href="?page=mitra_driver" role="button">Selengkapnya</a>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card border-danger text-center">
+                <img src="assets/icon/rimart.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title text-center"><b>Gabung Sebagai Mitra Usaha</b></h5>
+                    <a class="btn btn-danger" href="?page=mitra_usaha" role="button">Selengkapnya</a>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card border-danger text-center">
+                <img src="assets/icon/ritrip.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title text-center"><b>Gabung Sebagai Koordinator Wilayah</b></h5>
+                    <a class="btn btn-danger" href="?page=gabung_korwil" role="button">Selengkapnya</a>
+                </div>
+            </div>
         </div>
     </div>
-</div>
-<div class="col">
-    <div class="card border-danger text-center">
-      <img src="assets/icon/rimart.png" class="card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title text-center"><b>Gabung Sebagai Mitra Usaha</b></h5>
-        <a class="btn btn-danger" href="?page=mitra_usaha" role="button">Selengkapnya</a>
-    </div>
-</div>
-</div>
-<div class="col">
-    <div class="card border-danger text-center">
-      <img src="assets/icon/ritrip.png" class="card-img-top" alt="...">
-      <div class="card-body">
-        <h5 class="card-title text-center"><b>Gabung Sebagai Koordinator Wilayah</b></h5>
-            <a class="btn btn-danger" href="?page=gabung_korwil" role="button">Selengkapnya</a>
-    </div>
-</div>
-</div>
-</div>
 </div>
 <!-- Akhir Gabung Jadi RI -->
 
@@ -334,19 +334,57 @@
 
 <!-- Modal Aplikasi belum tersedia -->
 <div class="modal fade" id="ModalAppBelumTersedia" tabindex="-1">
-    <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable" role="document">
         <div class="modal-content">
             <div class="modal-header">
-                <h5 class="modal-title"><b>Tunggu yaa...</b></h5>
+                <h5 class="modal-title"><b>Download Aplikasi Roda Indonesia</b></h5>
                 <button type="button" class="btn-close" data-bs-dismiss="modal">
                     <span aria-hidden="true">&times;</span>
                 </button>
             </div>
             <div class="modal-body">
-                <p>Aplikasi masih dalam proses pengembangan</p>
+                <div class="text-center mb-2">
+                    <h5 class="modal-title">Perhatian!!!</h5>
+                </div>
+                <div class="bg-light p-2 rounded mb-1">
+                    <div class="text-center">Aplikasi Roda Indonesia dan Roda Indonesia Driver masih dalam periode release terbatas, semua konten di dalamnya terikat hukum. Bila ada yang sengaja menduplikasi atau menyebar luaskan tanpa seizin pihak PT. Ngaasan Taas Niatean dapat dikenakan sanksi seusai peraturan hukum yang berlaku...</div>
+                </div>
+                <div class="d-flex justify-content-center">
+                    <hr style="width: 80%;" class="my-4">
+                </div>
+                <div class="">
+                    <div class="text-center mb-4">
+                        <h3 class="modal-title">Cara Install Aplikasi </h3>
+                        <div class="my-5"><img src="assets/gambar/install_apps.jpeg" alt="Cara install aplikasi"></div>
+                    </div>
+                    <div class="px-3">
+                        <div class="row">
+                            <div class="col">
+                                <h6 class="modal-title mb-4"><b>Untuk Android Versi Lama (Lollipop 5.0, Marsmallow 6.0, Nougat 7.0)</b></h6>
+                                <div class="text-bold">
+                                    <p>1. Masuk ke Pengaturan Android > Keamanan</p>
+                                    <p>2. Check opsi "Sumber Tidak Diketahui"</p>
+                                    <p>3. Klik "Ok" pada Pop-Up Pesan</p>
+                                    <p>4. Pilih "Percaya"</p>
+                                </div>
+                            </div>
+                            <div class="col">
+                                <h6 class="modal-title mb-4"><b>Untuk Android Versi Lebih Baru (Oreo 8.0, Pie 9.0, Android 10, 11, 12)</b></h6>
+                                <div class="text-bold">
+                                    <p>1. Masuk ke Pengaturan Android > Aplikasi & Notifikasi</p>
+                                    <p>2. Pilih menu "Advance" atau titik tiga di pojok sebelah kanan atas (tergantung pada device)</p>
+                                    <p>3. Pilih "Special App Access"</p>
+                                    <p>4. Pilih "Install Unknown Apps"</p>
+                                    <p>5. Pilih aplikasi yang ingin Anda izinkan untuk dapat di install</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-            <div class="modal-footer">
-                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+            <div class="modal-footer d-flex flex-column">
+                <a href="https://appdistribution.firebase.dev/i/f14569b2e46d2b5c" target="_blank"><button type="button" class="btn btn-1 download-btn mb-2">Download Aplikasi User</button></a>
+                <a href="https://appdistribution.firebase.dev/i/539577ef10f95266" target="_blank"><button type="button" class="btn btn-1 download-btn mb-2">Download Aplikasi Driver</button></a>
             </div>
         </div>
     </div>
@@ -367,228 +405,240 @@
                         <img src="assets/icon/ribike.png" class="card-img-top">
                         <div class="card-body">
                             <div class="accordion accordion-flush" id="accordionFlushExample">
-                              <div class="accordion-item">
-                                <h2 class="accordion-header" id="flush-headingOne">
-                                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                                    Selengkapnya
-                                </button>
-                            </h2>
-                            <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
-                                <div class="accordion-body">
-                                    <p>Mendaftar melalui Aplikasi RODA INDONESIA</p>
-                                    <p>1. Calon Mitra Driver wajib memiliki smartphone</p>
-                                    <p>2. Calon Mitra wajib memiliki akun e-mail Gmail</p>
-                                    <p>3. Memiliki nomor telepon (hp) yang masih aktif</p>
-                                    <p>4. Mendownload Aplikasi Roda Indonesia Driver di Playstore</p>
-                                    <p>5. Mengisi data diri dan data kendaraan yang akan digunakan pada aplikasi dengan ketentuan:</p>
-                                    <p><li>Data Diri:</li></p>
-                                    <ul>
-                                        <li>• Memiliki KTP aktif dan Wajib Warga Negara Indonesia (WNI)</li>
-                                        <li>• Minimal berusia 17 tahun dan maksimal berusia 65 tahun pada saat pendaftaran (tidak diperlukan surat keterangan sehat)</li>
-                                        <li>• Mengupload foto KTP aktif (asli)</li>
-                                        <li>• Mengupload KTP Resi Disdukcapil wajib dilegalisir dengan cap basah (dapat digunakan sebagai dokumen pengganti apabila E-KTP belum jadi dengan masa berlaku selama 6 (enam) bulan</li>
-                                        <li>• Mengupload foto selfie</li>
-                                    </ul>
-                                    <li>Mengisi Biodata lengkap sesuai dengan KTP, yaitu:</li>
-                                    <ul>
-                                        <li>• NIK</li>
-                                        <li>• Nama Lengkap</li>
-                                        <li>• Tempat/Tanggal Lahir</li>
-                                        <li>• Jenis Kelamin</li>
-                                        <li>• Alamat</li>
-                                        <li>• Agama</li>
-                                        <li>• Status Perkawinan</li>
-                                        <li>• Pekerjaan</li>
-                                        <li>• Kewarganegaraan</li>
-                                        <li>• Nomor Telepon (HP) Aktif</li>
-                                    </ul>
-                                </li>
-                                <p><li>Memiliki SIM C atau SIM D dengan ketentuan:</li></p>
-                                <ul>
-                                    <li>• SIM dengan status aktif</li>
-                                    <li>• Mengupload foto SIM</li>
-                                    <li>• Untuk TNI dan/atau Polri, wajib mengikuti kriteria SIM di atas (tidak boleh menggunakan SIM TNI dan/atau Porli)</li>
-                                </ul>
-                                <p><li>Data Kendaraan:</li></p>
-                                <ul>
-                                    <li>1. Mengupload foto STNK dengan ketentuan:
-                                        <ul>
-                                            <li>• STNK aktif (asli)</li>
-                                            <li>• Maksimal tahun keluaran kendaraan 10 tahun (terhitung sejak pendaftaran)</li>
-                                            <li>• Memiliki spesifikasi kendaraan R2 4 dengan minimal kapasitas mesin 110cc</li>
-                                        </ul>
-                                    </li>
-                                    <li>2. Mengupload Foto Kedaraan</li>
-                                </ul>
-                            </li>
-                            <p>6. Mengupload foto Surat Keterangan Catatan Kepolisian (SKCK) dengan ketentuan:
-                                <ul>
-                                    <li>• Fotokopi SKCK yang telah dilegalisir dengan cap basah</li>
-                                    <li>• Khusus TNI dan/atau POLRI dapat digantikan dengan KTA dan Surat Keterangan Pimpinan</li>
-                                </ul>
-                            </p>
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="flush-headingOne">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                                            Selengkapnya
+                                        </button>
+                                    </h2>
+                                    <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+                                        <div class="accordion-body">
+                                            <p>Mendaftar melalui Aplikasi RODA INDONESIA</p>
+                                            <p>1. Calon Mitra Driver wajib memiliki smartphone</p>
+                                            <p>2. Calon Mitra wajib memiliki akun e-mail Gmail</p>
+                                            <p>3. Memiliki nomor telepon (hp) yang masih aktif</p>
+                                            <p>4. Mendownload Aplikasi Roda Indonesia Driver di Playstore</p>
+                                            <p>5. Mengisi data diri dan data kendaraan yang akan digunakan pada aplikasi dengan ketentuan:</p>
+                                            <p>
+                                                <li>Data Diri:</li>
+                                            </p>
+                                            <ul>
+                                                <li>• Memiliki KTP aktif dan Wajib Warga Negara Indonesia (WNI)</li>
+                                                <li>• Minimal berusia 17 tahun dan maksimal berusia 65 tahun pada saat pendaftaran (tidak diperlukan surat keterangan sehat)</li>
+                                                <li>• Mengupload foto KTP aktif (asli)</li>
+                                                <li>• Mengupload KTP Resi Disdukcapil wajib dilegalisir dengan cap basah (dapat digunakan sebagai dokumen pengganti apabila E-KTP belum jadi dengan masa berlaku selama 6 (enam) bulan</li>
+                                                <li>• Mengupload foto selfie</li>
+                                            </ul>
+                                            <li>Mengisi Biodata lengkap sesuai dengan KTP, yaitu:</li>
+                                            <ul>
+                                                <li>• NIK</li>
+                                                <li>• Nama Lengkap</li>
+                                                <li>• Tempat/Tanggal Lahir</li>
+                                                <li>• Jenis Kelamin</li>
+                                                <li>• Alamat</li>
+                                                <li>• Agama</li>
+                                                <li>• Status Perkawinan</li>
+                                                <li>• Pekerjaan</li>
+                                                <li>• Kewarganegaraan</li>
+                                                <li>• Nomor Telepon (HP) Aktif</li>
+                                            </ul>
+                                            </li>
+                                            <p>
+                                                <li>Memiliki SIM C atau SIM D dengan ketentuan:</li>
+                                            </p>
+                                            <ul>
+                                                <li>• SIM dengan status aktif</li>
+                                                <li>• Mengupload foto SIM</li>
+                                                <li>• Untuk TNI dan/atau Polri, wajib mengikuti kriteria SIM di atas (tidak boleh menggunakan SIM TNI dan/atau Porli)</li>
+                                            </ul>
+                                            <p>
+                                                <li>Data Kendaraan:</li>
+                                            </p>
+                                            <ul>
+                                                <li>1. Mengupload foto STNK dengan ketentuan:
+                                                    <ul>
+                                                        <li>• STNK aktif (asli)</li>
+                                                        <li>• Maksimal tahun keluaran kendaraan 10 tahun (terhitung sejak pendaftaran)</li>
+                                                        <li>• Memiliki spesifikasi kendaraan R2 4 dengan minimal kapasitas mesin 110cc</li>
+                                                    </ul>
+                                                </li>
+                                                <li>2. Mengupload Foto Kedaraan</li>
+                                            </ul>
+                                            </li>
+                                            <p>6. Mengupload foto Surat Keterangan Catatan Kepolisian (SKCK) dengan ketentuan:
+                                            <ul>
+                                                <li>• Fotokopi SKCK yang telah dilegalisir dengan cap basah</li>
+                                                <li>• Khusus TNI dan/atau POLRI dapat digantikan dengan KTA dan Surat Keterangan Pimpinan</li>
+                                            </ul>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card border-danger">
+                        <div class="card-header bg-transparent border-danger text-center"><b>RICAR</b></div>
+                        <img src="assets/icon/ricar.png" class="card-img-top">
+                        <div class="card-body">
+                            <div class="accordion accordion-flush" id="accordionFlushExample">
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="flush-headingTwo">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                                            Selengkapnya
+                                        </button>
+                                    </h2>
+                                    <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
+                                        <div class="accordion-body">
+                                            <p>Mendaftar melalui Aplikasi RODA INDONESIA</p>
+                                            <p>1. Calon Mitra Driver wajib memiliki smartphone</p>
+                                            <p>2. Calon Mitra wajib memiliki akun e-mail Gmail</p>
+                                            <p>3. Memiliki nomor telepon (hp) yang masih aktif</p>
+                                            <p>4. Mendownload Aplikasi Roda Indonesia Driver di Playstore</p>
+                                            <p>5. Mengisi data diri dan data kendaraan yang akan digunakan pada aplikasi dengan ketentuan:</p>
+                                            <p>
+                                                <li>Data Diri:</li>
+                                            </p>
+                                            <ul>
+                                                <li>• Memiliki KTP aktif dan Wajib Warga Negara Indonesia (WNI)</li>
+                                                <li>• Minimal berusia 17 tahun dan maksimal berusia 65 tahun pada saat pendaftaran (tidak diperlukan surat keterangan sehat)</li>
+                                                <li>• Mengupload foto KTP aktif (asli)</li>
+                                                <li>• Mengupload KTP Resi Disdukcapil wajib dilegalisir dengan cap basah (dapat digunakan sebagai dokumen pengganti apabila E-KTP belum jadi dengan masa berlaku selama 6 (enam) bulan</li>
+                                                <li>• Mengupload foto selfie</li>
+                                            </ul>
+                                            <li>Mengisi Biodata lengkap sesuai dengan KTP, yaitu:</li>
+                                            <ul>
+                                                <li>• NIK</li>
+                                                <li>• Nama Lengkap</li>
+                                                <li>• Tempat/Tanggal Lahir</li>
+                                                <li>• Jenis Kelamin</li>
+                                                <li>• Alamat</li>
+                                                <li>• Agama</li>
+                                                <li>• Status Perkawinan</li>
+                                                <li>• Pekerjaan</li>
+                                                <li>• Kewarganegaraan</li>
+                                                <li>• Nomor Telepon (HP) Aktif</li>
+                                            </ul>
+                                            </li>
+                                            <p>
+                                                <li>Memiliki SIM A dengan ketentuan:</li>
+                                            </p>
+                                            <ul>
+                                                <li>• SIM dengan status aktif</li>
+                                                <li>• Mengupload foto SIM</li>
+                                                <li>• Untuk TNI dan/atau Polri, wajib mengikuti kriteria SIM di atas (tidak boleh menggunakan SIM TNI dan/atau Porli)</li>
+                                            </ul>
+                                            <p>
+                                                <li>Data Kendaraan:</li>
+                                            </p>
+                                            <ul>
+                                                <li>1. Mengupload foto STNK dengan ketentuan:
+                                                    <ul>
+                                                        <li>• STNK aktif (asli)</li>
+                                                        <li>• Maksimal tahun keluaran kendaraan 10 tahun (terhitung sejak pendaftaran)</li>
+                                                        <li>• Memiliki spesifikasi kendaraan R4 dengan minimal kapasitas mesin 900cc</li>
+                                                    </ul>
+                                                </li>
+                                                <li>2. Mengupload Foto Kedaraan</li>
+                                            </ul>
+                                            </li>
+                                            <p>6. Mengupload foto Surat Keterangan Catatan Kepolisian (SKCK) dengan ketentuan:
+                                            <ul>
+                                                <li>• Fotokopi SKCK yang telah dilegalisir dengan cap basah</li>
+                                                <li>• Khusus TNI dan/atau POLRI dapat digantikan dengan KTA dan Surat Keterangan Pimpinan</li>
+                                            </ul>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card border-danger">
+                        <div class="card-header bg-transparent border-danger text-center"><b>RISEND</b></div>
+                        <img src="assets/icon/risend.png" class="card-img-top">
+                        <div class="card-body">
+                            <div class="accordion accordion-flush" id="accordionFlushExample">
+                                <div class="accordion-item">
+                                    <h2 class="accordion-header" id="flush-headingThree">
+                                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+                                            Selengkapnya
+                                        </button>
+                                    </h2>
+                                    <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
+                                        <div class="accordion-body">
+                                            <p>Syarat & Ketentuan Pengiriman RISEND:</p>
+                                            <p>Pengguna dapat menggunakan pengiriman RISend dengan ketentuan sebagai berikut: </p>
+                                            <ol>
+                                                <li class="my-1"><b>Layanan RISend</b> terdapat beberapa ketentuan berikut:</li>
+                                                <ul>
+                                                    <li class="my-1">• Waktu Operasional Driver RISend dalam melakukan penjemputan barang adalah mulai pukul 09:00 s.d. 19.00 setiap harinya. Namun, Pembeli tetap perlu memperhatikan waktu operasional (Kebijakan Pengirim) masing-masing Penjual/Pedagang.</li>
+                                                    <li class="my-1">• Biaya-biaya Pengiriman RISend adalah:</li>
+                                                    <ul class="my-3">
+                                                        <li>• Pengiriman pesanan dengan jarak tempuh mulai dari 0 km hingga 10 km dikenakan tarif Rp 15.562/km.</li>
+                                                        <li>• Pengiriman pesanan dengan jarak tempuh mulai dari 10 km hingga 20 km dikenakan tarif Rp 32.500/km.</li>
+                                                        <li>• Pengiriman pesanan dengan jarak tempuh mulai dari 20 km hingga 30 km dikenakan tarif Rp 49.500/km.</li>
+                                                    </ul>
+                                                </ul>
+                                                <li class="my-1">Biaya kirim RISend adalah total biaya pengiriman barang, maka Pengirim dan/atau Penerima tidak perlu membayarkan biaya tambahan lain selain dari total biaya tersebut.</li>
+                                                <li class="my-1">Pengguna memahami dan menyetujui bahwa biaya tambahan lain yang diberikan langsung oleh Pengguna kepada Driver RISend tanpa melalui sistem pembayaran RISend merupakan beban dan tanggung jawab pribadi Pengguna</li>
+                                                <li class="my-1">Perlu diperhatikan untuk setiap pergantian alamat pengiriman oleh Penerima hanya bisa dilakukan apabila Pengirim telah membaca atau mendapatkan info dari Penerima untuk membatalkan transaksi sebelum Driver RISend dipanggil (pickup Dirver RISend oleh pengirim).</li>
+                                                <li class="my-1">Driver RISend perlu melakukan konfirmasi kepada penerima barang dan atau yang ditunjuk untuk mewakili penerima, lewat chat yang ada pada aplikasi RISend bahwa akan ada pengiriman melalui RISend</li>
+                                                <li class="my-1">Ketika Driver RISend sudah berada di Lokasi pengiriman, tidak ada penerima atau yang ditunjuk untuk mewakili penerima (satu rumah), maka driver bisa menekan tombol "bukan penerima barang" yang akan dilanjutkan dengan form isian dan foto dari wakil penerima (lain rumah).</li>
+                                                <li class="my-1">Biaya pengiriman saat ini dapat dilakukan secara Non Tunai yang tersedia pada Aplikasi Roda Indonesia.</li>
+                                            </ol>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
+                &nbsp;
+                <h5><b>Manfaat Mitra Driver</b></h5>
+                <hr>
+                <h5><b>Cara Daftar</b></h5>
+                <div class="row">
+                    <section class="how-it-works section-padding">
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-lg-8">
+                                    <div class="section-title">
+                                        <h2>Cara <span>Mendaftar</span></h2>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-lg-4 col-md-6">
+                                    <div class="how-it-works-item line-right">
+                                        <div class="step">1</div>
+                                        <h3>unduh aplikasi</h3>
+                                        <p>Unduh Aplikasi Roda Indonesia yang tersedia secara gratis di Playstore</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6">
+                                    <div class="how-it-works-item line-right">
+                                        <div class="step">2</div>
+                                        <h3>isi data diri</h3>
+                                        <p>Daftar dengan mengisi data sesuai dengan identitas diri anda</p>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6">
+                                    <div class="how-it-works-item">
+                                        <div class="step">3</div>
+                                        <h3>gunakan aplikasi</h3>
+                                        <p>Nikmati berbagai fitur dan kemudahan yang tersedia di dalam aplikasi Roda Indonesia</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="app-download-btn text-center">
+                            <button type="button" data-bs-target="" class="btn btn-danger download-btn">Daftar Sekarang</button>
+                        </div>
+                    </section>
+                </div>
             </div>
         </div>
     </div>
-    <div class="card border-danger">
-        <div class="card-header bg-transparent border-danger text-center"><b>RICAR</b></div>
-        <img src="assets/icon/ricar.png" class="card-img-top">
-        <div class="card-body">
-            <div class="accordion accordion-flush" id="accordionFlushExample">
-              <div class="accordion-item">
-                <h2 class="accordion-header" id="flush-headingTwo">
-                  <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-                    Selengkapnya
-                </button>
-            </h2>
-            <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
-                <div class="accordion-body">
-                    <p>Mendaftar melalui Aplikasi RODA INDONESIA</p>
-                    <p>1. Calon Mitra Driver wajib memiliki smartphone</p>
-                    <p>2. Calon Mitra wajib memiliki akun e-mail Gmail</p>
-                    <p>3. Memiliki nomor telepon (hp) yang masih aktif</p>
-                    <p>4. Mendownload Aplikasi Roda Indonesia Driver di Playstore</p>
-                    <p>5. Mengisi data diri dan data kendaraan yang akan digunakan pada aplikasi dengan ketentuan:</p>
-                    <p><li>Data Diri:</li></p>
-                    <ul>
-                        <li>• Memiliki KTP aktif dan Wajib Warga Negara Indonesia (WNI)</li>
-                        <li>• Minimal berusia 17 tahun dan maksimal berusia 65 tahun pada saat pendaftaran (tidak diperlukan surat keterangan sehat)</li>
-                        <li>• Mengupload foto KTP aktif (asli)</li>
-                        <li>• Mengupload KTP Resi Disdukcapil wajib dilegalisir dengan cap basah (dapat digunakan sebagai dokumen pengganti apabila E-KTP belum jadi dengan masa berlaku selama 6 (enam) bulan</li>
-                        <li>• Mengupload foto selfie</li>
-                    </ul>
-                    <li>Mengisi Biodata lengkap sesuai dengan KTP, yaitu:</li>
-                    <ul>
-                        <li>• NIK</li>
-                        <li>• Nama Lengkap</li>
-                        <li>• Tempat/Tanggal Lahir</li>
-                        <li>• Jenis Kelamin</li>
-                        <li>• Alamat</li>
-                        <li>• Agama</li>
-                        <li>• Status Perkawinan</li>
-                        <li>• Pekerjaan</li>
-                        <li>• Kewarganegaraan</li>
-                        <li>• Nomor Telepon (HP) Aktif</li>
-                    </ul>
-                </li>
-                <p><li>Memiliki SIM A dengan ketentuan:</li></p>
-                <ul>
-                    <li>• SIM dengan status aktif</li>
-                    <li>• Mengupload foto SIM</li>
-                    <li>• Untuk TNI dan/atau Polri, wajib mengikuti kriteria SIM di atas (tidak boleh menggunakan SIM TNI dan/atau Porli)</li>
-                </ul>
-                <p><li>Data Kendaraan:</li></p>
-                <ul>
-                    <li>1. Mengupload foto STNK dengan ketentuan:
-                        <ul>
-                            <li>• STNK aktif (asli)</li>
-                            <li>• Maksimal tahun keluaran kendaraan 10 tahun (terhitung sejak pendaftaran)</li>
-                            <li>• Memiliki spesifikasi kendaraan R4 dengan minimal kapasitas mesin 900cc</li>
-                        </ul>
-                    </li>
-                    <li>2. Mengupload Foto Kedaraan</li>
-                </ul>
-            </li>
-            <p>6. Mengupload foto Surat Keterangan Catatan Kepolisian (SKCK) dengan ketentuan:
-                <ul>
-                    <li>• Fotokopi SKCK yang telah dilegalisir dengan cap basah</li>
-                    <li>• Khusus TNI dan/atau POLRI dapat digantikan dengan KTA dan Surat Keterangan Pimpinan</li>
-                </ul>
-            </p>
-        </div>
-    </div>
-</div>
-</div>    
-</div>
-</div>
-<div class="card border-danger">
-    <div class="card-header bg-transparent border-danger text-center"><b>RISEND</b></div>
-    <img src="assets/icon/risend.png" class="card-img-top">
-    <div class="card-body">
-        <div class="accordion accordion-flush" id="accordionFlushExample">
-          <div class="accordion-item">
-            <h2 class="accordion-header" id="flush-headingThree">
-              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-                Selengkapnya
-            </button>
-        </h2>
-        <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
-            <div class="accordion-body"> 
-                <p>Syarat & Ketentuan Pengiriman RISEND:</p>
-                <p>Pengguna dapat menggunakan pengiriman RISend dengan ketentuan sebagai berikut: </p>
-                <ol>
-                    <li class="my-1"><b>Layanan RISend</b> terdapat beberapa ketentuan berikut:</li>
-                    <ul>
-                        <li class="my-1">• Waktu Operasional Driver RISend dalam melakukan penjemputan barang adalah mulai pukul 09:00 s.d. 19.00 setiap harinya. Namun, Pembeli tetap perlu memperhatikan waktu operasional (Kebijakan Pengirim) masing-masing Penjual/Pedagang.</li>
-                        <li class="my-1">• Biaya-biaya Pengiriman RISend adalah:</li>
-                        <ul class="my-3">
-                            <li>• Pengiriman pesanan dengan jarak tempuh mulai dari 0 km hingga 10 km dikenakan tarif Rp 15.562/km.</li>
-                            <li>• Pengiriman pesanan dengan jarak tempuh mulai dari 10 km hingga 20 km dikenakan tarif Rp 32.500/km.</li>
-                            <li>• Pengiriman pesanan dengan jarak tempuh mulai dari 20 km hingga 30 km dikenakan tarif Rp 49.500/km.</li>
-                        </ul>
-                    </ul>
-                    <li class="my-1">Biaya kirim RISend adalah total biaya pengiriman barang, maka Pengirim dan/atau Penerima tidak perlu membayarkan biaya tambahan lain selain dari total biaya tersebut.</li>
-                    <li class="my-1">Pengguna memahami dan menyetujui bahwa biaya tambahan lain yang diberikan langsung oleh Pengguna kepada Driver RISend tanpa melalui sistem pembayaran RISend merupakan beban dan tanggung jawab pribadi Pengguna</li>
-                    <li class="my-1">Perlu diperhatikan untuk setiap pergantian alamat pengiriman oleh Penerima hanya bisa dilakukan apabila Pengirim telah membaca atau mendapatkan info dari Penerima untuk membatalkan transaksi sebelum Driver RISend dipanggil (pickup Dirver RISend oleh pengirim).</li>
-                    <li class="my-1">Driver RISend perlu melakukan konfirmasi kepada penerima barang dan atau yang ditunjuk untuk mewakili penerima, lewat chat yang ada pada aplikasi RISend bahwa akan ada pengiriman melalui RISend</li>
-                    <li class="my-1">Ketika Driver RISend sudah berada di Lokasi pengiriman, tidak ada penerima atau yang ditunjuk untuk mewakili penerima (satu rumah), maka driver bisa menekan tombol "bukan penerima barang" yang akan dilanjutkan dengan form isian dan foto dari wakil penerima (lain rumah).</li>
-                    <li class="my-1">Biaya pengiriman saat ini dapat dilakukan secara Non Tunai yang tersedia pada Aplikasi Roda Indonesia.</li>
-                </ol>
-            </div>
-        </div>
-    </div>
-</div>
-</div>
-</div>
-</div>
-&nbsp;     
-<h5><b>Manfaat Mitra Driver</b></h5>
-<hr>
-<h5><b>Cara Daftar</b></h5>
-<div class="row">
-    <section class="how-it-works section-padding">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-8">
-                    <div class="section-title">
-                        <h2>Cara <span>Mendaftar</span></h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-4 col-md-6">
-                    <div class="how-it-works-item line-right">
-                        <div class="step">1</div>
-                        <h3>unduh aplikasi</h3>
-                        <p>Unduh Aplikasi Roda Indonesia yang tersedia secara gratis di Playstore</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="how-it-works-item line-right">
-                        <div class="step">2</div>
-                        <h3>isi data diri</h3>
-                        <p>Daftar dengan mengisi data sesuai dengan identitas diri anda</p>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="how-it-works-item">
-                        <div class="step">3</div>
-                        <h3>gunakan aplikasi</h3>
-                        <p>Nikmati berbagai fitur dan kemudahan yang tersedia di dalam aplikasi Roda Indonesia</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="app-download-btn text-center">
-            <button type="button"  data-bs-target="" class="btn btn-danger download-btn">Daftar Sekarang</button>
-        </div>
-    </section>
-</div>
-</div>
-</div>
-</div>
 </div>
 <!-- Akhir Modal Gabung RI
