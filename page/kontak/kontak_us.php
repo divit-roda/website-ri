@@ -47,11 +47,11 @@
             <hr style="background-color: gainsboro;">
             <div class="row justify-content-center">
                 <div class="col-12 col-md-10 align-self-center pt-4">
-                    <div class="contact-info-item">
+<!--                     <div class="contact-info-item">
                         <i class="ri-pin-distance-fill"></i>
                         <h4>Cabang Utama</h4>
                         <p></p>
-                    </div>
+                    </div> -->
                     <div class="contact-info-item">
                         <i class="ri-mail-send-fill"></i>
                         <h4>Email</h4>
