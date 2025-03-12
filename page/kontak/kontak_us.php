@@ -55,7 +55,7 @@
                     <div class="contact-info-item">
                         <i class="ri-mail-send-fill"></i>
                         <h4>Email</h4>
-                        <p>cs@rodaindonesia.site</p>
+                        <p>cs@rodaindonesia.com</p>
                     </div>
                     <div class="contact-info-item">
                         <i class="ri-phone-fill"></i>
