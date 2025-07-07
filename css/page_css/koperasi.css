@@ -77,16 +77,16 @@
 .privacy .service-features .service-feature-item h3 {
   font-family: "PoppinsFont", sans-serif;
   font-size: 30px;
-  font-weight: bold;
+  color: var(--black-900);
+  font-weight: 500;
   line-height: 140%;
   margin: 20px 0;
-  color: #000;
 }
 .privacy .service-features .service-feature-item h5 {
   font-family: "PoppinsFont", sans-serif;
   font-size: 20px;
+  color: var(--black-900);
   font-weight: bold;
   line-height: 30px;
   margin: 20px 0;
-  color: #000;
 }

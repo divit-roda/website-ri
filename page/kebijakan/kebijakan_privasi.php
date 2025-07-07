@@ -198,7 +198,7 @@
             </p>
         <h5>Kontak</h5>
         <p>Jika anda memiliki pertanyaan atau keluhan sehubungan dengan Kebijakan Privasi ini atau jika anda hendak mengakses dan/atau mengoreksi Informasi Pribadi anda, harap hubungi Customer Service Roda Indoensia:</p>
-        <p>Email: <a href="" class="link-danger">cs@rodaindonesia.site</a></p>
+        <p>Email: <a href="" class="link-danger">cs@rodaindonesia.com</a></p>
 
         <div>
         </div>

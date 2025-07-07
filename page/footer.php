@@ -58,7 +58,7 @@
         <div class="container">
             <div class="row py-4 d-flex align-items-center">
                 <div class="col-md-6 col-lg-5 text-center text-md-start pb-4 pb-md-0">
-                    <span>Copyright &copy; 2021 by <a href="index.php"> Roda Indonesia</a></span>
+                    <span>Copyright &copy; 2025 by <a href="index.php"> Roda Indonesia</a></span>
                 </div>
                 <div class="col-md-6 col-lg-7 text-center text-md-end">
                     <span><a href="?page=kebijakan&sub_page=persyaratan_layanan">Persyaratan Layanan</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="?page=kebijakan&sub_page=kebijakan_privasi">Kebijakan Privasi</a></span>
